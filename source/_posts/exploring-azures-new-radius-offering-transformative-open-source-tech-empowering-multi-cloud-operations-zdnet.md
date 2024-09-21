@@ -1,7 +1,7 @@
 ---
 title: "Exploring Azure's New Radius Offering: Transformative Open Source Tech Empowering Multi-Cloud Operations | ZDNET"
-date: 2024-09-18 18:46:27
-updated: 2024-09-20 11:53:34
+date: 2024-09-17T00:38:08.779Z
+updated: 2024-09-20T19:21:25.814Z
 tags:
   - microsoft
 categories:
@@ -105,11 +105,36 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-best-webcam-accessories-top-10-secure-solutions/"><u>[New] Best Webcam Accessories Top 10 Secure Solutions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-unleashing-creativity-with-aes-best-text-presets/"><u>[New] In 2024, Unleashing Creativity with AE's Best Text Presets</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-webcam-filming-made-professional-in-no-time-for-2024/"><u>[New] Webcam Filming Made Professional in No Time for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-mastering-borders-on-instagrams-short-films/"><u>[Updated] In 2024, Mastering Borders on Instagram's Short Films</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-complete-guide-to-downloading-setting-up-and-using-obs-on-macos/"><u>[Updated] The Complete Guide to Downloading, Setting up and Using OBS on macOS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-cinematic-tools-the-leading-camera-selections/"><u>2024 Approved Cinematic Tools The Leading Camera Selections</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clearing-the-way-for-smooth-steam-disk-operations/"><u>Clearing the Way for Smooth Steam Disk Operations</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/discover-the-top-8-free-internet-voice-capture-apps-plugin-and-account-free-options-available/"><u>Discover the Top 8 Free Internet Voice Capture Apps: Plugin & Account-Free Options Available</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/download-free-wonderfox-professional-dvd-ripper-and-video-converter-application/"><u>Download Free WonderFox: Professional DVD Ripper & Video Converter Application</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/easy-guide-on-free-mp4-to-ogv-conversion-techniques-online/"><u>Easy Guide on Free MP4 to OGV Conversion Techniques Online</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/easy-methods-reduce-length-of-your-sounds-a-step-by-step-guide/"><u>Easy Methods: Reduce Length of Your Sounds - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/guide-recording-dota-2-games-on-pc-two-top-strategies-explained/"><u>Guide: Recording Dota 2 Games on PC - Two Top Strategies Explained</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/how-to-find-and-watch-bafa-brothers-series-without-paying-a-penny/"><u>How to Find and Watch BaFa Brothers Series Without Paying a Penny?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-clearstream-2v-indooroutdoor-antenna-for-hd-tvs-a-stylish-solution-with-superior-performance/"><u>The Ultimate Guide to the ClearStream 2V Indoor/Outdoor Antenna for HD TVs - A Stylish Solution with Superior Performance</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/winx-multimedia-decouvrez-le-coup-de-pouce-ultime-avec-nos-outils-libres-convertisseur-video-ripper-dvd-and-telecharger-facilement/"><u>WinX Multimédia : Découvrez Le Coup De Pouce Ultime Avec Nos Outils Libres - Convertisseur Vidéo, Ripper DVD & Télécharger Facilement</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

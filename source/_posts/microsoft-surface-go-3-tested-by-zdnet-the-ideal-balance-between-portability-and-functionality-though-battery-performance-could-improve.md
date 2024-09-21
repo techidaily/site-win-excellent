@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Surface Go 3 Tested by ZDNet: The Ideal Balance Between Portability and Functionality, Though Battery Performance Could Improve"
-date: 2024-09-17 19:36:13
-updated: 2024-09-20 10:34:37
+date: 2024-09-19T23:35:28.310Z
+updated: 2024-09-20T22:34:04.295Z
 tags:
   - microsoft
 categories:
@@ -83,6 +83,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4\. Pay for Windows 10 Extended Support**
 
 Of course, you could buy support for your Windows 10 machine. Microsoft recently [announced](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/when-to-use-windows-10-extended-security-updates/ba-p/4102628) pricing for its [Extended Security Updates (ESUs) for Windows 10](https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Extended%20Security%20Updates%20%28ESUs%29%20for%20Windows%2010%22%7D), particularly for businesses and educational institutions. Consumer pricing remains unclear.
@@ -125,6 +132,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Conclusion**
 
 Don't trash your old Windows 10 PCs! There are many ways to give them a long, useful life after Microsoft retires them. With ChromeOS Flex and Linux, I've got former Windows PCs more over 10 years old that remain productive machines. Old doesn't mean useless. You just need to be a bit creative.
@@ -159,11 +173,27 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-skyrocketing-fame-here-are-the-top-30-creative-tiktok-usernames/"><u>[New] 2024 Approved Skyrocketing Fame? Here Are the Top 30 Creative TikTok Usernames</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-revel-in-the-best-of-both-worlds-10-meme-feeds-for-chuckles-and-sobs/"><u>[New] In 2024, Revel in the Best of Both Worlds 10 Meme Feeds for Chuckles & Sobs</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-pros-and-cons-delving-into-the-world-of-video-downloading-methods/"><u>[Updated] Pros and Cons Delving Into the World of Video Downloading Methods</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-youtube-to-twitter-share-videos-without-twitting/"><u>[Updated] YouTube to Twitter Share Videos Without Twitting</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/obs-studio/"><u>「OBS Studio」では、録画した映像の保存先がどこになるか確認・変更手順教えて！</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-your-rhythm-top-free-beat-detectors-ready-to-test/"><u>2024 Approved Master Your Rhythm – Top Free Beat Detectors Ready to Test</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/exploring-the-top-10-most-effective-substitutes-to-microsofts-snipping-tool-in-windows-operating-system/"><u>Exploring the Top 10 Most Effective Substitutes to Microsoft's Snipping Tool in Windows Operating System</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/mastering-twitch-broadcasts-essential-strategies-for-high-quality-pc-stream-recording/"><u>Mastering Twitch Broadcasts: Essential Strategies for High-Quality PC Stream Recording</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/no-more-struggles-with-video-format-changes-transforming-vob-to-mp4-via-vlc-easily/"><u>No More Struggles with Video Format Changes: Transforming VOB to MP4 via VLC Easily!</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/pcmp44/"><u>PC上でMP4ビデオの回転角度を変更する4つの優れた方法</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-creating-a-dual-view-clip-using-windows-movie-maker/"><u>Step-by-Step Guide: Creating a Dual View Clip Using Windows Movie Maker</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-restoring-lost-images-from-your-iphoneandroid-device/"><u>Step-by-Step Guide: Restoring Lost Images From Your iPhone/Android Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726030026266-tiktok/"><u>ロゴ無しで効果的にTikTok動画をキャプチャ:ステップバイステップガイド</u></a></li>
+</ul></div>
+
