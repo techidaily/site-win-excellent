@@ -1,7 +1,7 @@
 ---
 title: "Get Ready for Copilot: Microsoft Brings Next-Gen AI Chatbot to Windows 10 Devices"
-date: 2024-09-25T11:52:35.553Z
-updated: 2024-09-29T21:26:57.060Z
+date: 2024-10-03T18:17:04.769Z
+updated: 2024-10-05T16:46:01.192Z
 tags:
   - windows
 categories:
@@ -28,10 +28,10 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 ## How to set up God Mode in Windows 11 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Check your account
@@ -45,13 +45,6 @@ Screenshot by Lance Whitney/ZDNET
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -74,11 +67,31 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -92,10 +105,10 @@ When done, click Next.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Name the shortcut
@@ -109,13 +122,6 @@ Screenshot by Lance Whitney/ZDNET
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -156,19 +162,14 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-becoming-a-social-media-mogul-the-tiktok-fundamentals-for-earning/"><u>[New] Becoming a Social Media Mogul The TikTok Fundamentals for Earning</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-subject-emphasis-background-cleanse/"><u>[New] Subject Emphasis Background Cleanse</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-tecno-spark-20c-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Tecno Spark 20C Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/critical-timeline-for-microsoft-confronting-the-imminent-crisis-in-windows-10-development-with-only-a-year-to-go-zdnet-insights/"><u>Critical Timeline for Microsoft: Confronting the Imminent Crisis in Windows 10 Development With Only a Year to Go | ZDNET Insights</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/evaluating-microsofts-latest-innovation-the-surface-laptop-5-a-mixed-bag-of-emotions-techreviewzdnet/"><u>Evaluating Microsoft's Latest Innovation: The Surface Laptop 5 - A Mixed Bag of Emotions | TechReviewZDNet</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/exploring-microsofts-copilot-a-useful-ai-companion-with-an-advertising-twist-zdnet/"><u>Exploring Microsoft's Copilot: A Useful AI Companion with an Advertising Twist | ZDNet</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/exploring-microsofts-copilot-an-innovative-assistive-ai-or-an-advanced-sales-tactic-insights-and-analysis-technewszdnet/"><u>Exploring Microsoft's Copilot: An Innovative Assistive AI or an Advanced Sales Tactic? Insights & Analysis | TechNewsZDNet</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-leveraging-streamlabs-obs-for-engaging-live-streams/"><u>In 2024, Leveraging Streamlabs OBS for Engaging Live Streams</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-yt-bidirectional-navigating-the-queue-from-the-conclusion-backwards/"><u>In 2024, YT Bidirectional Navigating the Queue From the Conclusion Backwards</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-canon-pixma-mg3620-driver-version-available-for-windows-10817-users/"><u>Latest Canon PIXMA MG3620 Driver Version Available for Windows 10/8.1/7 Users</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/mastering-the-art-of-drop-down-lists-in-microsoft-excel-swift-tips-by-zdnet/"><u>Mastering the Art of Drop-Down Lists in Microsoft Excel – Swift Tips by ZDNet</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/presidents-day-savings-alert-dive-into-microsofts-leading-task-automation-program-for-a-bargain-price-of-20-limited-time-deal/"><u>President's Day Savings Alert! Dive Into Microsoft's Leading Task Automation Program for a Bargain Price of $20 – Limited Time Deal!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-decrypt-viewer-counts-unveiling-instagram-audience-numbers/"><u>[Updated] In 2024, Decrypt Viewer Counts Unveiling Instagram Audience Numbers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-essential-guide-to-androids-best-video-editors-for-2024/"><u>[Updated] The Essential Guide to Android's Best Video Editors for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/capturing-your-screen-with-an-hp-device-a-step-by-step-guide/"><u>Capturing Your Screen with an HP Device: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/intuitive-elearning-software-customizable-for-flexible-education-experiences/"><u>Intuitive eLearning Software: Customizable for Flexible Education Experiences</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leading-virtual-reality-goggles-makers/"><u>Leading Virtual Reality Goggles Makers</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-lava-blaze-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Lava Blaze Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/top-5-leading-ios-screen-mirroring-software-solutions-reviewed/"><u>Top 5 Leading iOS Screen Mirroring Software Solutions Reviewed</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/transferring-data-effortlessly-connecting-your-pc-with-a-galaxy-s-using-wifi-or-usb-cable-methods/"><u>Transferring Data Effortlessly: Connecting Your PC with a Galaxy S # Using WiFi or USB Cable Methods</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ultimate-guide-to-sharper-meeting-experience-with-google/"><u>Ultimate Guide to Sharper Meeting Experience with Google</u></a></li>
 </ul></div>
 

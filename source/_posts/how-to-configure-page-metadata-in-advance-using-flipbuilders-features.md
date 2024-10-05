@@ -1,7 +1,7 @@
 ---
 title: How To Configure Page Metadata in Advance Using FlipBuilder's Features
-date: 2024-09-25T21:57:35.169Z
-updated: 2024-09-29T17:58:16.630Z
+date: 2024-09-30T16:27:39.516Z
+updated: 2024-10-05T19:42:54.681Z
 tags:
   - product
 categories:
@@ -92,10 +92,10 @@ Video Tutorial of Creating Page Flip eBook
 15. 14.Save and Load your project.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## II. Page-flipping multiple PDF eBook features
@@ -130,10 +130,10 @@ With the page-flipping ebook you have created, your book readers will be able to
 [![60%_off_package](https://www.flipbuilder.com/page-flip-ebook/../images/cuoxiao2.jpg)](https://order.shareit.com/cart/add?vendorid=200280251&PRODUCT[300949035]=1) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Flash Player Required
@@ -141,10 +141,16 @@ With the page-flipping ebook you have created, your book readers will be able to
 ![30day_Money_Back](https://www.flipbuilder.com/page-flip-ebook/../images/b123.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Refund Policy
@@ -154,10 +160,10 @@ We want you to be 100% satisfied, so we offer an unconditional 30 Day Money Back
 ![30day_Money_Back](https://www.flipbuilder.com/page-flip-ebook/../images/pro_06_05.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -175,16 +181,18 @@ We want you to be 100% satisfied, so we offer an unconditional 30 Day Money Back
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-optimize-audio-quality-while-recording-lectures-on-apple-devices/"><u>[Updated] In 2024, Optimize Audio Quality While Recording Lectures on Apple Devices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-captivating-cinematic-experience-elevate-video-quality-with-filters-pc-and-mobile/"><u>2024 Approved Captivating Cinematic Experience Elevate Video Quality with Filters (PC & Mobile)</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/all-in-one-strategies-for-ripping-burning-and-copying-audio-and-video-discs-dvds-and-cds/"><u>All-in-One Strategies for Ripping, Burning, and Copying Audio & Video Discs (DVDs & CDs)</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/comparing-features-nokia-video-converter-factory-vs-pro-version/"><u>Comparing Features: Nokia Video Converter Factory Vs. Pro Version</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/comprehensive-tutorial-on-transforming-mkv-files-with-several-audiotracks-into-mp4/"><u>Comprehensive Tutorial on Transforming MKV Files with Several Audiotracks Into MP4</u></a></li>
-<li><a href="https://fox-info.techidaily.com/epic-moments-in-the-race-for-olympic-gold-for-2024/"><u>Epic Moments in the Race for Olympic Gold for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-samsung-photo-editor-review-pros-con-features-and-guide/"><u>In 2024, Samsung Photo Editor Review - Pros, Con, Features, and Guide</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1726029166329-mp37/"><u>MP3ファイルを効率的に編集し整理するためのトップ7ツール</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/new-feature-alert-discover-the-intuitive-widget-on-google-photos-for-android/"><u>New Feature Alert: Discover the Intuitive Widget on Google Photos for Android</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-identity-simple-facial-blur-tactics/"><u>Unveiling Identity Simple Facial Blur Tactics</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1726027881562-1080p/"><u>ビリビリで美しい画質を！1080Pフルハイビジョンに変換するダウンロードガイド</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-8-key-money-making-moves-for-youtube-rookies/"><u>[New] 8 Key Money-Making Moves for YouTube Rookies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-cracked-the-full-screen-hurdle-in-obs/"><u>[Updated] In 2024, Cracked The Full Screen Hurdle in OBS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-guide-to-enhancing-reels-with-harmonious-tunes/"><u>[Updated] The Ultimate Guide to Enhancing Reels with Harmonious Tunes</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Does find my friends work on Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-play-7twithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor Play 7Twith/without a PC</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-madden-19-outstanding-gameplay-amidst-weariness/"><u>In-Depth Analysis of Madden 19: Outstanding Gameplay Amidst Weariness</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-high-tech-components-through-toms-lens/"><u>Navigating the World of High-Tech Components Through Tom's Lens</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/seamless-file-transfer-between-windows-pc-and-android-devices-using-googles-quick-share-tips-and-tricks/"><u>Seamless File Transfer Between Windows PC and Android Devices Using Google's Quick Share - Tips & Tricks</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/securing-your-microsoft-account-expert-tips-on-protection-against-cyber-threats-zdnet/"><u>Securing Your Microsoft Account: Expert Tips on Protection Against Cyber Threats - ZDNet</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/ticking-clock-for-microsoft-the-impending-crisis-of-windows-10-and-the-one-year-solution-marathon/"><u>Ticking Clock for Microsoft: The Impending Crisis of Windows 10 and the One-Year Solution Marathon</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/top-4-common-misconceptions-about-macos-among-windows-users-insights-from-zdnet/"><u>Top 4 Common Misconceptions About macOS Among Windows Users: Insights From ZDNet</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/transitioning-from-microsoft-account-to-local-windows-login-tips-and-strategies/"><u>Transitioning From Microsoft Account to Local Windows Login - Tips & Strategies</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/upgrading-to-windows-pro-understanding-the-advantages-and-process-for-home-users/"><u>Upgrading to Windows Pro: Understanding the Advantages and Process for Home Users</u></a></li>
 </ul></div>
 

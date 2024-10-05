@@ -1,7 +1,7 @@
 ---
 title: How Apple Could Outshine Competitors Like OpenAI & Microsoft in the 2024 WWDC Showdown – Insights From ZDNet
-date: 2024-09-29T00:02:22.437Z
-updated: 2024-09-29T18:23:03.105Z
+date: 2024-10-03T17:41:48.712Z
+updated: 2024-10-05T16:44:20.053Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +148,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +202,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/huckle-trail-your-guide-to-hilarious-online-stars/"><u>[New] Chuckle Trail Your Guide to Hilarious Online Stars</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-simplified-steps-for-capturing-google-voice-calls/"><u>[Updated] Simplified Steps for Capturing Google Voice Calls</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-checklist-for-optimizing-videos-with-pro-tags/"><u>[Updated] The Ultimate Checklist for Optimizing Videos with Pro Tags</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/customizing-your-inbox-comprehensive-guide-to-creating-complex-filters-in-gmail/"><u>Customizing Your Inbox: Comprehensive Guide to Creating Complex Filters in Gmail</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-mix-fold-3-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi Mix Fold 3</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-intel-iris-xe-graphics-drivers-for-windows-1011-free-download/"><u>Latest Intel Iris Xe Graphics Drivers for Windows 10/11 - Free Download</u></a></li>
-<li><a href="https://discover-best.techidaily.com/optimized-with-automated-tracking-the-secret-behind-our-success/"><u>Optimized with Automated Tracking: The Secret Behind Our Success</u></a></li>
-<li><a href="https://some-tips.techidaily.com/quick-and-simple-rmvb-to-wmv-file-transformation-no-cost/"><u>Quick and Simple RMVB to WMV File Transformation - No Cost!</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/step-by-step-how-to-save-your-favorite-songs-from-youtube-music-for-all-devices/"><u>Step-by-Step: How to Save Your Favorite Songs From YouTube Music for All Devices</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-realme-narzo-60x-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Realme Narzo 60x 5G Device</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/top-rated-video-compression-tools-for-windows-10-users/"><u>Top-Rated Video Compression Tools for Windows 10 Users</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/troubleshooting-steps-successfully-repairing-custom-audio-problems-in-your-windows-video-editing-software/"><u>Troubleshooting Steps: Successfully Repairing Custom Audio Problems in Your Windows Video Editing Software</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/ultimate-guide-convert-dvds-to-avi-format-on-windows-11-best-tools-of-2024/"><u>Ultimate Guide: Convert DVDs to Avi Format on Windows 11 - Best Tools of 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-a-new-dawn-for-screen-capturing-apeaksoft-reviewed/"><u>[Updated] 2024 Approved A New Dawn for Screen Capturing Apeaksoft Reviewed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-maximizing-video-impact-with-zoom-in-tiktok/"><u>[Updated] Maximizing Video Impact with Zoom in TikTok</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-obs-screen-recorder-review/"><u>2024 Approved OBS Screen Recorder Review</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/guide-mastering-the-art-of-downloading-igtv-content-for-offline-viewing/"><u>Guide: Mastering the Art of Downloading IGTV Content for Offline Viewing</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/guide-successful-downloads-from-pscfptv-and-periscope-across-macos-and-windows-systems/"><u>Guide: Successful Downloads From PSCFPTV & Periscope Across macOS & Windows Systems</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/how-to-get-the-popular-fake-taxi-file-for-free-as-mp4-avi-or-wmv-videos-at-home/"><u>How To Get The Popular 'Fake Taxi' File for Free as MP4, AVI or WMV Videos at Home</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-k70-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-elevate-your-video-calling-game-with-skype-and-obs/"><u>In 2024, Elevate Your Video Calling Game with Skype & OBS</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-13-mini-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 13 mini When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-xiaomi-redmi-note-13-proplus-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Xiaomi Redmi Note 13 Pro+ 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-pro-tips-for-the-best-pc-snipping-software-of-today/"><u>In 2024, Pro Tips for the Best PC Snipping Software of Today</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/itunes-movie-trailer-extractor-get-your-favorite-apple-films-in-multiple-formats-mp4-wmv-avi/"><u>ITunes Movie Trailer Extractor: Get Your Favorite Apple Films in Multiple Formats (MP4, WMV, AVI)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mediamastery-with-winx-mediatrans-a-comprehensive-tutorial-on-transforming-your-multimedia-collection/"><u>MediaMastery with WinX MediaTrans: A Comprehensive Tutorial on Transforming Your Multimedia Collection</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/seamless-integration-syncing-your-sandisk-mp3-player-with-spotify-a-step-by-step-guide/"><u>Seamless Integration: Syncing Your SanDisk MP3 Player with Spotify - A Step-by-Step Guide</u></a></li>
 </ul></div>
 

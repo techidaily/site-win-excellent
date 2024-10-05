@@ -1,7 +1,7 @@
 ---
 title: "Exploring Microsoft's Copilot: A Useful AI Companion with an Advertising Twist | ZDNet"
-date: 2024-09-27T19:05:09.108Z
-updated: 2024-09-29T21:47:23.263Z
+date: 2024-10-03T16:49:02.534Z
+updated: 2024-10-05T18:27:08.642Z
 tags:
   - microsoft
 categories:
@@ -114,29 +114,24 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-your-guide-to-selecting-top-ranked-android-simulators-macpc/"><u>[New] In 2024, Your Guide to Selecting Top-Ranked Android Simulators (Mac/PC)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-discovering-the-superiority-of-apples-m1-macbooks-for-2024/"><u>[Updated] Discovering the Superiority of Apple's M1 MacBooks for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/best-free-mobile-editing-aids-to-elevate-your-images-quality-for-2024/"><u>Best FREE Mobile Editing Aids to Elevate Your Image's Quality for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/creative-writing-revolutionized-discover-these-6-methods-of-leveraging-chatgpt/"><u>Creative Writing Revolutionized: Discover These 6 Methods of Leveraging ChatGPT</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/essential-basics-of-creating-compelling-haul-content/"><u>Essential Basics of Creating Compelling Haul Content</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-soundmax-audio-driver-downloaded-and-running-in-no-time/"><u>Get Your SoundMax Audio Driver Downloaded and Running in No Time</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/guide-mastering-the-art-of-downloading-igtv-content-for-offline-viewing/"><u>Guide: Mastering the Art of Downloading IGTV Content for Offline Viewing</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/guide-successful-downloads-from-pscfptv-and-periscope-across-macos-and-windows-systems/"><u>Guide: Successful Downloads From PSCFPTV & Periscope Across macOS & Windows Systems</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/how-to-get-the-popular-fake-taxi-file-for-free-as-mp4-avi-or-wmv-videos-at-home/"><u>How To Get The Popular 'Fake Taxi' File for Free as MP4, AVI or WMV Videos at Home</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oneplus-12r-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your OnePlus 12R</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/itunes-movie-trailer-extractor-get-your-favorite-apple-films-in-multiple-formats-mp4-wmv-avi/"><u>ITunes Movie Trailer Extractor: Get Your Favorite Apple Films in Multiple Formats (MP4, WMV, AVI)</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/seamless-integration-syncing-your-sandisk-mp3-player-with-spotify-a-step-by-step-guide/"><u>Seamless Integration: Syncing Your SanDisk MP3 Player with Spotify - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-converting-apple-daily-podcasts-into-mp4-format-for-pc-and-mac/"><u>Step-by-Step Guide: Converting Apple Daily Podcasts Into MP4 Format for PC & Mac</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-converting-vidio-files-to-mp4-format-for-pc-and-mac-users/"><u>Step-by-Step Guide: Converting Vidio Files to MP4 Format for PC & Mac Users</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-converting-ximalaya-audio-downloads-into-mp3-format-for-pc-and-mac-users/"><u>Step-by-Step Guide: Converting Ximalaya Audio Downloads Into MP3 Format for PC & Mac Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-5-mobile-apps-for-accurate-plant-recognition-on-android-devices/"><u>Top 5 Mobile Apps for Accurate Plant Recognition on Android Devices</u></a></li>
-<li><a href="https://win-dash.techidaily.com/troubleshoot-your-logitech-m525-with-proven-software-solutions-free-driver-downloads/"><u>Troubleshoot Your Logitech M525 with Proven Software Solutions - Free Driver Downloads</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-nanorecording-app-critique-with-backup-choices/"><u>[Updated] 2024 Approved NanoRecording App Critique with Backup Choices</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-essential-editing-techniques-for-yt-channel-summaries/"><u>2024 Approved Essential Editing Techniques for YT Channel Summaries</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/azure-expands-reach-with-radius-the-innovative-open-source-engine-driving-todays-multi-cloud-ecosystem-zdnet/"><u>Azure Expands Reach with Radius: The Innovative, Open-Source Engine Driving Today's Multi-Cloud Ecosystem | ZDNET</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-realme-11-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Realme 11 5G</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/enhance-your-document-creation-in-microsoft-365-using-new-copilot-features-achieve-professional-writing-effortlessly-zdnet/"><u>Enhance Your Document Creation in Microsoft 365 Using New Copilot Features - Achieve Professional Writing Effortlessly | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-speed-danger-graphics-failure/"><u>High Speed Danger: Graphics Failure</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/how-apple-could-outshine-competitors-like-openai-and-microsoft-in-the-2024-wwdc-showdown-insights-from-zdnet/"><u>How Apple Could Outshine Competitors Like OpenAI & Microsoft in the 2024 WWDC Showdown – Insights From ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-motorola-moto-g-stylus-2023-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Motorola Moto G Stylus (2023) Phone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-master-the-art-of-sharing-gaming-moments-xboxfb-livestream/"><u>In 2024, Master the Art of Sharing Gaming Moments Xbox/FB Livestream</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/is-paying-for-chatgpt-plus-a-smart-investment-a-comparative-analysis-with-standard-chatgpt-zdnet-reviews/"><u>Is Paying for ChatGPT Plus a Smart Investment? A Comparative Analysis with Standard ChatGPT | ZDNET Reviews</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/microsoft-intensifies-restrictions-windows-11-updates-blocked-on-incompatible-devices-technewszdnet/"><u>Microsoft Intensifies Restrictions: Windows 11 Updates Blocked on Incompatible Devices | TechNewsZDNet</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-level-up-videos-by-applying-keyframe-like-a-pro-for-2024/"><u>Updated Level Up Videos By Applying Keyframe Like A Pro for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Surface Go 3 Tested by ZDNet: The Ideal Balance Between Portability and Functionality, Though Battery Performance Could Improve"
-date: 2024-09-29T13:05:20.984Z
-updated: 2024-09-30T07:08:04.665Z
+date: 2024-10-03T20:22:12.084Z
+updated: 2024-10-05T23:29:35.896Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +89,19 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,10 +142,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,24 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-detailed-tutorial-on-screen-capturing-in-online-meetings-google/"><u>[Updated] Detailed Tutorial on Screen Capturing in Online Meetings (Google)</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-from-observer-to-participant-enrich-your-online-experience-with-fb/"><u>[Updated] From Observer to Participant Enrich Your Online Experience with FB</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-3dr-one-persons-guide-to-a-futuristic-tech/"><u>[Updated] In 2024, '3DR' One Person’s Guide to a Futuristic Tech</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-top-20-action-recording-solutions-summary-for-2024/"><u>[Updated] Top 20 Action Recording Solutions Summary for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/content-creation-in-todays-revenue-landscape-for-2024/"><u>Content Creation in Today’s Revenue Landscape for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-overcoming-excessive-cpu-use-by-wudfhostexe-in-windows-10-systems/"><u>Effective Solutions for Overcoming Excessive CPU Use by wudfhost.exe in Windows 10 Systems</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/excellent-8-tripods-ideal-for-4k-camera-shooting/"><u>Excellent 8 Tripods Ideal for 4K Camera Shooting</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/exploring-microsofts-copilot-a-useful-ai-companion-with-an-advertising-twist-zdnet/"><u>Exploring Microsoft's Copilot: A Useful AI Companion with an Advertising Twist | ZDNet</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/exploring-microsofts-copilot-an-innovative-assistive-ai-or-an-advanced-sales-tactic-insights-and-analysis-technewszdnet/"><u>Exploring Microsoft's Copilot: An Innovative Assistive AI or an Advanced Sales Tactic? Insights & Analysis | TechNewsZDNet</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/mastering-the-art-of-drop-down-lists-in-microsoft-excel-swift-tips-by-zdnet/"><u>Mastering the Art of Drop-Down Lists in Microsoft Excel – Swift Tips by ZDNet</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/presidents-day-savings-alert-dive-into-microsofts-leading-task-automation-program-for-a-bargain-price-of-20-limited-time-deal/"><u>President's Day Savings Alert! Dive Into Microsoft's Leading Task Automation Program for a Bargain Price of $20 – Limited Time Deal!</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/quick-and-quality-guide-to-duplicate-your-oldnew-dvds-within-5-mins/"><u>Quick & Quality Guide to Duplicate Your Old/New DVDs Within 5 Mins!</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/revolutionizing-workplace-collaboration-microsoft-empowers-staff-with-enhanced-teams-features/"><u>Revolutionizing Workplace Collaboration: Microsoft Empowers Staff with Enhanced Teams Features</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-reverting-from-windows-11-back-to-windows-10-with-surprising-restrictions-tech-insights-by-zdnet/"><u>Step-by-Step Guide: Reverting From Windows 11 Back to Windows 10 with Surprising Restrictions | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/steve-ballmer-microsofts-former-leader-reveals-lack-of-boldness-insights-from-zdnet/"><u>Steve Ballmer, Microsoft's Former Leader, Reveals Lack of Boldness – Insights From ZDNet</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/to-maintain-a-peg-a-country-must-hold-large-foreign-reserves-and-may-need-to-adjust-domestic-interest-rates-accordingly/"><u>To Maintain a Peg, a Country Must Hold Large Foreign Reserves and May Need to Adjust Domestic Interest Rates Accordingly.</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/turko-korean-discourse-dynamics/"><u>Turko-Korean Discourse Dynamics</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/upcoming-change-microsoft-to-introduce-fees-for-windows-11-updates-what-you-need-to-know/"><u>Upcoming Change: Microsoft to Introduce Fees for Windows 11 Updates - What You Need To Know!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-concept-to-creation-crafting-youtube-video-splits/"><u>[New] 2024 Approved From Concept to Creation Crafting YouTube Video Splits</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-expert-tips-crafting-compelling-facebook-ad-videos/"><u>[New] Expert Tips Crafting Compelling Facebook Ad Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-in-pursuit-of-professional-clarity-unveiling-benqs-bl2711u-screen-tech/"><u>[New] In 2024, In Pursuit of Professional Clarity Unveiling BenQ's BL2711U Screen Tech</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-premier-selection-of-vr-cycling-options/"><u>[Updated] 2024 Approved The Premier Selection of VR Cycling Options</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-win-audio-experience/"><u>[Updated] Exclusive Win Audio Experience</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/5-essential-audio-editing-tools-as-great-substitutes-for-audacity-you-cant-miss/"><u>5 Essential Audio Editing Tools as Great Substitutes for Audacity You Can't Miss</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/capturing-your-screen-on-asus-zenfone-models-a-step-by-step-guide/"><u>Capturing Your Screen on ASUS ZenFone Models: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/converti-file-voc-in-formato-mp4-per-libero-uso-gratuito-movavi/"><u>Converti File VOC in Formato MP4 per Libero Uso Gratuito - Movavi</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/guide-to-reflecting-your-macs-display-on-a-roku-device/"><u>Guide to Reflecting Your Mac's Display on a Roku Device</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-iphone-6s-plus-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove iPhone 6s Plus Face ID?</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-infinix-note-30-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/mobile-app-for-removing-watermarks-from-online-videos/"><u>Mobile App for Removing Watermarks From Online Videos</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/most-effective-strategies-for-transforming-midi-files-into-high-quality-mp3s/"><u>Most Effective Strategies for Transforming MIDI Files Into High-Quality MP3s</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/quick-guide-adding-srt-captions-seamlessly-to-mp4-file-format/"><u>Quick Guide: Adding SRT Captions Seamlessly to MP4 File Format</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/seizing-youtubes-algorithm-advantage-with-smart-seo-tactics-for-2024/"><u>Seizing YouTube's Algorithm Advantage with Smart SEO Tactics for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/the-ultimate-tutorial-on-modifying-your-videos-pace-and-speed-control-techniques/"><u>The Ultimate Tutorial on Modifying Your Video's Pace and Speed Control Techniques</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/top-methods-for-seamless-mp3-downloads-on-your-android-device/"><u>Top Methods for Seamless MP3 Downloads on Your Android Device</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/top-ranking-photo-slideshow-creators-with-native-support-on-windows-10/"><u>Top-Ranking Photo Slideshow Creators with Native Support on Windows 10</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/yt-insider-tips-from-chroma-keying-to-cinematic-creations-for-2024/"><u>YT Insider Tips From Chroma Keying to Cinematic Creations for 2024</u></a></li>
 </ul></div>
 

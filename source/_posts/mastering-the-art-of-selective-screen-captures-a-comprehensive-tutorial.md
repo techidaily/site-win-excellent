@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Selective Screen Captures: A Comprehensive Tutorial"
-date: 2024-09-22T21:35:05.800Z
-updated: 2024-09-29T18:57:39.756Z
+date: 2024-10-03T19:11:00.180Z
+updated: 2024-10-05T22:46:30.606Z
 tags:
   - product
 categories:
@@ -47,15 +47,22 @@ Action Tutorials
  Share this tutorial:
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Introduction
 
  With **Mirillis Action!** you can easily **capture screenshots** of selected Windows desktop region. Just press a button and screenshots of your selected desktop region will be saved directly to JPG, BMP or PNG format.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Select Active desktop region mode
 
@@ -64,10 +71,10 @@ Action Tutorials
 ![Mirillis Action! - active desktop region recording mode](https://mirillis.com/res/old/gfx/tutorials/screenshots/mirillis_action_tutorial_active_desktop_region_recording_mode.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Adjust region size and position
@@ -75,26 +82,6 @@ Action Tutorials
  Use mouse to adjust your region size and position. You can precisely control region size and position with keyboard: use **arrows** to move region, use **SHIFT + arrows** to resize region. Green region frame indicates that region is accepted and Action! is ready to capture screenshots. Gray frame indicates that current region is not accepted and you cannot capture screenshots.
 
 ![Mirillis Action! - selecting desktop region](https://mirillis.com/res/old/gfx/tutorials/screenshots/mirillis_action_tutorial_active_desktop_region_selecting_region.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Capture screenshot
 
@@ -107,6 +94,13 @@ Action Tutorials
  Close **"Active desktop region/area"** recording mode to show main Action! window. Select **"Screenshots"** tab to check the list of your screenshots, double click on the screenshot thumbnail to open screenshot preview. 
 
 ![Mirillis Action! - list of screenshots](https://mirillis.com/res/old/gfx/tutorials/screenshots/mirillis_action_tutorial_capture_screenshots_view.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Settings: File format**  
  Allows to select one of available output file formats: BMP, PNG, JPG. 
@@ -129,24 +123,22 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-enhance-social-gaming-experience-xbox-to-fb-livestream-for-2024/"><u>[New] Enhance Social Gaming Experience Xbox to FB Livestream for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-buzz-on-twitter-top-10-viral-tweets/"><u>[New] In 2024, The Buzz on Twitter Top 10 Viral Tweets</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-dancefloor-directives-expert-dj-video-downloads-for-2024/"><u>[Updated] Dancefloor Directives Expert DJ Video Downloads for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-depth-look-at-screenrec-your-laptops-best-friend-for-2024/"><u>[Updated] In-Depth Look at ScreenRec Your Laptop's Best Friend for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1-why-cant-i-import-hevc-video-files-into-adobe-premiere-pro-solution-found/"><u>1. Why Can't I Import HEVC Video Files Into Adobe Premiere Pro - Solution Found</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-peek-at-the-finest-laptops-from-ifa-2023/"><u>A Peek at the Finest Laptops From IFA 2023</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-9-destinations-enjoying-preschool-entertainment-on-the-house/"><u>Best 9 Destinations: Enjoying Preschool Entertainment on the House</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/french-greetings-how-to-say-hello-in-french/"><u>French Greetings: How To Say Hello In French</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-seamless-time-manipulation-for-professional-videos/"><u>[New] 2024 Approved Seamless Time Manipulation for Professional Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-precision-videoplayers-for-high-definition-on-android/"><u>[New] Precision Videoplayers for High Definition on Android</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-revamping-your-tiktok-videos-top-3-background-changing-methods-for-2024/"><u>[New] Revamping Your TikTok Videos Top 3 Background Changing Methods for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-crafting-captivating-stories-on-fb-a-comprehensive-guide-to-bio-crafting/"><u>[Updated] Crafting Captivating Stories on FB A Comprehensive Guide to Bio Crafting</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/convert-your-pdfs-into-dynamic-flipbooks-with-automated-pages-extraction-features/"><u>Convert Your PDFs Into Dynamic FlipBooks with Automated Pages Extraction Features</u></a></li>
 <li><a href="https://win-excellent.techidaily.com/how-to-extract-flipbook-statistics-with-google-analytics-a-comprehensive-guide/"><u>How to Extract Flipbook Statistics with Google Analytics - A Comprehensive Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-infinix-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Infinix</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-leveraging-imovies-power-for-youtube-presence-and-growth/"><u>In 2024, Leveraging IMovie's Power for YouTube Presence and Growth</u></a></li>
 <li><a href="https://win-excellent.techidaily.com/naming-strategies-for-your-automated-flipbook-design-tool-insights-from-flipbuildercom/"><u>Naming Strategies for Your Automated Flipbook Design Tool - Insights From FlipBuilder.com</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997022114-poison-control-centers-can-provide-valuable-guidance-on-the-management-of-various-poisoning-scenarios/"><u>Poison Control Centers Can Provide Valuable Guidance on the Management of Various Poisoning Scenarios</u></a></li>
 <li><a href="https://win-excellent.techidaily.com/quick-guide-to-locating-necessary-buttons-on-flipbuilders-platform/"><u>Quick Guide to Locating Necessary Buttons on FlipBuilder's Platform</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/revolutionary-sleep-and-activity-tracking-with-the-new-oura-ring-gen-3-comprehensive-user-review/"><u>Revolutionary Sleep & Activity Tracking with the New Oura Ring Gen 3 - Comprehensive User Review</u></a></li>
+<li><a href="https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Tecno Spark 20C | Dr.fone</u></a></li>
 <li><a href="https://win-excellent.techidaily.com/step-by-step-guide-creating-branded-flipbooks-using-flipbuilder/"><u>Step-by-Step Guide: Creating Branded Flipbooks Using FlipBuilder</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/step-by-step-how-to-save-your-favorite-songs-from-youtube-music-for-all-devices/"><u>Step-by-Step: How to Save Your Favorite Songs From YouTube Music for All Devices</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/top-rated-video-compression-tools-for-windows-10-users/"><u>Top-Rated Video Compression Tools for Windows 10 Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-secure-authorization-failures-fixing-401-problems-efficiently/"><u>Troubleshooting Secure Authorization Failures: Fixing 401 Problems Efficiently</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/troubleshooting-steps-successfully-repairing-custom-audio-problems-in-your-windows-video-editing-software/"><u>Troubleshooting Steps: Successfully Repairing Custom Audio Problems in Your Windows Video Editing Software</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-tutorial-on-allowing-readers-to-print-your-ebook-pages-using-flipbuilder-platform/"><u>Step-by-Step Tutorial on Allowing Readers to Print Your eBook Pages Using FlipBuilder Platform</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/transforming-text-into-interactive-digital-magazines-can-flipbuilder-make-your-pages-more-engaging-and-readable/"><u>Transforming Text Into Interactive Digital Magazines: Can FlipBuilder Make Your Pages More Engaging and Readable?</u></a></li>
 <li><a href="https://win-excellent.techidaily.com/ultimate-guide-to-the-top-10-free-mov-viewer-software-compatible-with-all-devices/"><u>Ultimate Guide to the Top 10 Free MOV Viewer Software Compatible with All Devices</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/ultimate-guide-convert-dvds-to-avi-format-on-windows-11-best-tools-of-2024/"><u>Ultimate Guide: Convert DVDs to Avi Format on Windows 11 - Best Tools of 2024</u></a></li>
 </ul></div>
 

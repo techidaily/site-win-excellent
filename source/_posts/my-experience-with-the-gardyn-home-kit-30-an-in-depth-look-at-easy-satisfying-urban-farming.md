@@ -1,7 +1,7 @@
 ---
 title: My Experience with the Gardyn Home Kit 3.0 - An In-Depth Look at Easy, Satisfying Urban Farming
-date: 2024-09-26T23:50:09.858Z
-updated: 2024-09-30T01:56:04.436Z
+date: 2024-10-01T21:49:32.293Z
+updated: 2024-10-05T21:57:49.051Z
 tags:
   - office-furniture
 categories:
@@ -51,10 +51,10 @@ We've had the Gardyn for about two months and our first harvest is upon us. How 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Setting up the Gardyn
@@ -73,6 +73,19 @@ The setup itself isn't complicated but it is involved. You're basically assembli
 
 Pro tip: Set this thing up in the location where it'll end up. I thought I was doing that, but once I had the Gardyn standing in front of me in its full glory, I realized it wasn't going to work in our boat's upstairs common area. Instead, it would be relegated to the engine room downstairs, where it would freshen the air even as our big Caterpillar diesel churned away.
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How its technology works
 
 Gardyn employs what it calls Hybriponic technology, a riff on "Hydroponic," which is the generic term for growing plants in water without the use of soil.
@@ -88,13 +101,6 @@ We're keeping our Gardyn 3.0 in the engine room. It makes for quite a contrast, 
 Greg Nichols/ZDNET
 
 The coolest feature is also the one that's easiest to miss. The built-in cameras monitor plant growth and optimize the schedule based on your garden. The system can tell how fast your plants are growing and customize the light and watering cycle to suit your specific garden. This is vastly more powerful than simple timer-based devices.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## App experience 
 
@@ -116,13 +122,6 @@ One cool feature is that you can view your plants in real-time in your app throu
 
 The app's plant book allows for some great discoverability. I wasn't familiar with borage, for example, but look forward to growing the edible flower. 
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## A quibble
 
 Overall I'm really impressed with the Gardyn Home Kit 3.0 and plan to use it onboard Lindy for years to come. But I do have some notes.
@@ -134,10 +133,10 @@ Lining up the tower as it's lifted back onto the base after cleaning has consist
 [Gardyn Home Kit 3.0 $695 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJS4YMNQ%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0503a576-8e29-4062-9d22-75ea4580228b%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line 
@@ -147,6 +146,13 @@ At the end of the day, I'm very impressed with the [Gardyn Home Kit 3.0](https:/
 Despite my quibbles above, this ranks as an impressive and [powerful home-growing system](https://www.zdnet.com/home-and-office/kitchen-household/best-indoor-garden/) for a wide variety of vegetables. The company's technology is first-rate, and while setup is a chore and water changes can be cumbersome, the proof is in the pudding. I'm getting garden fresh greens and veggies in the belly of our old boat. It's so cool being anchored off the Channel Islands here in Southern California with fresh greens for dinner waiting to be harvested below. 
 
 If you don't have outdoor space but want to grow a large quantity and variety of plants and herbs, this system should definitely be on your radar.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider 
 
@@ -192,20 +198,20 @@ A single growing stand that's expandable to 36 plants for a legit indoor farm.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-your-channels-popularity-with-12-key-growth-techniques/"><u>[New] 2024 Approved Elevate Your Channel's Popularity with 12 Key Growth Techniques</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-aerial-cutting-edge-the-ultimate-drone-editing-comparison/"><u>[New] Aerial Cutting Edge The Ultimate Drone Editing Comparison</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-streamline-your-filming-process-the-ultimate-logitech-camera-tutorials/"><u>[New] In 2024, Streamline Your Filming Process - The Ultimate Logitech Camera Tutorials</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-basics-to-breakthroughs-the-ultimate-strategy-for-youtube-advertising-success/"><u>[Updated] In 2024, From Basics to Breakthroughs The Ultimate Strategy for YouTube Advertising Success</u></a></li>
-<li><a href="https://solve-news.techidaily.com/avi-tot-mkv-vervangen-met-overwinninglijke-gratis-websites-zeerbekijken-voor-movavi/"><u>AVI Tot MKV Vervangen Met Overwinninglijke Gratis Websites - Zeerbekijken Voor Movavi</u></a></li>
-<li><a href="https://extra-information.techidaily.com/canva-enthusiasts-reveal-their-top-10-editor-steps-for-2024/"><u>Canva Enthusiasts Reveal Their Top 10 Editor Steps for 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/download-your-favorite-izlesene-videos-as-high-quality-mp4-or-avi-files/"><u>Download Your Favorite Izlesene Videos as High-Quality MP4 or AVI Files</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/easy-guide-to-downloading-and-converting-snotr-videos-into-multiple-file-types-such-as-mp4-mov-avi-etc/"><u>Easy Guide to Downloading and Converting Snotr Videos Into Multiple File Types Such as MP4, MOV, AVI, Etc.</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/easy-movie-conversion-tools-for-macwindows-users-to-save-movies-in-various-formats-like-mp4-mov-avi/"><u>Easy Movie Conversion Tools for Mac/Windows Users to Save Movies in Various Formats Like MP4, MOV, AVI</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/get-the-9now-app-watch-and-save-shows-from-9nowcomau-for-free-compatible-with-mac-and-pc/"><u>Get the 9NOW App: Watch and Save Shows From 9now.com.au for Free – Compatible with Mac & PC</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/guide-converting-and-downloading-docmeded-tutorials-in-multiple-formats-mp4-mp3-mov-avi/"><u>Guide: Converting and Downloading DocmedEd Tutorials in Multiple Formats (MP4, MP3, MOV, AVI)</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/guide-downloading-all-episodes-of-the-big-bang-theory-for-personal-use-at-no-cost/"><u>Guide: Downloading All Episodes of The Big Bang Theory for Personal Use at No Cost</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/guide-mastering-the-art-of-downloading-igtv-content-for-offline-viewing/"><u>Guide: Mastering the Art of Downloading IGTV Content for Offline Viewing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-huawei-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Huawei to Protect Your Individual Information</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-best-video-translator-app-for-pc-you-cannot-miss/"><u>Updated 2024 Approved Best Video Translator App for PC You Cannot Miss</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-decoding-youtube-analytics-insights-for-every-content-creator-for-2024/"><u>[Updated] Decoding YouTube Analytics Insights for Every Content Creator for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-innovative-mobile-layering-apps-for-android-and-iphone/"><u>[Updated] Top 10 Innovative Mobile Layering Apps for Android & iPhone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-elevate-vlogging-quality-the-ultimate-12-recommended-cam-picks/"><u>2024 Approved Elevate Vlogging Quality - The Ultimate 12 Recommended Cam Picks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/elevate-your-game-on-instagram-5-key-tactics-for-top-tier-influencers-for-2024/"><u>Elevate Your Game on Instagram 5 Key Tactics for Top-Tier Influencers for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/guide-to-reflecting-your-macs-display-on-a-roku-device/"><u>Guide to Reflecting Your Mac's Display on a Roku Device</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/how-to-retrieve-deleted-songs-on-your-iphone-effective-techniques-for-music-recovery/"><u>How To Retrieve Deleted Songs on Your iPhone: Effective Techniques for Music Recovery</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ideal-framework-top-20-most-engaging-github-and-chatgpt-dialogues/"><u>Ideal Framework: Top 20 Most Engaging Github and ChatGPT Dialogues</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-from-novice-to-pro-creating-snapchat-boomers/"><u>In 2024, From Novice to Pro Creating Snapchat Boomers</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/mobile-app-for-removing-watermarks-from-online-videos/"><u>Mobile App for Removing Watermarks From Online Videos</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/most-effective-strategies-for-transforming-midi-files-into-high-quality-mp3s/"><u>Most Effective Strategies for Transforming MIDI Files Into High-Quality MP3s</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/quick-guide-adding-srt-captions-seamlessly-to-mp4-file-format/"><u>Quick Guide: Adding SRT Captions Seamlessly to MP4 File Format</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/seamless-experience-transferring-iphone-content-onto-hisense-smart-tvs/"><u>Seamless Experience: Transferring iPhone Content Onto Hisense Smart TVs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/snap-and-crop-utilizing-iphones-image-editing-capabilities-for-2024/"><u>Snap & Crop Utilizing iPhone’s Image Editing Capabilities for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-science-of-simulated-conversations-understanding-chatbot-communication-skills/"><u>The Science of Simulated Conversations: Understanding Chatbot Communication Skills</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/unlock-the-secrets-free-downloads-of-popular-game-music-and-soundtracks/"><u>Unlock the Secrets: Free Downloads of Popular Game Music & Soundtracks!</u></a></li>
 </ul></div>
 
