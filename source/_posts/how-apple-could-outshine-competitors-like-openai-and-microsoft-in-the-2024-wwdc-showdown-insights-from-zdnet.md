@@ -1,7 +1,7 @@
 ---
 title: How Apple Could Outshine Competitors Like OpenAI & Microsoft in the 2024 WWDC Showdown – Insights From ZDNet
-date: 2024-10-03T17:41:48.712Z
-updated: 2024-10-05T16:44:20.053Z
+date: 2024-10-07T11:23:39.877Z
+updated: 2024-10-11T11:32:02.078Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,19 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -135,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -149,15 +136,28 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,19 +202,14 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-a-new-dawn-for-screen-capturing-apeaksoft-reviewed/"><u>[Updated] 2024 Approved A New Dawn for Screen Capturing Apeaksoft Reviewed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-maximizing-video-impact-with-zoom-in-tiktok/"><u>[Updated] Maximizing Video Impact with Zoom in TikTok</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-obs-screen-recorder-review/"><u>2024 Approved OBS Screen Recorder Review</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/guide-mastering-the-art-of-downloading-igtv-content-for-offline-viewing/"><u>Guide: Mastering the Art of Downloading IGTV Content for Offline Viewing</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/guide-successful-downloads-from-pscfptv-and-periscope-across-macos-and-windows-systems/"><u>Guide: Successful Downloads From PSCFPTV & Periscope Across macOS & Windows Systems</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/how-to-get-the-popular-fake-taxi-file-for-free-as-mp4-avi-or-wmv-videos-at-home/"><u>How To Get The Popular 'Fake Taxi' File for Free as MP4, AVI or WMV Videos at Home</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-k70-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-elevate-your-video-calling-game-with-skype-and-obs/"><u>In 2024, Elevate Your Video Calling Game with Skype & OBS</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-13-mini-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 13 mini When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-xiaomi-redmi-note-13-proplus-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Xiaomi Redmi Note 13 Pro+ 5G Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-pro-tips-for-the-best-pc-snipping-software-of-today/"><u>In 2024, Pro Tips for the Best PC Snipping Software of Today</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/itunes-movie-trailer-extractor-get-your-favorite-apple-films-in-multiple-formats-mp4-wmv-avi/"><u>ITunes Movie Trailer Extractor: Get Your Favorite Apple Films in Multiple Formats (MP4, WMV, AVI)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mediamastery-with-winx-mediatrans-a-comprehensive-tutorial-on-transforming-your-multimedia-collection/"><u>MediaMastery with WinX MediaTrans: A Comprehensive Tutorial on Transforming Your Multimedia Collection</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/seamless-integration-syncing-your-sandisk-mp3-player-with-spotify-a-step-by-step-guide/"><u>Seamless Integration: Syncing Your SanDisk MP3 Player with Spotify - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-secrets-to-flawless-hdr-image-creation-and-merging-in-lightroom-for-2024/"><u>[Updated] The Secrets to Flawless HDR Image Creation and Merging in Lightroom for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-tones-where-to-access-google-pixel-music/"><u>[Updated] Top Tones Where to Access Google Pixel Music?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-sci-fi-vr-adventures-new-realms-unveiled/"><u>2024 Approved Top 10 Sci-Fi VR Adventures New Realms Unveiled</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/guide-recording-dota-2-games-on-pc-two-top-strategies-explained/"><u>Guide: Recording Dota 2 Games on PC - Two Top Strategies Explained</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/how-to-find-and-watch-bafa-brothers-series-without-paying-a-penny/"><u>How to Find and Watch BaFa Brothers Series Without Paying a Penny?</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/how-to-record-your-beyond-live-broadcasts-effectively-on-screen/"><u>How to Record Your Beyond Live Broadcasts Effectively on Screen</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/profit-proliferation-through-effective-youtube-short-video-creation-for-2024/"><u>Profit Proliferation Through Effective YouTube Short Video Creation for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-to-adding-the-latest-wrestling-channel-add-on-in-kodi/"><u>Step-by-Step Guide to Adding the Latest Wrestling Channel Add-On in Kodi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-innovators-defining-next-gen-vr-experiences-for-2024/"><u>Top Innovators Defining Next-Gen VR Experiences for 2024</u></a></li>
 </ul></div>
 

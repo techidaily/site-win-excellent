@@ -1,7 +1,7 @@
 ---
 title: Why Concerns About Your Windows License's Authenticity Matter - Insights From ZDNet
-date: 2024-10-02T17:37:53.171Z
-updated: 2024-10-05T16:30:42.108Z
+date: 2024-10-06T09:24:10.239Z
+updated: 2024-10-11T09:43:39.045Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,19 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +97,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +148,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-panzoid-leaders-choice-best-newcomer-lists/"><u>[New] 2024 Approved Panzoid Leaders' Choice Best Newcomer Lists</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-new-horizons-top-5-samsung-gear-vr-games/"><u>[New] Exploring New Horizons - Top 5 Samsung Gear VR Games</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-optimizing-visual-experience-enabling-auto-hdr-on-windows-11/"><u>[New] In 2024, Optimizing Visual Experience Enabling Auto HDR on Windows 11</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-sew-your-way-to-success-an-advanced-guide-to-tiktok-videos/"><u>[Updated] In 2024, Sew Your Way to Success An Advanced Guide to TikTok Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-interactive-learning-activities/"><u>[Updated] Interactive Learning Activities</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/comprehensive-guide-mastering-the-art-of-broadcasting-live-radio/"><u>Comprehensive Guide: Mastering the Art of Broadcasting Live Radio</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/discover-the-finest-ocr-applications-compatible-with-windows-a-comprehensive-guide-to-free-and-subscription-based-software/"><u>Discover the Finest OCR Applications Compatible with Windows 지급인: A Comprehensive Guide to Free and Subscription-Based Software</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploring-the-most-advanced-law-enforcement-wearables/"><u>Exploring the Most Advanced Law Enforcement Wearables</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/free-conversion-guide-changing-file-format-from-wlmp-to-avi/"><u>Free Conversion Guide: Changing File Format From WLMP to AVI</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/practical-methods-for-altering-your-instagram-storys-backdrop-hue/"><u>Practical Methods for Altering Your Instagram Story's Backdrop Hue</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-converting-your-videos-from-m4v-format-to-mp4/"><u>Step-by-Step Guide: Converting Your Videos From M4V Format to MP4</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/ultimate-tutorial-how-can-you-watch-and-host-pubg-mobile-battles-on-your-pc/"><u>Ultimate Tutorial: How Can You Watch and Host PUBG Mobile Battles on Your PC?</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1-how-apple-could-outshine-competitors-like-microsoft-and-google-in-the-upcoming-wwdc-2024-a-strategic-analysis-zdnet/"><u>1. How Apple Could Outshine Competitors Like Microsoft & Google in the Upcoming WWDC 2024: A Strategic Analysis - ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-elite-video-editing-tools-tailored-to-windows-platforms/"><u>2024 Approved Elite Video Editing Tools Tailored to Windows Platforms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-strategic-techniques-to-amplify-your-fb-giveaway-reach/"><u>2024 Approved Strategic Techniques to Amplify Your FB Giveaway Reach</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-ultimate-guide-to-choosing-a-premium-portable-vlog-camera/"><u>2024 Approved The Ultimate Guide to Choosing a Premium Portable Vlog Camera</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/a-game-changer-for-windows-on-arm-devices-the-latest-innovative-apps-you-cant-miss/"><u>A Game-Changer for Windows on ARM Devices: The Latest Innovative Apps You Can't Miss!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/addressing-critical-system-malfunctions-a-resolved-guide-for-windows-10-users/"><u>Addressing Critical System Malfunctions: A Resolved Guide for Windows 10 Users</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/azure-expands-reach-with-radius-the-innovative-open-source-engine-driving-todays-multi-cloud-ecosystem-zdnet/"><u>Azure Expands Reach with Radius: The Innovative, Open-Source Engine Driving Today's Multi-Cloud Ecosystem | ZDNET</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/enhance-your-document-creation-in-microsoft-365-using-new-copilot-features-achieve-professional-writing-effortlessly-zdnet/"><u>Enhance Your Document Creation in Microsoft 365 Using New Copilot Features - Achieve Professional Writing Effortlessly | ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/harmonious-habits-to-develop-while-taking-in-your-favorite-episodes/"><u>Harmonious Habits to Develop While Taking in Your Favorite Episodes</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Here are Different Ways to Find Pokemon Go Trainer Codes to Add to Your Account On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-nubia-red-magic-8s-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Nubia Red Magic 8S Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-regular-software-updates/"><u>In 2024, Regular Software Updates</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/maximize-productivity-on-your-mac-with-personalized-app-desktop-allocation-strategies/"><u>Maximize Productivity on Your Mac with Personalized App-Desktop Allocation Strategies</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/revolutionizing-workplace-collaboration-microsoft-empowers-staff-with-enhanced-teams-features/"><u>Revolutionizing Workplace Collaboration: Microsoft Empowers Staff with Enhanced Teams Features</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-reverting-from-windows-11-back-to-windows-10-with-surprising-restrictions-tech-insights-by-zdnet/"><u>Step-by-Step Guide: Reverting From Windows 11 Back to Windows 10 with Surprising Restrictions | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/steve-ballmer-microsofts-former-leader-reveals-lack-of-boldness-insights-from-zdnet/"><u>Steve Ballmer, Microsoft's Former Leader, Reveals Lack of Boldness – Insights From ZDNet</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/to-maintain-a-peg-a-country-must-hold-large-foreign-reserves-and-may-need-to-adjust-domestic-interest-rates-accordingly/"><u>To Maintain a Peg, a Country Must Hold Large Foreign Reserves and May Need to Adjust Domestic Interest Rates Accordingly.</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/upcoming-change-microsoft-to-introduce-fees-for-windows-11-updates-what-you-need-to-know/"><u>Upcoming Change: Microsoft to Introduce Fees for Windows 11 Updates - What You Need To Know!</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo Y200 | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Surface Go 3 Tested by ZDNet: The Ideal Balance Between Portability and Functionality, Though Battery Performance Could Improve"
-date: 2024-10-03T20:22:12.084Z
-updated: 2024-10-05T23:29:35.896Z
+date: 2024-10-05T16:45:31.485Z
+updated: 2024-10-10T18:48:51.265Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,16 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -135,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -142,22 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,24 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-concept-to-creation-crafting-youtube-video-splits/"><u>[New] 2024 Approved From Concept to Creation Crafting YouTube Video Splits</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-expert-tips-crafting-compelling-facebook-ad-videos/"><u>[New] Expert Tips Crafting Compelling Facebook Ad Videos</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-in-pursuit-of-professional-clarity-unveiling-benqs-bl2711u-screen-tech/"><u>[New] In 2024, In Pursuit of Professional Clarity Unveiling BenQ's BL2711U Screen Tech</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-premier-selection-of-vr-cycling-options/"><u>[Updated] 2024 Approved The Premier Selection of VR Cycling Options</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-win-audio-experience/"><u>[Updated] Exclusive Win Audio Experience</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/5-essential-audio-editing-tools-as-great-substitutes-for-audacity-you-cant-miss/"><u>5 Essential Audio Editing Tools as Great Substitutes for Audacity You Can't Miss</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/capturing-your-screen-on-asus-zenfone-models-a-step-by-step-guide/"><u>Capturing Your Screen on ASUS ZenFone Models: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/converti-file-voc-in-formato-mp4-per-libero-uso-gratuito-movavi/"><u>Converti File VOC in Formato MP4 per Libero Uso Gratuito - Movavi</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/guide-to-reflecting-your-macs-display-on-a-roku-device/"><u>Guide to Reflecting Your Mac's Display on a Roku Device</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-iphone-6s-plus-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove iPhone 6s Plus Face ID?</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-infinix-note-30-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/mobile-app-for-removing-watermarks-from-online-videos/"><u>Mobile App for Removing Watermarks From Online Videos</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/most-effective-strategies-for-transforming-midi-files-into-high-quality-mp3s/"><u>Most Effective Strategies for Transforming MIDI Files Into High-Quality MP3s</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/quick-guide-adding-srt-captions-seamlessly-to-mp4-file-format/"><u>Quick Guide: Adding SRT Captions Seamlessly to MP4 File Format</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/seizing-youtubes-algorithm-advantage-with-smart-seo-tactics-for-2024/"><u>Seizing YouTube's Algorithm Advantage with Smart SEO Tactics for 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/the-ultimate-tutorial-on-modifying-your-videos-pace-and-speed-control-techniques/"><u>The Ultimate Tutorial on Modifying Your Video's Pace and Speed Control Techniques</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/top-methods-for-seamless-mp3-downloads-on-your-android-device/"><u>Top Methods for Seamless MP3 Downloads on Your Android Device</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/top-ranking-photo-slideshow-creators-with-native-support-on-windows-10/"><u>Top-Ranking Photo Slideshow Creators with Native Support on Windows 10</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/yt-insider-tips-from-chroma-keying-to-cinematic-creations-for-2024/"><u>YT Insider Tips From Chroma Keying to Cinematic Creations for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-diy-approaches-to-design-your-own-youtube-cards/"><u>[Updated] 2024 Approved Free DIY Approaches to Design Your Own YouTube Cards</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unlocking-earnings-potential-with-youtube-adsense-payments-per-1k-viewer/"><u>[Updated] In 2024, Unlocking Earnings Potential with Youtube AdSense Payments Per 1K Viewer</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-realme-narzo-n55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/enhance-your-document-creation-in-microsoft-365-using-new-copilot-features-achieve-professional-writing-effortlessly-zdnet/"><u>Enhance Your Document Creation in Microsoft 365 Using New Copilot Features - Achieve Professional Writing Effortlessly | ZDNet</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/enhance-your-pc-experience-with-windows-11-the-ultimate-tutorial-on-leveraging-built-in-voice-access-functionality/"><u>Enhance Your PC Experience with Windows 11: The Ultimate Tutorial on Leveraging Built-In Voice Access Functionality</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/enhanced-video-calls-innovative-approaches-4/"><u>Enhanced Video Calls Innovative Approaches #4</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/fixing-startup-glitches-a-guide-for-troubled-players-of-farming-simulator-22/"><u>Fixing Startup Glitches: A Guide for Troubled Players of Farming Simulator 22</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719150836238-governance-guild-prepares-to-dictate-trumps-status-on-fb/"><u>Governance Guild Prepares to Dictate Trump's Status on FB</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/how-apple-could-outshine-competitors-like-openai-and-microsoft-in-the-2024-wwdc-showdown-insights-from-zdnet/"><u>How Apple Could Outshine Competitors Like OpenAI & Microsoft in the 2024 WWDC Showdown – Insights From ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tips-to-add-music-to-whatsapp-status/"><u>In 2024, Tips to Add Music to WhatsApp Status</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/is-paying-for-chatgpt-plus-a-smart-investment-a-comparative-analysis-with-standard-chatgpt-zdnet-reviews/"><u>Is Paying for ChatGPT Plus a Smart Investment? A Comparative Analysis with Standard ChatGPT | ZDNET Reviews</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/microsoft-intensifies-restrictions-windows-11-updates-blocked-on-incompatible-devices-technewszdnet/"><u>Microsoft Intensifies Restrictions: Windows 11 Updates Blocked on Incompatible Devices | TechNewsZDNet</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-transforming-raw-footage-into-masterpieces-sony-camcorder-video-editing/"><u>New Transforming Raw Footage Into Masterpieces Sony Camcorder Video Editing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/simplified-installation-and-durable-construction-the-acurite-pro-01036m-analysis/"><u>Simplified Installation & Durable Construction - The AcuRite Pro 01036M Analysis</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/upgrading-from-windows-10-to-windows-11-a-safe-alternative-approach-techwise/"><u>Upgrading From Windows 10 to Windows 11: A Safe Alternative Approach | TechWise</u></a></li>
 </ul></div>
 

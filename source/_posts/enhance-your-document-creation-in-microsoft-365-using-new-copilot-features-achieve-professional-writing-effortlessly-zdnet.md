@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Document Creation in Microsoft 365 Using New Copilot Features - Achieve Professional Writing Effortlessly | ZDNet
-date: 2024-10-02T21:02:11.238Z
-updated: 2024-10-05T18:06:07.857Z
+date: 2024-10-10T08:59:28.725Z
+updated: 2024-10-10T16:10:01.031Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +95,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,6 +135,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,22 +149,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-a-childs-fortune-the-wealthy-world-of-youtubes-youngest-star/"><u>[Updated] A Child’s Fortune The Wealthy World of YouTube’s Youngest Star</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-android-for-ultimate-3d-playback/"><u>[Updated] Innovative Android for Ultimate 3D Playback</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-spectacular-scrutiny-and-variant-solutions/"><u>2024 Approved Spectacular Scrutiny & Variant Solutions</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/easy-movie-conversion-tools-for-macwindows-users-to-save-movies-in-various-formats-like-mp4-mov-avi/"><u>Easy Movie Conversion Tools for Mac/Windows Users to Save Movies in Various Formats Like MP4, MOV, AVI</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-x-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/get-the-9now-app-watch-and-save-shows-from-9nowcomau-for-free-compatible-with-mac-and-pc/"><u>Get the 9NOW App: Watch and Save Shows From 9now.com.au for Free – Compatible with Mac & PC</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/guide-converting-and-downloading-docmeded-tutorials-in-multiple-formats-mp4-mp3-mov-avi/"><u>Guide: Converting and Downloading DocmedEd Tutorials in Multiple Formats (MP4, MP3, MOV, AVI)</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/guide-downloading-all-episodes-of-the-big-bang-theory-for-personal-use-at-no-cost/"><u>Guide: Downloading All Episodes of The Big Bang Theory for Personal Use at No Cost</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-money-saving-drones-reviewed-top-5-under-100-models/"><u>In 2024, Money-Saving Drones Reviewed Top 5 Under $100 Models</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-content-discovery-leveraging-youtubes-featured-channel-guide/"><u>In 2024, Streamline Content Discovery Leveraging Youtube's Featured Channel Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/reviewing-power-and-performance-why-the-apple-ipad-air-2019-is-leading-in-digital-entertainment/"><u>Reviewing Power and Performance: Why the Apple iPad Air (2019) Is Leading in Digital Entertainment</u></a></li>
-<li><a href="https://driver-install.techidaily.com/yamaha-steinberg-usb-driver-download-windows-11-8-7/"><u>Yamaha Steinberg USB Driver Download | Windows 11, 8, 7</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-prime-selection-highest-quality-stands/"><u>[New] 2024 Approved Prime Selection Highest Quality Stands</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-where-to-find/"><u>[New] In 2024, Where to Find</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-a-comprehensive-analysis-mycams-video-capture-technology/"><u>[Updated] 2024 Approved A Comprehensive Analysis MyCam's Video Capture Technology</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-smile-signal-laughter-filled-download-sites/"><u>[Updated] 2024 Approved Smile Signal Laughter-Filled Download Sites</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/44cm44oa44kk44ok44of44od44kv44gq44ot44oh44kq6kq5pw0ic0g44kz44oz44oi44op44k544oi5pya6ygp5yyw44gn5pio44kl44gv5zcr5lik44gu44os44oz44oi44cn/"><u>「ダイナミックなビデオ調整 - コントラスト最適化で明るさ向上のヒント」</u></a></li>
+<li><a href="https://article-helps.techidaily.com/advancing-photo-quality-on-snapchat-via-zoom-for-2024/"><u>Advancing Photo Quality on Snapchat via Zoom for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/avchdwindows-1011/"><u>AVCHDビデオ処理：Windows 10および11でのステップバイステップ手順</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/best-free-methods-converting-mpeg-videos-into-mov-format-online-and-offline-solutions/"><u>Best FREE Methods: Converting MPEG Videos Into MOV Format - Online & Offline Solutions</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/complimentary-keygen-for-dvdfab-ultimate-plus-comprehensive-downloading-steps-inside/"><u>Complimentary Keygen for DVDFab Ultimate Plus – Comprehensive Downloading Steps Inside</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/discover-the-top-8-free-internet-voice-capture-apps-plugin-and-account-free-options-available/"><u>Discover the Top 8 Free Internet Voice Capture Apps: Plugin & Account-Free Options Available</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/download-free-wonderfox-professional-dvd-ripper-and-video-converter-application/"><u>Download Free WonderFox: Professional DVD Ripper & Video Converter Application</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/easy-guide-on-free-mp4-to-ogv-conversion-techniques-online/"><u>Easy Guide on Free MP4 to OGV Conversion Techniques Online</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/easy-methods-reduce-length-of-your-sounds-a-step-by-step-guide/"><u>Easy Methods: Reduce Length of Your Sounds - A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/entering-social-media-world-sign-up-for-facebook-now-for-2024/"><u>Entering Social Media World Sign Up for Facebook Now for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Lenovo ThinkPhone? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revolutionize-post-production-the-best-11-tutorials-on-color-workflow-for-2024/"><u>Revolutionize Post-Production The Best 11 Tutorials on Color Workflow for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/ultimate-mic-showdown-for-podcasters-for-2024/"><u>Ultimate Mic Showdown for Podcasters for 2024</u></a></li>
 </ul></div>
 

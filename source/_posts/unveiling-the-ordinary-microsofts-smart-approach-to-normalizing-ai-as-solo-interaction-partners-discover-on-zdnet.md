@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Ordinary: Microsoft's Smart Approach to Normalizing AI as Solo Interaction Partners | Discover on ZDNET"
-date: 2024-10-02T16:54:21.707Z
-updated: 2024-10-05T16:15:45.670Z
+date: 2024-10-09T00:50:13.477Z
+updated: 2024-10-10T17:59:00.484Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,14 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-zte-nubia-z60-ultra-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on ZTE Nubia Z60 Ultra</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amd-ryzen-9-era-begins-as-modelfarm-reduces-failures-by-50-using-unreal-engine-and-intel-cpus-next-up-supercharged-single-threading/"><u>AMD Ryzen 9 Era Begins as ModelFarm Reduces Failures by 50% Using Unreal Engine & Intel CPUs: Next Up, Supercharged Single-Threading</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/best-7-virtual-meeting-platforms-enhancing-remote-work-productivity/"><u>Best 7 Virtual Meeting Platforms Enhancing Remote Work Productivity</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/download-free-wonderfox-professional-dvd-ripper-and-video-converter-application/"><u>Download Free WonderFox: Professional DVD Ripper & Video Converter Application</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/easy-guide-on-free-mp4-to-ogv-conversion-techniques-online/"><u>Easy Guide on Free MP4 to OGV Conversion Techniques Online</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/easy-methods-reduce-length-of-your-sounds-a-step-by-step-guide/"><u>Easy Methods: Reduce Length of Your Sounds - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/guide-recording-dota-2-games-on-pc-two-top-strategies-explained/"><u>Guide: Recording Dota 2 Games on PC - Two Top Strategies Explained</u></a></li>
-<li><a href="https://facebook.techidaily.com/leveraging-time-for-social-media-impact/"><u>Leveraging Time for Social Media Impact</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-cutting-room-floor-experts-share-tips-on-video-editing-for-2024/"><u>The Cutting Room Floor Experts Share Tips on Video Editing for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rofitable-playgrounds-for-youtube-geeks-2024/"><u>[New] Profitable Playgrounds for YouTube Geeks 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-snapshot-spectaculars-an-experts-review-of-recorders/"><u>[New] Snapshot Spectaculars An Expert's Review of Recorders</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-oppo-a58-4g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-snapchats-new-spotlight-functionality/"><u>2024 Approved Navigating Snapchat's New Spotlight Functionality</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/exploring-azures-new-radius-offering-transformative-open-source-tech-empowering-multi-cloud-operations-zdnet/"><u>Exploring Azure's New Radius Offering: Transformative Open Source Tech Empowering Multi-Cloud Operations | ZDNET</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/free-windows-10-upgrade-discontinued-whats-next/"><u>Free Windows 10 Upgrade Discontinued - What's Next?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-started-with-your-brother-dcp-l2540dw-printer-installation-and-drivers-for-windows-os/"><u>Get Started with Your Brother DCP-L2540DW Printer: Installation & Drivers for Windows OS</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-remove-apple-iphone-13-pro-max-sim-lock-by-drfone-ios/"><u>How to Remove Apple iPhone 13 Pro Max SIM Lock?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-se-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone SE from iCloud</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/microsoft-copilot-more-than-just-smart-ai-discover-how-it-blends-helpful-tips-and-sales-pitches-zdnet-analysis/"><u>Microsoft Copilot: More Than Just Smart AI – Discover How It Blends Helpful Tips and Sales Pitches | ZDNET Analysis</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/microsoft-surface-go-3-tested-by-zdnet-the-ideal-balance-between-portability-and-functionality-though-battery-performance-could-improve/"><u>Microsoft Surface Go 3 Tested by ZDNet: The Ideal Balance Between Portability and Functionality, Though Battery Performance Could Improve</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/microsofts-copilot-enhances-cybersecurity-widespread-access-coming-april-1st-insights-from-zdnet/"><u>Microsoft's Copilot Enhances Cybersecurity: Widespread Access Coming April 1St – Insights From ZDNet</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/reinstating-windows-11s-start-menu-icon-a-step-by-step-tutorial-by-zdnet/"><u>Reinstating Windows 11'S Start Menu Icon - A Step-by-Step Tutorial by ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-how-to-fix-constant-crashes-of-aliens-fireteam-elite-on-pc/"><u>Troubleshooting Steps: How to Fix Constant Crashes of Aliens: Fireteam Elite on PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unfailing-focus-top-tripods-for-iphone-and-android-cameras-for-2024/"><u>Unfailing Focus Top Tripods for iPhone & Android Cameras for 2024</u></a></li>
 </ul></div>
 

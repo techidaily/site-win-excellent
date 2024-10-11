@@ -1,7 +1,7 @@
 ---
 title: "Exploring Azure's New Radius Offering: Transformative Open Source Tech Empowering Multi-Cloud Operations | ZDNET"
-date: 2024-09-28T17:01:42.853Z
-updated: 2024-10-05T16:46:00.508Z
+date: 2024-10-05T09:00:49.413Z
+updated: 2024-10-10T20:55:48.195Z
 tags:
   - microsoft
 categories:
@@ -114,21 +114,24 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-giggle-gazette-twitters-top-threads/"><u>[New] Giggle Gazette Twitter’s Top Threads</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-echoes-of-sound-how-to-enhance-tweeted-visuals/"><u>2024 Approved Echoes of Sound How to Enhance Tweeted Visuals</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/3-best-methods-for-moving-your-data-from-an-old-smartphone-to-a-new-one/"><u>3 Best Methods for Moving Your Data From an Old Smartphone to a New One</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/best-5-compatible-screen-mirroring-solutions-for-your-huawei-p30/"><u>Best 5 Compatible Screen Mirroring Solutions for Your Huawei P30</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-video-editing-software-top-10-picks-for-mp4-files/"><u>Free Video Editing Software Top 10 Picks for MP4 Files</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/intuitive-elearning-software-customizable-for-flexible-education-experiences/"><u>Intuitive eLearning Software: Customizable for Flexible Education Experiences</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/top-5-leading-ios-screen-mirroring-software-solutions-reviewed/"><u>Top 5 Leading iOS Screen Mirroring Software Solutions Reviewed</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-7-solutions-when-your-windows-file-explorer-continuously-fails/"><u>Top 7 Solutions When Your Windows File Explorer Continuously Fails</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-elevated-cpu-utilization-by-iastordatasvc-in-a-32-bit-windows/"><u>Troubleshooting Elevated CPU Utilization by IAStorDataSvc in a 32-Bit Windows</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-cutting-edge-extraction-the-top-10-sdk-powered-fb-video-downloads-on-android/"><u>[New] Cutting-Edge Extraction The Top 10 SDK-Powered FB Video Downloads on Android</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-live-streaming-console-gaming-secrets-on-a-computer/"><u>[New] In 2024, Live-Streaming Console Gaming Secrets on a Computer</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/critical-timeline-for-microsoft-confronting-the-imminent-crisis-in-windows-10-development-with-only-a-year-to-go-zdnet-insights/"><u>Critical Timeline for Microsoft: Confronting the Imminent Crisis in Windows 10 Development With Only a Year to Go | ZDNET Insights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-xiaomi-redmi-13c-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Xiaomi Redmi 13C Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/is-the-reduction-of-job-openings-at-leading-tech-giants-a-cause-for-alarm-unpacking-industry-trends-on-zdnet/"><u>Is the Reduction of Job Openings at Leading Tech Giants a Cause for Alarm? Unpacking Industry Trends on ZDNET</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/major-privacy-and-security-updates-coming-after-harsh-reviews-microsofts-response-detailed-by-zdnet/"><u>Major Privacy & Security Updates Coming After Harsh Reviews: Microsoft's Response Detailed by ZDNet</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/mastering-the-art-of-selective-screen-captures-a-comprehensive-tutorial/"><u>Mastering the Art of Selective Screen Captures: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pioneering-digital-realms-comparing-metaverse-and-omniverse/"><u>Pioneering Digital Realms Comparing Metaverse & Omniverse</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-class-not-registering-on-windows-11/"><u>Resolved: How to Fix Class Not Registering on Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/streamline-your-teamwork-zooming-through-screenshares-for-2024/"><u>Streamline Your Teamwork Zooming Through Screenshares for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-value-in-rapid-printing-elegoos-neptune-ebeam-reviewed-for-quality-and-price/"><u>Unveiling the Best Value in Rapid Printing: Elegoo's Neptune Ebeam Reviewed for Quality and Price</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/unveiling-the-ordinary-microsofts-smart-approach-to-normalizing-ai-as-solo-interaction-partners-discover-on-zdnet/"><u>Unveiling the Ordinary: Microsoft's Smart Approach to Normalizing AI as Solo Interaction Partners | Discover on ZDNET</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

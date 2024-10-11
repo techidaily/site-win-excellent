@@ -1,7 +1,7 @@
 ---
 title: Seamless File Transfer Between Windows PC and Android Devices Using Google's Quick Share - Tips & Tricks
-date: 2024-10-03T22:38:23.489Z
-updated: 2024-10-05T16:14:24.273Z
+date: 2024-10-06T05:56:40.583Z
+updated: 2024-10-10T19:47:57.123Z
 tags:
   - windows
 categories:
@@ -27,6 +27,13 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
@@ -34,10 +41,16 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Create a new folder
@@ -45,6 +58,13 @@ Screenshot by Lance Whitney/ZDNET
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -56,10 +76,10 @@ When done, press Enter.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Launch the icon
@@ -91,25 +111,11 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -156,22 +162,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-comparative-analysis-is-pickup-the-best-editor-for-your-android-device/"><u>[New] Comparative Analysis Is PickUp The Best Editor for Your Android Device?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-luts-showcase-10-standouts-with-direct-downloads/"><u>2024 Approved Free LUTs Showcase 10 Standouts with Direct Downloads</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/best-zoom-tools-for-clear-session-capture/"><u>Best Zoom Tools for Clear Session Capture</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/data-delivery-blueprints-quick-tips-for-file-moves/"><u>Data Delivery Blueprints Quick Tips for File Moves</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/guide-to-reflecting-your-macs-display-on-a-roku-device/"><u>Guide to Reflecting Your Mac's Display on a Roku Device</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/how-to-retrieve-deleted-songs-on-your-iphone-effective-techniques-for-music-recovery/"><u>How To Retrieve Deleted Songs on Your iPhone: Effective Techniques for Music Recovery</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g-stylus-5g-2023-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Motorola Moto G Stylus 5G (2023) Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-supreme-boundless-data-depot/"><u>In 2024, Supreme Boundless Data Depot</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-ultimate-online-seminar-title-crafter/"><u>In 2024, Ultimate Online Seminar Title Crafter</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/mobile-app-for-removing-watermarks-from-online-videos/"><u>Mobile App for Removing Watermarks From Online Videos</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/most-effective-strategies-for-transforming-midi-files-into-high-quality-mp3s/"><u>Most Effective Strategies for Transforming MIDI Files Into High-Quality MP3s</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/quick-guide-adding-srt-captions-seamlessly-to-mp4-file-format/"><u>Quick Guide: Adding SRT Captions Seamlessly to MP4 File Format</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/seamless-experience-transferring-iphone-content-onto-hisense-smart-tvs/"><u>Seamless Experience: Transferring iPhone Content Onto Hisense Smart TVs</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/the-ultimate-tutorial-on-modifying-your-videos-pace-and-speed-control-techniques/"><u>The Ultimate Tutorial on Modifying Your Video's Pace and Speed Control Techniques</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-infinix-note-30i-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Infinix Note 30i Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/unlock-the-secrets-free-downloads-of-popular-game-music-and-soundtracks/"><u>Unlock the Secrets: Free Downloads of Popular Game Music & Soundtracks!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ow-to-live-without-the-temptation-of-youtube-shorts/"><u>[New] How To Live Without the Temptation of YouTube Shorts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-audio-accentuation-tunes-for-visual-projects/"><u>[Updated] 2024 Approved Audio Accentuation Tunes for Visual Projects</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/create-compelling-images-on-iphone-with-these-10-principles/"><u>Create Compelling Images on iPhone with These 10 Principles</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-apple-iphone-12-pro-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>Does Apple iPhone 12 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/guide-recording-dota-2-games-on-pc-two-top-strategies-explained/"><u>Guide: Recording Dota 2 Games on PC - Two Top Strategies Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/harnessing-the-transformative-force-of-ai-for-global-advancement/"><u>Harnessing the Transformative Force of AI for Global Advancement</u></a></li>
+<li><a href="https://extra-information.techidaily.com/hidden-harmonics-discreetly-lowering-garageband-tones/"><u>Hidden Harmonics Discreetly Lowering Garageband Tones</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/how-to-find-and-watch-bafa-brothers-series-without-paying-a-penny/"><u>How to Find and Watch BaFa Brothers Series Without Paying a Penny?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-best-sound-experience-with-newly-installed-soundmax-drivers-on-windows/"><u>How to Get the Best Sound Experience with Newly Installed SoundMAX Drivers on Windows</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/how-to-record-your-beyond-live-broadcasts-effectively-on-screen/"><u>How to Record Your Beyond Live Broadcasts Effectively on Screen</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-to-adding-the-latest-wrestling-channel-add-on-in-kodi/"><u>Step-by-Step Guide to Adding the Latest Wrestling Channel Add-On in Kodi</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-video-tutorial-simple-methods-to-modify-your-dvd-content-on-windows-systems/"><u>Step-by-Step Video Tutorial: Simple Methods to Modify Your DVD Content on Windows Systems</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/top-3-methods-capturing-your-twitch-live-sessions-on-windows/"><u>Top 3 Methods: Capturing Your Twitch Live Sessions on Windows</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/unlimited-recording-a-comprehensive-guide-to-capturing-your-entire-bluejeans-conference/"><u>Unlimited Recording: A Comprehensive Guide to Capturing Your Entire BlueJeans Conference</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlocking-insights-and-improvements-through-cookiebot-technology/"><u>Unlocking Insights and Improvements Through Cookiebot Technology</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: My Experience with the Gardyn Home Kit 3.0 - An In-Depth Look at Easy, Satisfying Urban Farming
-date: 2024-10-01T21:49:32.293Z
-updated: 2024-10-05T21:57:49.051Z
+date: 2024-10-08T19:10:28.067Z
+updated: 2024-10-11T08:47:40.580Z
 tags:
   - office-furniture
 categories:
@@ -50,13 +50,6 @@ We've had the Gardyn for about two months and our first harvest is upon us. How 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Setting up the Gardyn
 
 Okay, this was a little trickier than I bargained for. The Gardyn 3.0, which adds durability and evolving AI capabilities since the 2.0 release, takes up a relatively small footprint but, dimensionally, is quite large, standing 64" and encompassing three different growing towers. 
@@ -74,16 +67,10 @@ The setup itself isn't complicated but it is involved. You're basically assembli
 Pro tip: Set this thing up in the location where it'll end up. I thought I was doing that, but once I had the Gardyn standing in front of me in its full glory, I realized it wasn't going to work in our boat's upstairs common area. Instead, it would be relegated to the engine room downstairs, where it would freshen the air even as our big Caterpillar diesel churned away.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How its technology works
@@ -122,6 +109,13 @@ One cool feature is that you can view your plants in real-time in your app throu
 
 The app's plant book allows for some great discoverability. I wasn't familiar with borage, for example, but look forward to growing the edible flower. 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## A quibble
 
 Overall I'm really impressed with the Gardyn Home Kit 3.0 and plan to use it onboard Lindy for years to come. But I do have some notes.
@@ -133,10 +127,10 @@ Lining up the tower as it's lifted back onto the base after cleaning has consist
 [Gardyn Home Kit 3.0 $695 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJS4YMNQ%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0503a576-8e29-4062-9d22-75ea4580228b%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line 
@@ -148,10 +142,10 @@ Despite my quibbles above, this ranks as an impressive and [powerful home-growin
 If you don't have outdoor space but want to grow a large quantity and variety of plants and herbs, this system should definitely be on your radar.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider 
@@ -198,20 +192,18 @@ A single growing stand that's expandable to 36 plants for a legit indoor farm.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-decoding-youtube-analytics-insights-for-every-content-creator-for-2024/"><u>[Updated] Decoding YouTube Analytics Insights for Every Content Creator for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-10-innovative-mobile-layering-apps-for-android-and-iphone/"><u>[Updated] Top 10 Innovative Mobile Layering Apps for Android & iPhone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-elevate-vlogging-quality-the-ultimate-12-recommended-cam-picks/"><u>2024 Approved Elevate Vlogging Quality - The Ultimate 12 Recommended Cam Picks</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/elevate-your-game-on-instagram-5-key-tactics-for-top-tier-influencers-for-2024/"><u>Elevate Your Game on Instagram 5 Key Tactics for Top-Tier Influencers for 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/guide-to-reflecting-your-macs-display-on-a-roku-device/"><u>Guide to Reflecting Your Mac's Display on a Roku Device</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/how-to-retrieve-deleted-songs-on-your-iphone-effective-techniques-for-music-recovery/"><u>How To Retrieve Deleted Songs on Your iPhone: Effective Techniques for Music Recovery</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ideal-framework-top-20-most-engaging-github-and-chatgpt-dialogues/"><u>Ideal Framework: Top 20 Most Engaging Github and ChatGPT Dialogues</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-from-novice-to-pro-creating-snapchat-boomers/"><u>In 2024, From Novice to Pro Creating Snapchat Boomers</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/mobile-app-for-removing-watermarks-from-online-videos/"><u>Mobile App for Removing Watermarks From Online Videos</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/most-effective-strategies-for-transforming-midi-files-into-high-quality-mp3s/"><u>Most Effective Strategies for Transforming MIDI Files Into High-Quality MP3s</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/quick-guide-adding-srt-captions-seamlessly-to-mp4-file-format/"><u>Quick Guide: Adding SRT Captions Seamlessly to MP4 File Format</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/seamless-experience-transferring-iphone-content-onto-hisense-smart-tvs/"><u>Seamless Experience: Transferring iPhone Content Onto Hisense Smart TVs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/snap-and-crop-utilizing-iphones-image-editing-capabilities-for-2024/"><u>Snap & Crop Utilizing iPhone’s Image Editing Capabilities for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-science-of-simulated-conversations-understanding-chatbot-communication-skills/"><u>The Science of Simulated Conversations: Understanding Chatbot Communication Skills</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/unlock-the-secrets-free-downloads-of-popular-game-music-and-soundtracks/"><u>Unlock the Secrets: Free Downloads of Popular Game Music & Soundtracks!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-unleash-creativity-personalizing-your-google-meet-interface/"><u>[Updated] 2024 Approved Unleash Creativity Personalizing Your Google Meet Interface</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1-multi-format-converter-seamlessly-transfer-videos-and-audio-from-vidpk-in-various-formats-mp4-mov-avi-mp3-mkv/"><u>1. Multi-Format Converter: Seamlessly Transfer Videos & Audio From Vidpk in Various Formats (MP4, MOV, AVI, MP3, MKV)</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-get-overwatch-voice-chat-working-again-no-hassle/"><u>Expert Tips to Get Overwatch Voice Chat Working Again – No Hassle</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-hot-30-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Hot 30 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-things-you-must-know-for-screen-mirroring-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>In 2024, Things You Must Know for Screen Mirroring Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-tecno-pova-6-pro-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Tecno Pova 6 Pro 5G Phone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-converting-vidio-files-to-mp4-format-for-pc-and-mac-users/"><u>Step-by-Step Guide: Converting Vidio Files to MP4 Format for PC & Mac Users</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-converting-ximalaya-audio-downloads-into-mp3-format-for-pc-and-mac-users/"><u>Step-by-Step Guide: Converting Ximalaya Audio Downloads Into MP3 Format for PC & Mac Users</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-moving-your-spotify-playlists-onto-an-exterior-hard-disk/"><u>Step-by-Step Guide: Moving Your Spotify Playlists Onto an Exterior Hard Disk</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/steps-to-convert-rbteach-educational-videos-into-mp4mp3-format/"><u>Steps to Convert RBTEACH Educational Videos Into MP4/MP3 Format</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-comprehensive-guide-to-upgrading-your-lifestyle-with-the-power-of-chatgpt/"><u>The Comprehensive Guide to Upgrading Your Lifestyle with the Power of ChatGPT</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/ultimate-tutorial-on-recording-and-downloading-younow-live-streams/"><u>Ultimate Tutorial on Recording and Downloading YouNow Live Streams</u></a></li>
 </ul></div>
 

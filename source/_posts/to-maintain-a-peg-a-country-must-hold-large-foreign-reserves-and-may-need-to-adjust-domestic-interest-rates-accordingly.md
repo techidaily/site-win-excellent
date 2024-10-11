@@ -1,7 +1,7 @@
 ---
 title: To Maintain a Peg, a Country Must Hold Large Foreign Reserves and May Need to Adjust Domestic Interest Rates Accordingly.
-date: 2024-09-30T17:51:20.122Z
-updated: 2024-10-05T23:30:34.654Z
+date: 2024-10-04T10:33:18.642Z
+updated: 2024-10-10T21:05:49.964Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +196,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-accessing-fb-video-on-apple-tv-step-by-step-guide/"><u>[Updated] 2024 Approved Accessing FB Video on Apple TV Step by Step Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-uncovering-budget-friendly-video-communication-apps-pcmac-for-2024/"><u>[Updated] Uncovering Budget-Friendly Video Communication Apps PC/MAC for 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/5-essential-audio-editing-tools-as-great-substitutes-for-audacity-you-cant-miss/"><u>5 Essential Audio Editing Tools as Great Substitutes for Audacity You Can't Miss</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/capturing-your-screen-on-asus-zenfone-models-a-step-by-step-guide/"><u>Capturing Your Screen on ASUS ZenFone Models: A Step-by-Step Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-iphone-15-pro-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your iPhone 15 Pro? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-mirrored-worldviews-on-insta-discover-100-reflective-captions/"><u>In 2024, Mirrored Worldviews on Insta - Discover 100 Reflective Captions</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-iphone-x-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or iPhone X from iCloud</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-asus-rog-swift-pg3-similar-problem/"><u>In-Depth Asus ROG Swift PG3 # Similar Problem</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/most-effective-strategies-for-transforming-midi-files-into-high-quality-mp3s/"><u>Most Effective Strategies for Transforming MIDI Files Into High-Quality MP3s</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/overcoming-total-lack-of-visuals-in-videos-effective-solutions-for-a-seamless-viewing-experience/"><u>Overcoming Total Lack of Visuals in Videos: Effective Solutions for a Seamless Viewing Experience</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/quick-guide-adding-srt-captions-seamlessly-to-mp4-file-format/"><u>Quick Guide: Adding SRT Captions Seamlessly to MP4 File Format</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/speedy-methods-for-moving-images-from-your-ipad-to-a-mac-a-step-by-step-guide/"><u>Speedy Methods for Moving Images From Your iPad to a Mac: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/the-ultimate-tutorial-on-modifying-your-videos-pace-and-speed-control-techniques/"><u>The Ultimate Tutorial on Modifying Your Video's Pace and Speed Control Techniques</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/top-methods-for-seamless-mp3-downloads-on-your-android-device/"><u>Top Methods for Seamless MP3 Downloads on Your Android Device</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/top-ranking-photo-slideshow-creators-with-native-support-on-windows-10/"><u>Top-Ranking Photo Slideshow Creators with Native Support on Windows 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/trasforma-i-tuoi-video-mkv-in-h265hevc-rapido-e-senza-costo-con-garanzia-di-ottima-qualita/"><u>Trasforma I Tuoi Video MKV in H.265/HEVC Rapido E Senza Costo, Con Garanzia Di Ottima Qualità</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unlock-the-full-potential-of-your-logitech-g-pro-x-microphone-fixes-inside/"><u>Unlock the Full Potential of Your Logitech G Pro X Microphone (Fixes Inside)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-insightful-ways-of-gathering-photographic-elements/"><u>[New] 2024 Approved Insightful Ways of Gathering Photographic Elements</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-decoding-youtubes-revenue-model-for-video-clips/"><u>[New] In 2024, Decoding YouTube's Revenue Model for Video Clips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-attract-more-viewers-crafting-impressive-youtube-description-with-custom-templates/"><u>[Updated] 2024 Approved Attract More Viewers Crafting Impressive Youtube Description with Custom Templates</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-tweeting-treasures-the-10-highest-viewed-tweets/"><u>[Updated] 2024 Approved Tweeting Treasures The 10 Highest-Viewed Tweets</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-top-10-best-photo-layering-and-editing-apps-iosandroid/"><u>[Updated] Explore Top 10 Best Photo Layering & Editing Apps iOS/Android</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/get-your-hands-on-the-newest-release-of-action-now/"><u>Get Your Hands on the Newest Release of 'Action!' Now</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-snapchat-screen-capture-tips-for-phones/"><u>In 2024, Snapchat Screen Capture Tips for Phones</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-oneplus-12-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace OnePlus 12 Location | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/major-privacy-and-security-updates-coming-after-harsh-reviews-microsofts-response-detailed-by-zdnet/"><u>Major Privacy & Security Updates Coming After Harsh Reviews: Microsoft's Response Detailed by ZDNet</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/mastering-the-art-of-selective-screen-captures-a-comprehensive-tutorial/"><u>Mastering the Art of Selective Screen Captures: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-realme-v30-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Realme V30 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/unveiling-the-ordinary-microsofts-smart-approach-to-normalizing-ai-as-solo-interaction-partners-discover-on-zdnet/"><u>Unveiling the Ordinary: Microsoft's Smart Approach to Normalizing AI as Solo Interaction Partners | Discover on ZDNET</u></a></li>
 </ul></div>
 

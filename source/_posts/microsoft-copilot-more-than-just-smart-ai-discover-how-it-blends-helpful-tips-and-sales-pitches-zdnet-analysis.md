@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Copilot: More Than Just Smart AI – Discover How It Blends Helpful Tips and Sales Pitches | ZDNET Analysis"
-date: 2024-09-30T16:43:51.407Z
-updated: 2024-10-05T16:16:13.600Z
+date: 2024-10-03T17:10:49.349Z
+updated: 2024-10-11T06:20:36.029Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -142,15 +135,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,24 +196,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-discovering-new-dimensions-a-guide-to-iphone-xs-advanced-cameras/"><u>[New] In 2024, Discovering New Dimensions A Guide to iPhone X's Advanced Cameras</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-optimal-downloaders-your-guide-to-superior-4k-content/"><u>[New] In 2024, Optimal Downloaders Your Guide to Superior 4K Content</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-insights-into-youtube-shorts-business-model/"><u>[New] Insights Into YouTube Shorts Business Model</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-swift-video-editing-made-easy-with-top-iosdesktop-apps-8/"><u>[New] Swift Video Editing Made Easy with Top iOS/Desktop Apps #8</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-tweaking-image-previews-for-youtube-like-experience-in-twitter-videos/"><u>[New] Tweaking Image Previews for YouTube-Like Experience in Twitter Videos</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/comprehensive-guide-mastering-the-art-of-broadcasting-live-radio/"><u>Comprehensive Guide: Mastering the Art of Broadcasting Live Radio</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/convert-any-video-format-to-swf-free-easy-swf-converter-tool/"><u>Convert Any Video Format to SWF FREE - Easy Swf Converter Tool</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/easy-steps-to-project-your-iphone-groovy-screen-onto-your-computer-monitor/"><u>Easy Steps to Project Your iPhone Groovy Screen Onto Your Computer Monitor</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/how-to-retrieve-deleted-songs-on-your-iphone-effective-techniques-for-music-recovery/"><u>How To Retrieve Deleted Songs on Your iPhone: Effective Techniques for Music Recovery</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-iphone-14-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About iPhone 14 Activation Lock</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-gimbal-guide-for-smooth-flights/"><u>In 2024, Gimbal Guide for Smooth Flights</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Oppo K11 5G? | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/keeping-your-browsing-free-of-pop-up-videos/"><u>Keeping Your Browsing Free of Pop-Up Videos</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/seamless-experience-transferring-iphone-content-onto-hisense-smart-tvs/"><u>Seamless Experience: Transferring iPhone Content Onto Hisense Smart TVs</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-converting-your-videos-from-m4v-format-to-mp4/"><u>Step-by-Step Guide: Converting Your Videos From M4V Format to MP4</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/top-tools-for-capturing-and-enhancing-your-live-streams-on-a-mac/"><u>Top Tools for Capturing and Enhancing Your Live Streams on a Mac</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/ultimate-walkthrough-for-transferring-youtube-content-from-phone-to-pc-using-googles-platform/"><u>Ultimate Walkthrough for Transferring YouTube Content From Phone to PC Using Google's Platform</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/unlock-the-secrets-free-downloads-of-popular-game-music-and-soundtracks/"><u>Unlock the Secrets: Free Downloads of Popular Game Music & Soundtracks!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-all-you-need-to-know-about-the-apple-m1-max-clip/"><u>[New] All You Need to Know About the Apple M1 Max Clip</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-capturing-web-streamed-music-step-by-step-guide/"><u>[New] Capturing Web-Streamed Music Step by Step Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-essential-tips-for-harvesting-instagram-highlights/"><u>[Updated] Essential Tips for Harvesting Instagram Highlights</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlocking-monetization-success-a-3-step-system-to-determine-your-youtube-earnings/"><u>[Updated] Unlocking Monetization Success A 3-Step System to Determine Your YouTube Earnings</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1-how-apple-could-outshine-competitors-like-microsoft-and-google-in-the-upcoming-wwdc-2024-a-strategic-analysis-zdnet/"><u>1. How Apple Could Outshine Competitors Like Microsoft & Google in the Upcoming WWDC 2024: A Strategic Analysis - ZDNet</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-steering-to-your-own-musical-selections-on-youtube/"><u>2024 Approved Steering to Your Own Musical Selections on Youtube</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/a-game-changer-for-windows-on-arm-devices-the-latest-innovative-apps-you-cant-miss/"><u>A Game-Changer for Windows on ARM Devices: The Latest Innovative Apps You Can't Miss!</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/azure-expands-reach-with-radius-the-innovative-open-source-engine-driving-todays-multi-cloud-ecosystem-zdnet/"><u>Azure Expands Reach with Radius: The Innovative, Open-Source Engine Driving Today's Multi-Cloud Ecosystem | ZDNET</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-oppo-reno-10-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-poco-x5-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Poco X5 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/logitechs-legendary-performer-why-the-g502-remains-a-classic-among-keyboard-and-mouse-enthusiasts/"><u>Logitech's Legendary Performer: Why the G502 Remains a Classic Among Keyboard and Mouse Enthusiasts</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/steve-ballmer-microsofts-former-leader-reveals-lack-of-boldness-insights-from-zdnet/"><u>Steve Ballmer, Microsoft's Former Leader, Reveals Lack of Boldness – Insights From ZDNet</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/to-maintain-a-peg-a-country-must-hold-large-foreign-reserves-and-may-need-to-adjust-domestic-interest-rates-accordingly/"><u>To Maintain a Peg, a Country Must Hold Large Foreign Reserves and May Need to Adjust Domestic Interest Rates Accordingly.</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/upcoming-change-microsoft-to-introduce-fees-for-windows-11-updates-what-you-need-to-know/"><u>Upcoming Change: Microsoft to Introduce Fees for Windows 11 Updates - What You Need To Know!</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/why-concerns-about-your-windows-licenses-authenticity-matter-insights-from-zdnet/"><u>Why Concerns About Your Windows License's Authenticity Matter - Insights From ZDNet</u></a></li>
 </ul></div>
 
