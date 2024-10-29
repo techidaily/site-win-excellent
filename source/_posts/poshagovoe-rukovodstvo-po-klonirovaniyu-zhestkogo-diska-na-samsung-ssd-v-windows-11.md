@@ -1,7 +1,7 @@
 ---
 title: Пошаговое Руководство По Клонированию Жесткого Диска На Samsung SSD В Windows 11
-date: 2024-10-16T05:53:51.083Z
-updated: 2024-10-17T05:11:19.288Z
+date: 2024-10-25T18:07:57.770Z
+updated: 2024-10-29T03:29:22.292Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d5c6f331ff630995ba1cfe29.jpg
@@ -36,16 +36,10 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
@@ -57,10 +51,16 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
@@ -86,10 +86,10 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
@@ -112,13 +112,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
@@ -140,10 +133,10 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -165,6 +158,13 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -197,10 +197,10 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -218,22 +218,24 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-youtubers-guide-to-ergonomic-stabilizers-for-cutting-edge-cinematography/"><u>[New] 2024 Approved YouTubers' Guide to Ergonomic Stabilizers for Cutting-Edge Cinematography</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-mastering-insta-photo-and-video-reposts/"><u>[New] In 2024, Mastering Insta Photo & Video Reposts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-perfecting-your-content-understanding-facebook-video-sizes-and-ratios/"><u>[Updated] 2024 Approved Perfecting Your Content Understanding Facebook Video Sizes and Ratios</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-seamless-tweet-to-facebook-video-transfers-users-for-2024/"><u>[Updated] Seamless Tweet-to-Facebook Video Transfers Users for 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1-effective-solutions-to-stop-recurring-file-appearances-in-windows-11/"><u>1. Effective Solutions to Stop Recurring File Appearances in Windows 11</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1-successful-strategies-for-repairing-0-byte-hard-drives-and-retrieving-lost-files/"><u>1. Successful Strategies for Repairing 0 Byte Hard Drives & Retrieving Lost Files</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1728503211482-windows-11-asus/"><u>簡單方式修復 Windows 11 上 Asus 系統安全加密故障</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/windows-11-7-usb/"><u>移動設備：如何在 Windows 11-7 上複製系統檔案到 USB 隨身碟</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/backup-software-professional-progettato-da-aomei-soluzioni-di-gestione-della-partizione-e-del-disco-dynamic-disk-management-plus-conversione-tra-ntfs-e-fat3117/"><u>Backup Software Professional Progettato Da AOMEI: Soluzioni Di Gestione Della Partizione E Del Disco Dynamic Disk Management + Conversione Tra NTFS E FAT32</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/come-effettuare-lo-spostamento-di-windows-server-201/"><u>Come Effettuare Lo Spostamento Di Windows Server 201</u></a></li>
-<li><a href="https://network-issues.techidaily.com/flipped-image-remedy-for-windows-display-issue/"><u>Flipped Image Remedy for Window's Display Issue</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/guide-de-recovery-darchives-eliminees-par-ccleaner-sur-windows-et-mac-sauvegardez-vos-donnees/"><u>Guide De Recovery D'Archives Eliminees Par CCleaner Sur Windows Et Mac – Sauvegardez Vos Données!</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-14-pro-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 14 Pro Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-edge-2023-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Motorola Edge 2023 Bootloader Easily</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-meizu-21-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Meizu 21 Pro Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/next-level-artificial-intelligence-discovering-the-7-enhancements-in-googles-bard-via-palm-2/"><u>Next-Level Artificial Intelligence: Discovering the 7 Enhancements in Google’s Bard via PaLM 2</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/tecnicas-expertas-para-solucionar-fallos-de-respaldo-en-windows-11/"><u>Técnicas Expertas Para Solucionar Fallos De Respaldo en Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-experience-unlimited-recording-review-of-free-screen-tools-for-cameras/"><u>[New] 2024 Approved Experience Unlimited Recording – Review of Free Screen Tools for Cameras</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-high-fidelity-feat-hero5-black-vs-hero4-silver-edition-battle/"><u>[Updated] 2024 Approved High-Fidelity Feat Hero5 Black vs Hero4 Silver Edition Battle</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-skype-sessions-captured-effective-freepaid-windowsmac-methods/"><u>[Updated] 2024 Approved Skype Sessions Captured Effective Free/Paid Windows/Mac Methods</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-secrets-of-soaring-wealth-joshis-youtube-path/"><u>2024 Approved Secrets of Soaring Wealth Joshi's Youtube Path</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1728491147212-windows-11-nvme-ssd/"><u>修正ガイド：Windows 11 で NVMe SSD の検出不具合を解消します</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/copier-un-disque-dur-ou-ssd-sous-windows-10-sans-avoir-a-reconfigurer/"><u>Copier Un Disque Dur Ou SSD Sous Windows 10 Sans Avoir À Reconfigurer</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/efficiently-sharing-your-images-across-various-pcs-con-aomei-image-deploy/"><u>Efficiently Sharing Your Images Across Various PCs Con AOMEI Image Deploy</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/guia-sencilla-para-recuperar-informacion-tras-la-restauracion-del-sistema-en-windows-1110-conocimientos-esenciales/"><u>Guía Sencilla Para Recuperar Información Tras La Restauración Del Sistema en Windows 11/10: Conocimientos Esenciales</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-nokia-150-2023-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Nokia 150 (2023).</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-itel-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Itel Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-vivo-t2-pro-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Vivo T2 Pro 5G Location | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/leading-choices-in-efficient-paralogical-data-recovery-software-discover-optimal-alternatives/"><u>Leading Choices in Efficient Paralogical Data Recovery Software – Discover Optimal Alternatives</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/losung-fur-das-problem-der-nicht-abgelegten-dateien-in-visual-studio-code/"><u>Lösung Für Das Problem Der Nicht Abgelegten Dateien in Visual Studio Code</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-face-swap-frenzy-the-top-rated-apps-for-iphone-and-android-this-year-for-2024/"><u>New Face Swap Frenzy The Top-Rated Apps for iPhone and Android This Year for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/no-backup-no-problem-learn-here-for-free-restoring-deleted-items-in-windows-10/"><u>No Backup? No Problem! Learn Here for Free: Restoring Deleted Items in Windows 10</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/reviving-your-old-data-seamless-iphone-transfer-to-a-new-device-via-icloud-or-itunes/"><u>Reviving Your Old Data: Seamless iPhone Transfer to a New Device via iCloud or iTunes</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/step-by-step-guide-adding-the-latest-sports-addon-to-your-kodi-setup/"><u>Step-by-Step Guide: Adding the Latest Sports Addon to Your Kodi Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-microsoft-driver-update-process-for-windows-operating-systems-10-8-and-easier/"><u>Step-by-Step Microsoft Driver Update Process for Windows Operating Systems (10, 8 & Easier)</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-tutorial-for-setting-up-bit-for-bit-duplication-of-files-between-hard-drives-in-windows-environments/"><u>Step-by-Step Tutorial for Setting Up Bit-for-Bit Duplication of Files Between Hard Drives in Windows Environments</u></a></li>
 </ul></div>
 

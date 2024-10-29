@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Tutorial: Setting Up a Domain Controller on Windows Server 2012"
-date: 2024-10-16T02:40:29.336Z
-updated: 2024-10-23T02:59:07.632Z
+date: 2024-10-22T00:25:01.909Z
+updated: 2024-10-29T03:28:06.326Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/bbef43834dfaff617698ea8f3b5ade870119d6ba3c72e1c68f4dc5c5b52a7aac.jpg
@@ -56,9 +56,23 @@ Norton Ghost is one **disk imaging and cloning tool** that firstly developed in 
 
 In a word, if you want to make an image back for your computer or want to clone to the new hard drive, Norton Ghost is not a bad choice. However, now Norton Ghost is **no longer available for the Home user**. It was **discontinued by Symantec in 2013**. Indeed you can still download the latest version - Norton Ghost 15, but it only offers a 30-day free trial and then you need to pay for it.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use Norton Ghost 15 Step by Step
 
 Here in this guide, you will get the detailed steps about how to use Symantec Ghost in Windows 11/10/8/7\. You can simply search “**Norton Ghost 15 download**” via your browser to get the tool. As we have mentioned above, it only offers a 30-day free trial. If you prefer a free tool to help you backup, restore or clone your hard drive, you can refer to the [next part](https://tools.techidaily.com/ubackup/products/) to get the best free alternative to Norton Ghost.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Image Your Computer with Norton Ghost
 
@@ -76,6 +90,13 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
 
 4\. Finally, click **OK** to confirm.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Restore Image with Norton Ghost
 
@@ -96,6 +117,19 @@ Click **Recover My Files** if you want to recover files or folder, or **Recover 
 On **Recover My Computer** screen, find and choose the right system restore point and click **Recover Now** to make it.
 
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
 
@@ -129,10 +163,10 @@ Download it to have a try! If you are using a server system, such as, server 200
 Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Create Image Backup
@@ -148,19 +182,6 @@ Select the corresponding backup methods if you want to backup system, partition 
 2\. Click **Add Disk** to choose the system disk to be backed up.
 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
@@ -178,10 +199,16 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 [![Restore](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/restore/disk-restore/home-restore.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 👉 **Notes:** 
@@ -192,17 +219,10 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Clone Hard Drive
@@ -215,13 +235,6 @@ You can directly clone hard drive to another one with the **[Disk Clone](https:/
 
 * The free version of AOMEI Backupper only supports cloning a data disk. To clone a disk with OS installed, you can [upgrade](https://tools.techidaily.com/ubackup/products/) to higher versions to enjoy it.
 * The [System Clone](https://tools.techidaily.com/ubackup/products/) feature can help you only clone system to new hard drive, which uses less disk space than disk clone. Also, it requires a higher version.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -262,10 +275,10 @@ Was the provided information useful? Your vote is important to us!
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Related Articles
@@ -298,13 +311,6 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -320,19 +326,20 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-premium-audio-packs-for-visual-storytelling/"><u>[New] 2024 Approved Premium Audio Packs for Visual Storytelling</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-new-layer-on-sony-s3700-blu-ray-play/"><u>[New] In 2024, New Layer on Sony S3700 Blu-Ray PLAY</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-the-formula-to-fame-elevating-subscriber-numbers-on-youtube/"><u>[New] The Formula to Fame Elevating Subscriber Numbers on Youtube</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-teachers-guide-to-use-video-in-teaching/"><u>2024 Approved Teacher's Guide To Use Video In Teaching</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/configuring-emeditors-automatic-file-detection-and-preferences-a-step-by-step-guide/"><u>Configuring EmEditor's Automatic File Detection & Preferences - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/guia-experta-sobre-como-rescatar-informacion-perdida-con-herramientas-para-recuperacion-de-datos-en-nas-synology/"><u>Guía Experta Sobre Cómo Rescatar Información Perdida Con Herramientas Para Recuperación De Datos en NAS Synology</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-lava-blaze-curve-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Lava Blaze Curve 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Samsung Galaxy S24+? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/nioh-2-full-edition-step-by-step-fix-for-sudden-game-crashes/"><u>Nioh 2 Full Edition - Step-by-Step Fix for Sudden Game Crashes</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/retrieve-missing-files-and-directories-in-windows-versions-a-step-by-step-guide/"><u>Retrieve Missing Files and Directories in Windows Versions - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/understanding-fujifilm-autosave-feature-and-methods-for-recovering-lost-fuji-images/"><u>Understanding Fujifilm AutoSave Feature and Methods for Recovering Lost Fuji Images</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/data-panaraparapata-bkaapa-ka-chhaugdhakara-mara-hae-iphone-sa-data-kasa-shara-kara/"><u>डेटा पुनर्प्राप्ति: बैकअप को छोड़कर मरे हुए iPhone से डेटा कैसे शुरू करें</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/44ot44k444on44k555so44k344oo44ot44k444o744ki44kv44og44kj44ow44oq44od44kv44ki44od44ox44gu5yq55p6c55qe44gq5yip55so5pa55rov44go5lim6kgm5yplusv6io944gq5luw56spl337/"><u>ビジネス用シノロジ・アクティブバックアップの効果的な利用方法と並行可能な他社製品</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-elevate-audience-reach-through-collaborative-youtube-videos/"><u>[Updated] In 2024, Elevate Audience Reach Through Collaborative YouTube Videos</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1-effiziente-methoden-zum-erstellen-von-installationsbildern-fur-windows-10-inklusive-windows-11-8-und-7/"><u>1. Effiziente Methoden Zum Erstellen Von Installationsbildern Für Windows 10, Inklusive Windows 11, 8 Und 7</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/expert-tips-for-restoring-allocation-to-an-unallocated-external-hdd-keep-all-files-intact/"><u>Expert Tips for Restoring Allocation to an Unallocated External HDD - Keep All Files Intact!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/first-encounter-with-the-cutting-edge-samsung-galaxy-s24-ultra-handset/"><u>First Encounter with the Cutting-Edge Samsung Galaxy S24 Ultra Handset</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On Apple iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-key-to-spreading-online-jokes-fast/"><u>In 2024, The Key to Spreading Online Jokes Fast</u></a></li>
+<li><a href="https://driver-error.techidaily.com/locating-opengl-drivers-within-intels-sdk/"><u>Locating OpenGL Drivers Within Intel's SDK</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/meistere-die-kontrolle-uber-ihr-aomei-display-konto-mit-diesen-tipps-und-tricks/"><u>Meistere Die Kontrolle Über Ihr AOMEI-Display-Konto Mit Diesen Tipps Und Tricks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-top-apps-to-convert-videos-to-live-photos-on-iphone/"><u>New Top Apps to Convert Videos to Live Photos on iPhone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/qnapsynology-naspc/"><u>QNAP/Synology NAS體系列如何有效地將檔案備份到PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-ahead-in-technology-with-toms-hardware-analysis/"><u>Stay Ahead in Technology with Tom's Hardware Analysis</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-creating-a-boot-disk-using-windows-pe-or-linux/"><u>Step-by-Step Guide: Creating a Boot Disk Using Windows PE or Linux</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-get-zoom-on-tv-easy-solutions-for-2024/"><u>Updated How to Get Zoom on TV Easy Solutions for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1728474993247-windows-server-2022/"><u>Windows Server 2022リカバリー ポイントを簡単に設定する</u></a></li>
 </ul></div>
 

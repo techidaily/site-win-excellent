@@ -1,7 +1,7 @@
 ---
 title: Le Sauvetage Du Service D'enregistrement Sur Windows Server Est Actuellement Indisponible, Merci Pour Votre Patience
-date: 2024-10-16T20:01:41.813Z
-updated: 2024-10-22T17:34:36.142Z
+date: 2024-10-26T03:19:37.056Z
+updated: 2024-10-29T04:12:11.779Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/04c62b2f290b2c5f1899e5598ab465be77832cb08688d450e39f1038f772602c.png
@@ -51,10 +51,16 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 | **Cons**      | **✖** Discontinued **✖** Complex interface **✖** Compatibility issues                                                                                                                                                                                                            | **✖** Advanced features locked in the free version                                                                                                                                                                                                                                            |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## About Norton Ghost
@@ -75,6 +81,13 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. The **Easy Setup** screen will appear.
 
 * You can click **OK** to accept the default settings or click a setting to modify it.
@@ -85,10 +98,10 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 4\. Finally, click **OK** to confirm.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Restore Image with Norton Ghost
@@ -122,10 +135,10 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 👉 **Note:** The drivers that are used to run the hardware on one computer will likely not match the drivers on a second computer. So you’d better not use the Copy Drive feature to set up a hard drive that will be used in another computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best Free Alternative to Norton Ghost
@@ -148,13 +161,6 @@ Download it to have a try! If you are using a server system, such as, server 200
 [Download Freeware Win 11/10/8.1/8/7/XP](https://tools.techidaily.com/ubackup/products/) 
 
 Secure Download
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Create Image Backup
 
@@ -185,13 +191,6 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 
 [![Restore](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/restore/disk-restore/home-restore.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 👉 **Notes:** 
 
 * With AOMEI **[Universal Restore](https://tools.techidaily.com/ubackup/products/)** feature, you can restore a backup image, system image in particular, created on one computer to another one that has dissimilar hardware installed. It can also help you reinstall the system if you are planning to change the hardware such as motherboard, CPU, etc. Available in higher editions like [AOMEI Backupper Professional](https://tools.techidaily.com/ubackup/products/).
@@ -200,10 +199,10 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Clone Hard Drive
@@ -251,9 +250,35 @@ Was the provided information useful? Your vote is important to us!
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Lena](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -275,6 +300,13 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -283,21 +315,7 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -314,24 +332,21 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-quick-thumbnail-tips-for-youtube-success-for-2024/"><u>[Updated] Quick Thumbnail Tips for YouTube Success for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-screensaviors-guide-global-and-regional-channels-led-by-you-for-2024/"><u>[Updated] ScreenSaviors Guide Global and Regional Channels Led by You for 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/44cm57ch5y2y44gr5lplusu55cg44gn44gn44kl77yb5lia5bqm44gr5l2v44kc44gx44gm44gq44ge44gu44gr44oe44km44k544gm5yuv44gl44gq44gp44gq44kl5y6f5zug44go6kej5rg65rov44cn.233/"><u>「簡単に修理できる！一度に何もしてないのにマウスが動かなくなる原因と解決法」</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1-step-by-step-guide-performing-a-complete-ipad-data-backup-offline-and-using-itunes/"><u>1. Step-by-Step Guide: Performing a Complete iPad Data Backup Offline and Using iTunes</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/back-up-data-effortlessly-transferring-computer-information-to-usb-with-windows-1011/"><u>Back Up Data Effortlessly: Transferring Computer Information to USB with Windows 10/11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-advice-for-switching-from-windows-10-to-11-effortlessly/"><u>Expert Advice for Switching From Windows 10 To 11 Effortlessly</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-elite-5-video-snapshot-recorders/"><u>In 2024, Elite 5 Video Snapshot Recorders</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/klemmend-archivierte-e-mails-sicher-speichern-einfache-outlook-tipps/"><u>Klemmend Archivierte E-Mails Sicher Speichern – Einfache Outlook Tipps</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-edit-vob-files-for-free-top-5-video-editor-recommendations-for-2024/"><u>New Edit VOB Files for Free Top 5 Video Editor Recommendations for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/izing-content-visibility-premier-tracking-applications-for-youtubers/"><u>Optimizing Content Visibility - Premier Tracking Applications for YouTubers</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/quick-guide-efficiently-duplicate-your-windows-1110-system-with-our-4-step-hard-drive-cloning-method/"><u>Quick Guide: Efficiently Duplicate Your Windows 11/10 System with Our 4-Step Hard Drive Cloning Method!</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/resolving-the-issue-of-vanishing-drives-on-your-pc-with-windows-11-a-comprehensive-fix/"><u>Resolving the Issue of Vanishing Drives on Your PC with Windows 11: A Comprehensive Fix</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revamping-your-iphones-control-center-with-ios-18-ultimate-tips-and-tricks-for-personalized-accessibility/"><u>Revamping Your iPhone's Control Center with iOS 18: Ultimate Tips & Tricks for Personalized Accessibility</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/sincronizzare-onedrive-in-solo-due-fasi-metodi-ottimali-e-pratici/"><u>Sincronizzare OneDrive in Solo Due Fasi: Metodi Ottimali E Pratici</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/step-by-step-tutorial-extracting-pictures-from-a-polaroid-device/"><u>Step-by-Step Tutorial: Extracting Pictures From a Polaroid Device</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/tidak-sabar-akibat-google-map-dan-e-drive-pulih-dihilang-petunjuk-menjelaskan-mengapa-dan-cara-perbaikannya/"><u>Tidak Sabar Akibat Google Map Dan E Drive Pulih Dihilang, Petunjuk Menjelaskan Mengapa Dan Cara Perbaikannya</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/top-5-youtube-video-marketing-strategies/"><u>Top 5 YouTube Video Marketing Strategies</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/usbwd-my-passportwindows/"><u>USBデバイスWD My PassportにWindowsからセーブし直す方法</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-booting-woes-discover-how-to-overcome-unexpected-freezes-upon-startup/"><u>Windows 10 Booting Woes? Discover How to Overcome Unexpected Freezes Upon Startup</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-a-shadows-perspective-instagram-story-discovery-with-zero-identity-disclosure-pc-android-iphone/"><u>[New] 2024 Approved A Shadow's Perspective Instagram Story Discovery with Zero Identity Disclosure [PC, Android, iPhone]</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-toggle-between-normal-and-picture-in-picture-view-for-youtube-on-iphone/"><u>[New] Toggle Between Normal and Picture In Picture View for Youtube on iPhone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-introduction-to-plot-and-character-dynamics/"><u>[Updated] Introduction to Plot and Character Dynamics</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleash-the-power-of-your-lost-iphone-x/"><u>[Updated] Unleash the Power of Your Lost iPhone X</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>3 Ways to Fake GPS Without Root On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/cloudless-file-synchronization-uncover-the-top-2-free-techniques-for-sharing-documents-between-computers/"><u>Cloudless File Synchronization: Uncover the Top 2 Free Techniques for Sharing Documents Between Computers</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/configuring-emeditors-automatic-file-detection-and-preferences-a-step-by-step-guide/"><u>Configuring EmEditor's Automatic File Detection & Preferences - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/guia-experta-sobre-como-rescatar-informacion-perdida-con-herramientas-para-recuperacion-de-datos-en-nas-synology/"><u>Guía Experta Sobre Cómo Rescatar Información Perdida Con Herramientas Para Recuperación De Datos en NAS Synology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-basic-players-to-gamers-paradise-the-kinemaster-android-experience/"><u>In 2024, From Basic Players to Gamers' Paradise The KineMaster Android Experience</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-15-pro-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 15 Pro Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/retrieve-missing-files-and-directories-in-windows-versions-a-step-by-step-guide/"><u>Retrieve Missing Files and Directories in Windows Versions - A Step-by-Step Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/stream-wars-evaluation-who-comes-out-on-top-obs-or-twitch-studio/"><u>Stream Wars Evaluation Who Comes Out on Top, OBS or Twitch Studio?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722870959454-top-rated-ipad-offers-exclusive-savings-today/"><u>Top-Rated iPad Offers - Exclusive Savings Today</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/understanding-fujifilm-autosave-feature-and-methods-for-recovering-lost-fuji-images/"><u>Understanding Fujifilm AutoSave Feature and Methods for Recovering Lost Fuji Images</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/data-panaraparapata-bkaapa-ka-chhaugdhakara-mara-hae-iphone-sa-data-kasa-shara-kara/"><u>डेटा पुनर्प्राप्ति: बैकअप को छोड़कर मरे हुए iPhone से डेटा कैसे शुरू करें</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/44ot44k444on44k555so44k344oo44ot44k444o744ki44kv44og44kj44ow44oq44od44kv44ki44od44ox44gu5yq55p6c55qe44gq5yip55so5pa55rov44go5lim6kgm5yplusv6io944gq5luw56spl337/"><u>ビジネス用シノロジ・アクティブバックアップの効果的な利用方法と並行可能な他社製品</u></a></li>
 </ul></div>
 
