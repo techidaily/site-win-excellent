@@ -1,7 +1,7 @@
 ---
 title: Setting Up Your DEX 3 Mixer with a DJ Controllers' MIDI Interface - Step-by-Step Guide
-date: 2024-11-25T17:38:39.282Z
-updated: 2024-12-01T02:09:43.035Z
+date: 2024-12-08T06:02:52.799Z
+updated: 2024-12-09T07:15:57.086Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We’ll continue to add support as new DJ controllers hit the streets, but as pr
 ##### Video: This Is How To Configure Your DJ Controller Audio Interface With PCDJ DEX 3.3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -49,21 +49,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/02/audioconfiguration-blog.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-punpixel-the-ultimate-tool-for-digital-humor/"><u>[New] PunPixel The Ultimate Tool for Digital Humor</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-evaluating-m1s-capabilities-for-heavy-duty-media-editing/"><u>[Updated] 2024 Approved Evaluating M1's Capabilities for Heavy-Duty Media Editing</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-eliminating-exposure-techniques-to-hide-sensitive-content/"><u>[Updated] In 2024, Eliminating Exposure Techniques to Hide Sensitive Content</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-dual-platform-dance-posting-vids-with-twitter-and-tumblr/"><u>[Updated] The Dual-Platform Dance Posting Vids with Twitter & Tumblr</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1-restore-deleted-playstation-save-files-a-3-step-guide/"><u>1. Restore Deleted PlayStation Save Files: A 3-Step Guide</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1728487524175-aomei-backupper/"><u>AOMEI Backupperを使用したメールデータの安全な復元手順</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-navigate-and-watch-harnessing-netflixs-picture-in-picture-functionality/"><u>In 2024, Navigate and Watch Harnessing Netflix's Picture-in-Picture Functionality</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/mastering-memory-rescue-4-effective-techniques-for-transcend-memory-recovery/"><u>Mastering Memory Rescue: 4 Effective Techniques for Transcend Memory Recovery</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/readers-choice-top-8-ebook-applications-to-enhance-your-reading-experience-in/"><u>Readers' Choice: Top 8 eBook Applications to Enhance Your Reading Experience In</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-infinix-note-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/solutions-innovantes-pour-les-ordinateurs-seteignant-brusquement-sans-rallumer-8-idees-efficaces-a-tester/"><u>Solutions Innovantes Pour Les Ordinateurs S'Éteignant Brusquement Sans Rallumer : 8 Idées Efficaces À Tester</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-step-by-step-process-for-screening-web-tv-episodes/"><u>The Step-by-Step Process for Screening Web TV Episodes</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-clicker-article-titles-maker-for-2024/"><u>Top Clicker Article Titles Maker for 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/troubleshooting-playstation-4s-stuck-safe-mode-without-corrupting-save-files/"><u>Troubleshooting PlayStation 4'S Stuck Safe Mode without Corrupting Save Files</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1728482729401-windows-10-os/"><u>Windows 10 OSをアップデートする前に知っておくべきポイント - 大事なチェックリスト</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1728486363767-hdd/"><u>サムスンHDDのデータ復旧ガイド:失われた情報を取り戻せる手順</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-crystalstream-hd-converter-software-suite/"><u>[New] CrystalStream HD Converter Software Suite</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-efficiently-capture-and-record-your-idevice-screen/"><u>[Updated] 2024 Approved Efficiently Capture and Record Your iDevice Screen</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-effortlessly-record-time-lapses-on-apple-devices/"><u>[Updated] Effortlessly Record Time-Lapses on Apple Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-make-gmail-meetings-work-zipping-up-zoom-integrations/"><u>[Updated] How to Make Gmail Meetings Work Zipping Up Zoom Integrations</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-discovering-the-roots-of-visual-content-through-reverse-scans-fb/"><u>[Updated] In 2024, Discovering the Roots of Visual Content Through Reverse Scans (FB)</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/effective-strategies-to-avoid-memory-issues-on-your-pc-insights-from-yl-computing/"><u>Effective Strategies to Avoid Memory Issues on Your PC - Insights From YL Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-your-meta-quest-experience-with-apples-3d-spatial-content-step-by-step-guide-to-viewing/"><u>Enhance Your Meta Quest Experience with Apple's 3D Spatial Content - Step-by-Step Guide to Viewing</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/high-definition-cityscapes-backgrounds-premium-hd-wallpapers-and-photographs-powered-by-yl-computings-image-collection/"><u>High-Definition Cityscapes Backgrounds: Premium HD Wallpapers & Photographs - Powered by YL Computing's Image Collection</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/master-the-art-of-cryptocurrency-mining-setup-and-optimization-techniques-using-yl-software/"><u>Master the Art of Cryptocurrency Mining: Setup & Optimization Techniques Using YL Software</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/maximizing-cpu-efficiency-effective-techniques-from-yl-computing-to-accelerate-processor-speed/"><u>Maximizing CPU Efficiency: Effective Techniques From YL Computing to Accelerate Processor Speed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/multiple-friend-deletions-in-a-single-move-mastering-snapchats-user-interface/"><u>Multiple Friend Deletions in a Single Move: Mastering Snapchat's User Interface</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/protecting-your-crypto-assets-comprehensive-tips-from-yl-softwares-tech-experts/"><u>Protecting Your Crypto Assets: Comprehensive Tips From YL Software's Tech Experts</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/resolving-network-connection-problems-expert-tips-from-yl-computings-tech-guides/"><u>Resolving Network Connection Problems: Expert Tips From YL Computing's Tech Guides</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210699887-9781743589120-the-astrology-of-you/"><u>The Astrology of You | Free Book</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transcodificar-avi-a-formato-de-video-wmv-online-sin-coste-alguno-con-convertidor-wmv-libre/"><u>Transcodificar AVI a Formato De Video WMV Online Sin Coste Alguno Con Convertidor WMV Libre</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/unlocking-file-information-secrets-mastery-course-by-yl-software-for-efficient-data-management/"><u>Unlocking File Information Secrets: Mastery Course by YL Software for Efficient Data Management</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/yl-software-advice-reviving-your-scanner-when-the-print-head-is-broken-a-step-by-step-guide/"><u>YL Software Advice: Reviving Your Scanner When the Print Head Is Broken - A Step-by-Step Guide</u></a></li>
 </ul></div>
 

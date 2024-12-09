@@ -1,7 +1,7 @@
 ---
 title: Discover Advanced Karaoke Control with PCDJ's New Feature in DEX Software (Version 3.11.0.1)
-date: 2024-11-29T02:58:42.335Z
-updated: 2024-11-30T16:53:31.243Z
+date: 2024-12-07T04:38:25.255Z
+updated: 2024-12-08T16:25:05.080Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ One of the new karaoke features found in [DEX 3 version 3.11.0.1](https://tools.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How it Works
@@ -33,7 +33,7 @@ From a list or from search results, drag-and-drop a karaoke track into the singe
 [![Pre adjust key on karaoke songs](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/key-setting.jpg?fit=300%2C300&ssl=1 "Pre adjust key on karaoke songs")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/key-setting.jpg?fit=613%2C613&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You will then see the key adjust number in rotation next to the track’s title. (IE: If you adjust three 1/2 semitone steps you’d see ‘+1.50’ next to the song title in the rotation list). Use the ‘**Load Singer**‘ button to load and play the top karaoke track from the singer rotation list and the key adjustment will be applied in the deck/player automatically.
@@ -45,7 +45,7 @@ With this new addition there’s no question that [DEX 3](https://tools.techidai
 _Have questions about the karaoke features and key control settings found in DEX 3.11? Please leave them in the comments section below and someone will respond promptly!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,24 +67,15 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/cover-pre-adjust-key.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-key-tips-for-sourcing-elite-filmmakers/"><u>[New] Key Tips for Sourcing Elite Filmmakers</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/aintaining-mystery-techniques-for-smoothing-out-visuals-for-2024/"><u>[New] Maintaining Mystery Techniques for Smoothing Out Visuals for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-cutting-away-the-video-to-a-pure-still-picture-with-windows-photos-for-2024/"><u>[Updated] Cutting Away the Video to a Pure Still Picture with Windows Photos for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-crafting-the-impeccable-circle-and-sphere-forms-in-mc-world/"><u>[Updated] In 2024, Crafting the Impeccable Circle & Sphere Forms in MC World</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-iphone-13-pro-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on iPhone 13 Pro</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/7-systems-successfully/"><u>7 Systems Successfully</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/adventure-showdown-analyzing-gopros-hero5b-and-session-for-2024/"><u>Adventure Showdown Analyzing GoPro's Hero5B & Session for 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/complete-step-by-step-tutorial-running-windows-1011-on-your-steam-deck/"><u>Complete Step-by-Step Tutorial: Running Windows 10/11 on Your Steam Deck</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/drei-strategien-zum-herstellen-eines-iphones-datenbackups-unter-windows-oder-macos-unabhangig-von-itunes/"><u>Drei Strategien Zum Herstellen Eines iPhones Datenbackups Unter Windows Oder macOS, Unabhängig Von iTunes</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/funf-strategien-zur-behebung-des-fehlers-0x80070003-in-windows-11/"><u>Fünf Strategien Zur Behebung Des Fehlers 0X80070003 in Windows 11</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/get-started-no-cost-data-recovery-tools-and-instant-access-to-secure-file-restoration/"><u>Get Started: No-Cost Data Recovery Tools & Instant Access to Secure File Restoration</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-10-drone-fleet-for-professional-photos-and-films/"><u>In 2024, Excellent 10-Drone Fleet for Professional Photos & Films</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-honor-x9b-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Honor X9b FRP</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-top-6-free-audio-apps-convert-youtube-hits-to-your-android-device/"><u>In 2024, Top 6 Free Audio Apps - Convert YouTube Hits to Your Android Device</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/procedures-detaillees-pour-linstallation-de-windows-11-en-utilisant-mbr-un-guide-eclairant/"><u>Procédures Détaillées Pour L'installation De Windows 11 en Utilisant MBR: Un Guide Éclairant</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/qnap-netbackup-alternatives-para-una-copia-de-seguridad-rapida-y-facil-descarga-gratuita/"><u>QNAP NetBackup Alternatives Para Una Copia De Seguridad Rápida Y Fácil - Descarga Gratuita</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/simple-methods-transferring-your-data-safely-from-windows-pc-to-external-hdd/"><u>Simple Methods: Transferring Your Data Safely - From Windows PC to External HDD</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/solve-the-dilemma-resetting-or-retrieving-a-forgotten-windows-11-password/"><u>Solve the Dilemma: Resetting or Retrieving a Forgotten Windows 11 Password</u></a></li>
-<li><a href="https://win-info.techidaily.com/step-by-step-instructions-for-downloading-and-viewing-movie-webs-top-picks-in-news-and-reviews/"><u>Step-by-Step Instructions for Downloading and Viewing Movie Web's Top Picks in News & Reviews</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-cutting-edge-chrome-vocal-transforming-apps-top-5-choices/"><u>2024 Approved Cutting-Edge Chrome Vocal Transforming Apps Top 5 Choices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-realme-12-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Realme 12 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/accelerated-content-acquisition-with-funimate-for-2024/"><u>Accelerated Content Acquisition with Funimate for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/diagnosing-your-computers-startup-issues-expert-tips-from-yl-tech-support/"><u>Diagnosing Your Computer’s Startup Issues: Expert Tips From YL Tech Support</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/effective-strategies-for-diagnosing-and-resolving-pc-hardware-problems-insights-by-yl-computing/"><u>Effective Strategies for Diagnosing and Resolving PC Hardware Problems - Insights by YL Computing</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/high-definition-alfa-romeo-stelvio-quadrifoglio-wallpaper-pack-ultimate-desktop-and-mobile-backgrounds-by-yl-computing/"><u>High-Definition Alfa Romeo Stelvio Quadrifoglio Wallpaper Pack - Ultimate Desktop & Mobile Backgrounds by YL Computing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Realme 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-logitech-g27-driver-downloads-for-windows-11-10-and-seven-windows-7/"><u>Latest Logitech G27 Driver Downloads for Windows 11, 10 and Seven (Windows 7)</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/optimizing-your-windows-network-configuration-a-comprehensive-guide-tips-by-yl-computing/"><u>Optimizing Your Windows Network Configuration: A Comprehensive Guide - Tips by YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-issue-when-wininetdll-cant-be-located/"><u>Resolving the Issue: When Wininet.dll Can't Be Located</u></a></li>
 </ul></div>
 
