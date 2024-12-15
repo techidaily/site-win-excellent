@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Mastering Sidelists & Auto Mix Shuffle Features in PCDJ DEX 3 – Learn with Our Expert Tutorial
-date: 2024-11-23T21:04:45.566Z
-updated: 2024-11-30T23:14:04.232Z
+date: 2024-12-14T01:22:46.580Z
+updated: 2024-12-15T00:55:12.871Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ Being able to see your search results, or tracks in any opened directory or user
 ##### Using the Sidelist and Automix-Shuffle in PCDJ DEX 3 DJ Mixing Software
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,19 +44,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/coverimage-sidelist-automi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-highest-quality-capture-software-showdown/"><u>[Updated] 2024 Approved Highest Quality Capture Software Showdown</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-essential-steps-for-procuring-clip-art-at-no-cost/"><u>[Updated] In 2024, Essential Steps for Procuring Clip Art at No Cost</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-elevate-your-reality-best-of-samsung-gear-vr-titles/"><u>2024 Approved Elevate Your Reality Best of Samsung Gear VR Titles</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/adding-captions-and-text-a-guide-for-photo-titles-in-microsoft-photos/"><u>Adding Captions and Text A Guide for Photo Titles in Microsoft Photos</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/common-subnet-size-for-an-organizations-allocation-is-48-in-ipv6-which-allows-significant-flexibility-within-the-network/"><u>Common Subnet Size for an Organization's Allocation Is /48 in IPv6, Which Allows Significant Flexibility Within the Network.</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/effizientes-organisieren-zwei-fuhrende-verfahren-fur-den-synchronen-datenaustausch-in-windows-11/"><u>Effizientes Organisieren: Zwei Führende Verfahren Für Den Synchronen Datenaustausch in Windows 11</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/guia-experta-sobre-como-rescatar-informacion-perdida-con-herramientas-para-recuperacion-de-datos-en-nas-synology/"><u>Guía Experta Sobre Cómo Rescatar Información Perdida Con Herramientas Para Recuperación De Datos en NAS Synology</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/guida-passo-passo-per-il-migrate-di-windows-nella-versione-11-da-un-ssd-allaltro-utilizzando-lopzione-di-boot-protected/"><u>Guida Passo-Passo per Il Migrate Di Windows Nella Versione 11 Da Un SSD All'altro Utilizzando L'Opzione Di Boot Protected</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-oppo-reno-10-pro-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Oppo Reno 10 Pro 5G Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/instasong-rights-guidelines-for-2024/"><u>InstaSong Rights Guidelines for 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/retrieve-missing-files-and-directories-in-windows-versions-a-step-by-step-guide/"><u>Retrieve Missing Files and Directories in Windows Versions - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/schritt-fur-schritt-anleitung-zum-erstellen-und-wiederherstellen-des-del-factory-images-auf-ihrem-gerat/"><u>Schritt-Für-Schritt-Anleitung Zum Erstellen Und Wiederherstellen Des Del-Factory-Images Auf Ihrem Gerät</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/understanding-fujifilm-autosave-feature-and-methods-for-recovering-lost-fuji-images/"><u>Understanding Fujifilm AutoSave Feature and Methods for Recovering Lost Fuji Images</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/wie-sie-ihre-versehentlich-geloschte-primare-partition-unter-windows-10-wiederherstellen-konnen/"><u>Wie Sie Ihre Versehentlich Gelöschte Primäre Partition Unter Windows 10 Wiederherstellen Können</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-maximizing-video-visibility-on-youtube-with-seo-insights/"><u>[New] In 2024, Maximizing Video Visibility on YouTube with SEO Insights</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-powerdirector-unleashed-in-depth-2024-analysis-and-guide/"><u>[New] PowerDirector Unleashed In-Depth 2024 Analysis and Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-transform-ppt-deck-into-video-stream/"><u>[Updated] 2024 Approved Transform PPT Deck Into Video Stream</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazingly-clear-display-at-an-unbeatable-price-discover-this-budget-friendly-ultrabook-on-zdnet/"><u>Amazingly Clear Display at an Unbeatable Price: Discover This Budget-Friendly Ultrabook on ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/brother-l2700dw-printer-drivers-free-download-and-installation-guide-for-windows-pcs/"><u>Brother L2700DW Printer Drivers: Free Download & Installation Guide for Windows PCs</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/dealing-with-disconnects-steps-to-resolve-unrecognized-usb-devices-on-your-computer-by-yl-software/"><u>Dealing with Disconnects: Steps to Resolve Unrecognized USB Devices on Your Computer by YL Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-itel-s23plus-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Itel S23+ to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-vivo-y100amirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Vivo Y100AMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-xcover-7-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy XCover 7 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-motion-analysis-report-2023/"><u>In 2024, Motion Analysis Report 2023</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/maximize-your-pc-performance-essential-tips-for-pcdj-optimization/"><u>Maximize Your PC Performance: Essential Tips for PCDJ Optimization</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/navigating-global-digital-frontiers-a-comprehensive-guide-on-international-crypto-regulation-by-yl-computing/"><u>Navigating Global Digital Frontiers: A Comprehensive Guide on International Crypto Regulation by YL Computing</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/resolving-graphics-card-driver-issues-expert-advice-from-yl-computing/"><u>Resolving Graphics Card Driver Issues: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/resolving-ram-misconfiguration-issues-expert-advice-from-yl-software/"><u>Resolving RAM Misconfiguration Issues: Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/stunning-joker-movie-2019-wallpaper-collection-and-backgrounds-by-yl-computing-a-comprehensive-visual-guide/"><u>Stunning Joker Movie 2019 Wallpaper Collection & Backgrounds by YL Computing: A Comprehensive Visual Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-zte-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change ZTE IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/understanding-the-mechanics-of-cryptocurrencies-an-in-depth-guide-by-yl-computing/"><u>Understanding the Mechanics of Cryptocurrencies: An In-Depth Guide by YL Computing</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/unleash-the-power-of-streamlined-patches-enabling-unified-update-settings-in-windows-10-expert-advice-from-yl-computing/"><u>Unleash the Power of Streamlined Patches: Enabling Unified Update Settings in Windows 10 - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/yl-computing-guide-customizing-your-devices-energy-configuration/"><u>YL Computing Guide: Customizing Your Device's Energy Configuration</u></a></li>
 </ul></div>
 

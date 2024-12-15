@@ -1,7 +1,7 @@
 ---
 title: Discover Advanced Karaoke Control with PCDJ's New Feature in DEX Software (Version 3.11.0.1)
-date: 2024-12-07T04:38:25.255Z
-updated: 2024-12-08T16:25:05.080Z
+date: 2024-12-09T16:36:51.815Z
+updated: 2024-12-15T06:05:59.502Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ One of the new karaoke features found in [DEX 3 version 3.11.0.1](https://tools.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How it Works
@@ -33,7 +33,7 @@ From a list or from search results, drag-and-drop a karaoke track into the singe
 [![Pre adjust key on karaoke songs](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/key-setting.jpg?fit=300%2C300&ssl=1 "Pre adjust key on karaoke songs")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/key-setting.jpg?fit=613%2C613&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You will then see the key adjust number in rotation next to the track’s title. (IE: If you adjust three 1/2 semitone steps you’d see ‘+1.50’ next to the song title in the rotation list). Use the ‘**Load Singer**‘ button to load and play the top karaoke track from the singer rotation list and the key adjustment will be applied in the deck/player automatically.
@@ -45,7 +45,7 @@ With this new addition there’s no question that [DEX 3](https://tools.techidai
 _Have questions about the karaoke features and key control settings found in DEX 3.11? Please leave them in the comments section below and someone will respond promptly!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,15 +67,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/cover-pre-adjust-key.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-cutting-edge-chrome-vocal-transforming-apps-top-5-choices/"><u>2024 Approved Cutting-Edge Chrome Vocal Transforming Apps Top 5 Choices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-realme-12-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Realme 12 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/accelerated-content-acquisition-with-funimate-for-2024/"><u>Accelerated Content Acquisition with Funimate for 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/diagnosing-your-computers-startup-issues-expert-tips-from-yl-tech-support/"><u>Diagnosing Your Computer’s Startup Issues: Expert Tips From YL Tech Support</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/effective-strategies-for-diagnosing-and-resolving-pc-hardware-problems-insights-by-yl-computing/"><u>Effective Strategies for Diagnosing and Resolving PC Hardware Problems - Insights by YL Computing</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/high-definition-alfa-romeo-stelvio-quadrifoglio-wallpaper-pack-ultimate-desktop-and-mobile-backgrounds-by-yl-computing/"><u>High-Definition Alfa Romeo Stelvio Quadrifoglio Wallpaper Pack - Ultimate Desktop & Mobile Backgrounds by YL Computing</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Realme 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-logitech-g27-driver-downloads-for-windows-11-10-and-seven-windows-7/"><u>Latest Logitech G27 Driver Downloads for Windows 11, 10 and Seven (Windows 7)</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/optimizing-your-windows-network-configuration-a-comprehensive-guide-tips-by-yl-computing/"><u>Optimizing Your Windows Network Configuration: A Comprehensive Guide - Tips by YL Computing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-the-issue-when-wininetdll-cant-be-located/"><u>Resolving the Issue: When Wininet.dll Can't Be Located</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-a-blueprint-building-an-individualistic-tiktok-identifier/"><u>[New] A Blueprint Building an Individualistic TikTok Identifier</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-mastering-video-conferencing-combining-the-power-of-zoom-and-skype-for-2024/"><u>[New] Mastering Video Conferencing Combining the Power of ZOOM & SKYPE for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-pushing-boundaries-with-iphones-motion-blur-capabilities/"><u>[Updated] 2024 Approved Pushing Boundaries with iPhone’s Motion-Blur Capabilities</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-close-up-control-zooming-into-team-meetings-with-msteams/"><u>[Updated] Close-Up Control Zooming Into Team Meetings with MSTEAMS</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/windows10/"><u>失われたデータ:Windows10のフォルダがなくなってしまったらどうする?</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/download-high-quality-honda-civic-type-r-desktops-with-yl-software-your-trusted-tech-partner/"><u>Download High-Quality Honda Civic Type R Desktops with YL Software – Your Trusted Tech Partner</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/efficiently-execute-windows-batch-scripts-with-our-expert-tips/"><u>Efficiently Execute Windows Batch Scripts with Our Expert Tips</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/exploring-reasons-behind-gpu-errors-with-guidance-from-yl-software-experts/"><u>Exploring Reasons Behind GPU Errors with Guidance From YL Software Experts</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/how-can-you-accelerate-boot-speed-and-shorten-launch-times-insights-from-yl-computings-expertise/"><u>How Can You Accelerate Boot Speed & Shorten Launch Times: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-realme-12-pro-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Realme 12 Pro 5G Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-sony-xperia-1-v-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Sony Xperia 1 V Phone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/mastering-display-preferences-customizing-monitor-settings-in-windows-10-with-yl-computing-expertise/"><u>Mastering Display Preferences: Customizing Monitor Settings in Windows 10 with YL Computing Expertise</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/maximizing-computer-speed-and-stability-expert-strategies-by-yl-software-experts/"><u>Maximizing Computer Speed & Stability: Expert Strategies by YL Software Experts</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/solving-device-malfunctions-expert-tips-from-yl-computings-tech-team/"><u>Solving Device Malfunctions: Expert Tips From YL Computing’s Tech Team</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-made-easy-fixing-the-magic-mouse-tracker-hiccup/"><u>Troubleshoot Made Easy: Fixing the Magic Mouse Tracker Hiccup</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/ultimate-guide-to-mastering-sidelists-and-auto-mix-shuffle-features-in-pcdj-dex-3-learn-with-our-expert-tutorial/"><u>Ultimate Guide to Mastering Sidelists & Auto Mix Shuffle Features in PCDJ DEX 3 – Learn with Our Expert Tutorial</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlocking-potential-with-cookiebot-technology/"><u>Unlocking Potential with Cookiebot Technology</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/windows-shortcut-creation-guide-quick-steps-with-yl-computing/"><u>Windows Shortcut Creation Guide: Quick Steps with YL Computing</u></a></li>
 </ul></div>
 
