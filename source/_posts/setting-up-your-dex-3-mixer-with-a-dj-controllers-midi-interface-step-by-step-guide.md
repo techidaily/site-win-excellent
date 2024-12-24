@@ -1,7 +1,7 @@
 ---
 title: Setting Up Your DEX 3 Mixer with a DJ Controllers' MIDI Interface - Step-by-Step Guide
-date: 2024-12-09T01:07:00.872Z
-updated: 2024-12-15T02:53:34.040Z
+date: 2024-12-16T21:23:30.415Z
+updated: 2024-12-24T03:21:13.415Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We’ll continue to add support as new DJ controllers hit the streets, but as pr
 ##### Video: This Is How To Configure Your DJ Controller Audio Interface With PCDJ DEX 3.3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -49,24 +49,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/02/audioconfiguration-blog.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-virality-equation-tiktok-vs-twitter/"><u>[New] In 2024, The Virality Equation TikTok Vs. Twitter</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-pinnacle-workshop-25-critique/"><u>[Updated] Pinnacle Workshop 25 Critique</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-breakdown-of-adobe-cloud-plus-alternative-methods/"><u>2024 Approved Expert Breakdown of Adobe Cloud, Plus Alternative Methods</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-snap-your-world-how-to-watch-360-videos-on-android/"><u>2024 Approved Snap Your World How to Watch 360 Videos on Android</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-sns-hdrs-strengths-and-comparative-software/"><u>2024 Approved Unveiling SNS HDR's Strengths & Comparative Software</u></a></li>
-<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/high-definition-alfa-romeo-stelvio-quadrifoglio-wallpaper-pack-ultimate-desktop-and-mobile-backgrounds-by-yl-computing/"><u>High-Definition Alfa Romeo Stelvio Quadrifoglio Wallpaper Pack - Ultimate Desktop & Mobile Backgrounds by YL Computing</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/is-your-pc-truly-secure-with-windows-defender-understanding-its-ability-to-shield-against-various-viruses-and-malware-insights-by-yl-computing/"><u>Is Your PC Truly Secure with Windows Defender: Understanding Its Ability to Shield Against Various Viruses & Malware - Insights by YL Computing</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/maximize-your-pc-performance-essential-tips-for-pcdj-optimization/"><u>Maximize Your PC Performance: Essential Tips for PCDJ Optimization</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/optimizing-your-windows-network-configuration-a-comprehensive-guide-tips-by-yl-computing/"><u>Optimizing Your Windows Network Configuration: A Comprehensive Guide - Tips by YL Computing</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/rolls-royce-group-plc/"><u>Rolls-Royce Group Plc</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/safety-evaluation-of-second-hand-electricity-providers-a-discussion-with-yl-software/"><u>Safety Evaluation of Second-Hand Electricity Providers: A Discussion with YL Software</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/set-up-a-virtual-private-network-on-your-apple-vision-pro-device-step-by-step-guide-and-benefits-techadvisor/"><u>Set Up a Virtual Private Network on Your Apple Vision Pro Device: Step-by-Step Guide & Benefits | TechAdvisor</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/troubleshooting-unrecognizable-hard-drives-insights-from-yl-computing-and-yl-software/"><u>Troubleshooting Unrecognizable Hard Drives: Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-realme-c55-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Realme C55</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/unlock-endless-singing-fun-35-fresh-tracks-on-party-tyme-karaoke-join-the-joyous-jams-of-march-2019/"><u>Unlock Endless Singing Fun: 35 Fresh Tracks on Party Tyme Karaoke - Join the Joyous Jams of March 2019!</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/unraveling-the-rise-of-qing-dynastys-manchu-leaders-in-ancient-china-insights-by-yl-computing/"><u>Unraveling the Rise of Qing Dynasty's Manchu Leaders in Ancient China - Insights by YL Computing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-top-hardware-secrets-the-toms-hardware-way/"><u>Unveiling Top Hardware Secrets - The Tom's Hardware Way</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/yl-software-essentials-tutorial-on-updating-permission-settings-for-users/"><u>YL Software Essentials: Tutorial on Updating Permission Settings for Users</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-skyline-growth-youtubes-top-tactics-with-video-outros-for-2024/"><u>[Updated] Skyline Growth YouTube's Top Tactics with Video Outros for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/avoid-these-tunes-on-your-karaoke-night-celebrities-with-a-strict-no-sing-along-policy/"><u>Avoid These Tunes on Your Karaoke Night: Celebrities With a Strict No-Sing Along Policy!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/basics-of-effective-fb-ad-cta-design/"><u>Basics of Effective FB Ad CTA Design</u></a></li>
+<li><a href="https://extra-information.techidaily.com/blueprinting-breathtaking-cinematic-sketches-for-2024/"><u>Blueprinting Breathtaking Cinematic Sketches for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/expert-analysis-unboxing-and-testing-the-us-made-etr-1000-dj-headphones-by-pioneer/"><u>Expert Analysis: Unboxing & Testing the U.S.-Made ETR-1000 DJ Headphones by Pioneer</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/golds-resilience-in-market-turbulence-hedge-demand-as-a-bullish-factor-amidst-near-term-headwinds-analysis-by-yl-computing/"><u>Gold's Resilience in Market Turbulence: Hedge Demand as a Bullish Factor Amidst Near-Term Headwinds - Analysis by YL Computing</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/gpu-trouble-heres-what-you-can-do-learn-solutions-for-graphics-card-issues-with-yl-software-insights/"><u>GPU Trouble? Here's What You Can Do! Learn Solutions for Graphics Card Issues with YL Software Insights</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-itel-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Itel?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-energize-android-videos-brightly/"><u>In 2024, Energize Android Videos Brightly</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-nikon-video-post-production-made-easy-tips-and-tricks-for-2024/"><u>New Nikon Video Post-Production Made Easy Tips and Tricks for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/pcdj-officially-becomes-headline-sponsor-of-the-dream-unfinished-concert-series-announcement/"><u>PCDJ Officially Becomes Headline Sponsor of the Dream Unfinished Concert Series - Announcement</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-locating-files-efficiently-on-your-pc-with-yl-softwares-tips/"><u>Step-by-Step Guide: Locating Files Efficiently on Your PC with YL Software's Tips</u></a></li>
 </ul></div>
 

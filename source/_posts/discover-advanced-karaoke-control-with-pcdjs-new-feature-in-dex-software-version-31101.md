@@ -1,7 +1,7 @@
 ---
 title: Discover Advanced Karaoke Control with PCDJ's New Feature in DEX Software (Version 3.11.0.1)
-date: 2024-12-09T16:36:51.815Z
-updated: 2024-12-15T06:05:59.502Z
+date: 2024-12-19T02:35:59.673Z
+updated: 2024-12-24T09:31:25.058Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ One of the new karaoke features found in [DEX 3 version 3.11.0.1](https://tools.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How it Works
@@ -33,7 +33,7 @@ From a list or from search results, drag-and-drop a karaoke track into the singe
 [![Pre adjust key on karaoke songs](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/key-setting.jpg?fit=300%2C300&ssl=1 "Pre adjust key on karaoke songs")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/key-setting.jpg?fit=613%2C613&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You will then see the key adjust number in rotation next to the track’s title. (IE: If you adjust three 1/2 semitone steps you’d see ‘+1.50’ next to the song title in the rotation list). Use the ‘**Load Singer**‘ button to load and play the top karaoke track from the singer rotation list and the key adjustment will be applied in the deck/player automatically.
@@ -45,7 +45,7 @@ With this new addition there’s no question that [DEX 3](https://tools.techidai
 _Have questions about the karaoke features and key control settings found in DEX 3.11? Please leave them in the comments section below and someone will respond promptly!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,24 +67,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/cover-pre-adjust-key.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-a-blueprint-building-an-individualistic-tiktok-identifier/"><u>[New] A Blueprint Building an Individualistic TikTok Identifier</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-mastering-video-conferencing-combining-the-power-of-zoom-and-skype-for-2024/"><u>[New] Mastering Video Conferencing Combining the Power of ZOOM & SKYPE for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-pushing-boundaries-with-iphones-motion-blur-capabilities/"><u>[Updated] 2024 Approved Pushing Boundaries with iPhone’s Motion-Blur Capabilities</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-close-up-control-zooming-into-team-meetings-with-msteams/"><u>[Updated] Close-Up Control Zooming Into Team Meetings with MSTEAMS</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/windows10/"><u>失われたデータ:Windows10のフォルダがなくなってしまったらどうする?</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/download-high-quality-honda-civic-type-r-desktops-with-yl-software-your-trusted-tech-partner/"><u>Download High-Quality Honda Civic Type R Desktops with YL Software – Your Trusted Tech Partner</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/efficiently-execute-windows-batch-scripts-with-our-expert-tips/"><u>Efficiently Execute Windows Batch Scripts with Our Expert Tips</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/exploring-reasons-behind-gpu-errors-with-guidance-from-yl-software-experts/"><u>Exploring Reasons Behind GPU Errors with Guidance From YL Software Experts</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/how-can-you-accelerate-boot-speed-and-shorten-launch-times-insights-from-yl-computings-expertise/"><u>How Can You Accelerate Boot Speed & Shorten Launch Times: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-realme-12-pro-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Realme 12 Pro 5G Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-sony-xperia-1-v-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Sony Xperia 1 V Phone</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/mastering-display-preferences-customizing-monitor-settings-in-windows-10-with-yl-computing-expertise/"><u>Mastering Display Preferences: Customizing Monitor Settings in Windows 10 with YL Computing Expertise</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/maximizing-computer-speed-and-stability-expert-strategies-by-yl-software-experts/"><u>Maximizing Computer Speed & Stability: Expert Strategies by YL Software Experts</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/solving-device-malfunctions-expert-tips-from-yl-computings-tech-team/"><u>Solving Device Malfunctions: Expert Tips From YL Computing’s Tech Team</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshoot-made-easy-fixing-the-magic-mouse-tracker-hiccup/"><u>Troubleshoot Made Easy: Fixing the Magic Mouse Tracker Hiccup</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/ultimate-guide-to-mastering-sidelists-and-auto-mix-shuffle-features-in-pcdj-dex-3-learn-with-our-expert-tutorial/"><u>Ultimate Guide to Mastering Sidelists & Auto Mix Shuffle Features in PCDJ DEX 3 – Learn with Our Expert Tutorial</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlocking-potential-with-cookiebot-technology/"><u>Unlocking Potential with Cookiebot Technology</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/windows-shortcut-creation-guide-quick-steps-with-yl-computing/"><u>Windows Shortcut Creation Guide: Quick Steps with YL Computing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-complete-guide-to-affordable-online-passport-photo-services/"><u>[New] In 2024, The Complete Guide to Affordable Online Passport Photo Services</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-navigate-the-maze-of-gopro-4k-an-editors-manual/"><u>[New] Navigate the Maze of GoPro 4K An Editor's Manual</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-review-best-practices-for-youtube-video-trimming/"><u>2024 Approved Review Best Practices for YouTube Video Trimming</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/discover-the-secrets-to-locating-a-printers-network-address-with-yl-software-help/"><u>Discover the Secrets to Locating a Printer's Network Address with YL Software Help</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/download-exquisite-ferrari-f60-usa-skins-from-yl-software-professional-graphics-for-personalization-and-inspiration/"><u>Download Exquisite Ferrari F60 USA Skins From YL Software - Professional Graphics for Personalization and Inspiration</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/high-definition-emma-watson-clip-art-and-desktop-scenery-professional-quality-graphics-by-yl-software/"><u>High-Definition Emma Watson Clip Art & Desktop Scenery - Professional Quality Graphics by YL Software</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/historic-international-operation-joint-crackdown-by-hong-kong-customs-and-australian-authorities-uncovers-240kg-of-suspected-meth-netting-sgd29-million-hk1759/"><u>Historic International Operation: Joint Crackdown by Hong Kong Customs & Australian Authorities Uncovers 240Kg of Suspected Meth, Netting SGD29 Million (HK$170M) Worth</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-honor-x50iplus-lock-screen-password-by-drfone-android/"><u>How to Reset your Honor X50i+ Lock Screen Password</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-quick-ways-to-transfer-contacts-from-apple-iphone-6s-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Quick Ways to Transfer Contacts from Apple iPhone 6s to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-smooth-video-transitions-in-vlc/"><u>Mastering Smooth Video Transitions in VLC</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-macbook-users-learn-how-to-download-and-use-videoleap-for-2024/"><u>New MacBook Users Learn How to Download and Use Videoleap for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-s-best-free-dvd-player-software-for-windows-10-pcs-for-2024/"><u>New S Best Free DVD Player Software for Windows 10 PCs for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/stunning-black-panther-themes-for-your-pc-premium-comics-desktop-images-and-wallpapers-from-yl-software/"><u>Stunning Black Panther Themes for Your PC: Premium Comics Desktop Images & Wallpapers From YL Software</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/support-for-multiple-digital-coins-on-yl-software-platform-how-broad-is-the-coverage/"><u>Support for Multiple Digital Coins on YL Software Platform - How Broad Is the Coverage?</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/the-process-of-generating-and-dispersing-crypto-assets-an-in-depth-guide-by-yl-computing/"><u>The Process of Generating & Dispersing Crypto Assets: An In-Depth Guide by YL Computing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unlocking-success-with-the-right-instagram-video-dimensions-for-2024/"><u>Unlocking Success with the Right Instagram Video Dimensions for 2024</u></a></li>
 </ul></div>
 

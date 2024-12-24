@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Mastering Sidelists & Auto Mix Shuffle Features in PCDJ DEX 3 – Learn with Our Expert Tutorial
-date: 2024-12-14T01:22:46.580Z
-updated: 2024-12-15T00:55:12.871Z
+date: 2024-12-17T09:06:16.740Z
+updated: 2024-12-23T22:12:07.255Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ Being able to see your search results, or tracks in any opened directory or user
 ##### Using the Sidelist and Automix-Shuffle in PCDJ DEX 3 DJ Mixing Software
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,24 +44,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/coverimage-sidelist-automi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-maximizing-video-visibility-on-youtube-with-seo-insights/"><u>[New] In 2024, Maximizing Video Visibility on YouTube with SEO Insights</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-powerdirector-unleashed-in-depth-2024-analysis-and-guide/"><u>[New] PowerDirector Unleashed In-Depth 2024 Analysis and Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-transform-ppt-deck-into-video-stream/"><u>[Updated] 2024 Approved Transform PPT Deck Into Video Stream</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amazingly-clear-display-at-an-unbeatable-price-discover-this-budget-friendly-ultrabook-on-zdnet/"><u>Amazingly Clear Display at an Unbeatable Price: Discover This Budget-Friendly Ultrabook on ZDNet</u></a></li>
-<li><a href="https://driver-download.techidaily.com/brother-l2700dw-printer-drivers-free-download-and-installation-guide-for-windows-pcs/"><u>Brother L2700DW Printer Drivers: Free Download & Installation Guide for Windows PCs</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/dealing-with-disconnects-steps-to-resolve-unrecognized-usb-devices-on-your-computer-by-yl-software/"><u>Dealing with Disconnects: Steps to Resolve Unrecognized USB Devices on Your Computer by YL Software</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-itel-s23plus-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Itel S23+ to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-vivo-y100amirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Vivo Y100AMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-xcover-7-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy XCover 7 to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-motion-analysis-report-2023/"><u>In 2024, Motion Analysis Report 2023</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/maximize-your-pc-performance-essential-tips-for-pcdj-optimization/"><u>Maximize Your PC Performance: Essential Tips for PCDJ Optimization</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/navigating-global-digital-frontiers-a-comprehensive-guide-on-international-crypto-regulation-by-yl-computing/"><u>Navigating Global Digital Frontiers: A Comprehensive Guide on International Crypto Regulation by YL Computing</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/resolving-graphics-card-driver-issues-expert-advice-from-yl-computing/"><u>Resolving Graphics Card Driver Issues: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/resolving-ram-misconfiguration-issues-expert-advice-from-yl-software/"><u>Resolving RAM Misconfiguration Issues: Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/stunning-joker-movie-2019-wallpaper-collection-and-backgrounds-by-yl-computing-a-comprehensive-visual-guide/"><u>Stunning Joker Movie 2019 Wallpaper Collection & Backgrounds by YL Computing: A Comprehensive Visual Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-zte-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change ZTE IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/understanding-the-mechanics-of-cryptocurrencies-an-in-depth-guide-by-yl-computing/"><u>Understanding the Mechanics of Cryptocurrencies: An In-Depth Guide by YL Computing</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/unleash-the-power-of-streamlined-patches-enabling-unified-update-settings-in-windows-10-expert-advice-from-yl-computing/"><u>Unleash the Power of Streamlined Patches: Enabling Unified Update Settings in Windows 10 - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/yl-computing-guide-customizing-your-devices-energy-configuration/"><u>YL Computing Guide: Customizing Your Device's Energy Configuration</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-easy-to-use-apps-for-idevice-screen-capturing/"><u>[New] 2024 Approved Easy-to-Use Apps for iDevice Screen Capturing</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-inside-the-world-of-kinemaster-a-deeper-look-at-gaming-for-2024/"><u>[New] Inside the World of KineMaster A Deeper Look at Gaming for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-filmmakers-guide-producing-engaging-youtube-splits/"><u>[Updated] 2024 Approved The Filmmaker's Guide Producing Engaging YouTube Splits</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/avoid-these-tunes-on-your-karaoke-night-celebrities-with-a-strict-no-sing-along-policy/"><u>Avoid These Tunes on Your Karaoke Night: Celebrities With a Strict No-Sing Along Policy!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-motorola-edgeplus-a-shortfall-in-high-end-competition/"><u>Evaluating Motorola Edge+ - A Shortfall in High-End Competition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exclusive-listing-the-top-10-places-to-snag-pristine-photos-for-2024/"><u>Exclusive Listing The Top 10 Places to Snag Pristine Photos for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/exploring-key-crypto-market-movements-an-insightful-analysis-by-yl-computing/"><u>Exploring Key Crypto Market Movements: An Insightful Analysis by YL Computing</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/golds-resilience-in-market-turbulence-hedge-demand-as-a-bullish-factor-amidst-near-term-headwinds-analysis-by-yl-computing/"><u>Gold's Resilience in Market Turbulence: Hedge Demand as a Bullish Factor Amidst Near-Term Headwinds - Analysis by YL Computing</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-samsung-galaxy-s24-ultra-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Samsung Galaxy S24 Ultra FRP Bypass</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/new-karaoke-app-update-free-download-of-latest-public-beta-v086321-for-enthusiastic-singers/"><u>New Karaoke App Update: Free Download of Latest Public Beta v0.8.6321 for Enthusiastic Singers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016972103-resolving-your-macs-audio-issues-no-sound-problem-solved/"><u>Resolving Your Mac's Audio Issues: No Sound Problem Solved!</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/section-2a-understanding-concrete-curing-and-cold-weather-challenges/"><u>Section 2A: Understanding Concrete Curing and Cold Weather Challenges</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/sing-the-latest-chartbusters-subscribe-to-karaoke-cloud-pro-and-access-over-20-hit-songs-launch-date-1-26-17/"><u>Sing the Latest Chartbusters! Subscribe to Karaoke Cloud Pro and Access Over 20 Hit Songs - Launch Date: 1-26-17</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/speeding-up-your-applications-expert-tips-from-yl-computing-and-yl-software/"><u>Speeding Up Your Applications: Expert Tips From YL Computing & YL Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/ten-hilarious-word-puzzles-that-break-the-ice-in-chats/"><u>Ten Hilarious Word Puzzles That Break The Ice in Chats</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/top-antivirus-solutions-for-boosting-pc-performance-expert-advice-from-yl-computing/"><u>Top Antivirus Solutions for Boosting PC Performance: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-overcoming-initialization-issues-with-windows-10s-configuration-system/"><u>Troubleshooting Guide: Overcoming Initialization Issues with Windows 10'S Configuration System</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/uncover-the-root-of-your-system-errors-identifying-faulty-hardware-with-yl-computing/"><u>Uncover the Root of Your System Errors: Identifying Faulty Hardware with YL Computing</u></a></li>
 </ul></div>
 
