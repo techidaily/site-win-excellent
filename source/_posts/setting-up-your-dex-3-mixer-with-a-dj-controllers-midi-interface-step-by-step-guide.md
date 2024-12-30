@@ -1,7 +1,7 @@
 ---
 title: Setting Up Your DEX 3 Mixer with a DJ Controllers' MIDI Interface - Step-by-Step Guide
-date: 2024-12-16T21:23:30.415Z
-updated: 2024-12-24T03:21:13.415Z
+date: 2024-12-24T17:29:19.552Z
+updated: 2024-12-29T20:46:38.873Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We’ll continue to add support as new DJ controllers hit the streets, but as pr
 ##### Video: This Is How To Configure Your DJ Controller Audio Interface With PCDJ DEX 3.3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -49,18 +49,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/02/audioconfiguration-blog.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-skyline-growth-youtubes-top-tactics-with-video-outros-for-2024/"><u>[Updated] Skyline Growth YouTube's Top Tactics with Video Outros for 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/avoid-these-tunes-on-your-karaoke-night-celebrities-with-a-strict-no-sing-along-policy/"><u>Avoid These Tunes on Your Karaoke Night: Celebrities With a Strict No-Sing Along Policy!</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/basics-of-effective-fb-ad-cta-design/"><u>Basics of Effective FB Ad CTA Design</u></a></li>
-<li><a href="https://extra-information.techidaily.com/blueprinting-breathtaking-cinematic-sketches-for-2024/"><u>Blueprinting Breathtaking Cinematic Sketches for 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/expert-analysis-unboxing-and-testing-the-us-made-etr-1000-dj-headphones-by-pioneer/"><u>Expert Analysis: Unboxing & Testing the U.S.-Made ETR-1000 DJ Headphones by Pioneer</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/golds-resilience-in-market-turbulence-hedge-demand-as-a-bullish-factor-amidst-near-term-headwinds-analysis-by-yl-computing/"><u>Gold's Resilience in Market Turbulence: Hedge Demand as a Bullish Factor Amidst Near-Term Headwinds - Analysis by YL Computing</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/gpu-trouble-heres-what-you-can-do-learn-solutions-for-graphics-card-issues-with-yl-software-insights/"><u>GPU Trouble? Here's What You Can Do! Learn Solutions for Graphics Card Issues with YL Software Insights</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-itel-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Itel?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-energize-android-videos-brightly/"><u>In 2024, Energize Android Videos Brightly</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Nokia G310? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-nikon-video-post-production-made-easy-tips-and-tricks-for-2024/"><u>New Nikon Video Post-Production Made Easy Tips and Tricks for 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/pcdj-officially-becomes-headline-sponsor-of-the-dream-unfinished-concert-series-announcement/"><u>PCDJ Officially Becomes Headline Sponsor of the Dream Unfinished Concert Series - Announcement</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-locating-files-efficiently-on-your-pc-with-yl-softwares-tips/"><u>Step-by-Step Guide: Locating Files Efficiently on Your PC with YL Software's Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-experience-the-future-of-mobile-gaming-iphone-vr-leaderboard/"><u>[New] 2024 Approved Experience the Future of Mobile Gaming IPhone VR Leaderboard</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-exclusive-deals-and-previews-from-creators-for-2024/"><u>[New] Exclusive Deals & Previews From Creators for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-erase-unwanted-boards-from-old-youtube-videos-for-clearer-viewing/"><u>[Updated] 2024 Approved Erase Unwanted Boards From Old YouTube Videos for Clearer Viewing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-seamless-content-engagement-configuring-picture-in-picture-mode-ios/"><u>2024 Approved Seamless Content Engagement Configuring Picture-in-Picture Mode (iOS)</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/can-you-play-sounds-through-your-hardware-in-windows-expert-insights-from-yl-computing/"><u>Can You Play Sounds Through Your Hardware in Windows? - Expert Insights From YL Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/celebrate-memorial-day-with-savings-apple-watch-se-now-at-60-off-my-top-purchase-this-year/"><u>Celebrate Memorial Day with Savings! Apple Watch SE Now at $60 Off, My Top Purchase This Year</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/dancefloor-delights-exclusive-half-off-deals-on-party-karoke-and-dj-equipment-limited-time-offer/"><u>Dancefloor Delights: Exclusive Half-Off Deals on Party Karoke & DJ Equipment - Limited Time Offer!</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/elegant-pumpkin-themed-fall-seasonal-wallpapers-and-background-imagery-for-pc-discover-your-perfect-design-yl-computings-expert-selection/"><u>Elegant Pumpkin-Themed Fall Seasonal Wallpapers & Background Imagery for PC: Discover Your Perfect Design - YL Computing's Expert Selection</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/high-quality-alfa-romeo-showcase-premium-wallpaper-and-image-collections-by-yl-computing/"><u>High-Quality Alfa Romeo Showcase: Premium Wallpaper & Image Collections by YL Computing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-spark-interest-on-snapchat-15-innovative-strategies/"><u>In 2024, Spark Interest on Snapchat 15 Innovative Strategies</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/keep-your-windows-11-current-with-expert-update-checks-by-yl-software-experts/"><u>Keep Your Windows 11 Current with Expert Update Checks by YL Software Experts</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/securing-your-digital-wealth-expert-tips-on-protecting-your-crypto-wallet-insights-from-yl-computing/"><u>Securing Your Digital Wealth: Expert Tips on Protecting Your Crypto Wallet - Insights From YL Computing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-game-disc-recovery-easy-ways-to-fix-corruption-issues/"><u>Steam Game Disc Recovery: Easy Ways to Fix Corruption Issues</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-tutorial-for-modifying-pdf-files-using-yl-software-on-your-pc/"><u>Step-by-Step Tutorial for Modifying PDF Files Using YL Software on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-remedies-for-the-perplexing-black-screen-on-win11/"><u>Swift Remedies for the Perplexing Black Screen on Win11</u></a></li>
 </ul></div>
 

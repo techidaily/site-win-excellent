@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Mastering Sidelists & Auto Mix Shuffle Features in PCDJ DEX 3 – Learn with Our Expert Tutorial
-date: 2024-12-17T09:06:16.740Z
-updated: 2024-12-23T22:12:07.255Z
+date: 2024-12-26T00:04:06.624Z
+updated: 2024-12-29T17:59:40.959Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ Being able to see your search results, or tracks in any opened directory or user
 ##### Using the Sidelist and Automix-Shuffle in PCDJ DEX 3 DJ Mixing Software
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,24 +44,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/coverimage-sidelist-automi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-easy-to-use-apps-for-idevice-screen-capturing/"><u>[New] 2024 Approved Easy-to-Use Apps for iDevice Screen Capturing</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-inside-the-world-of-kinemaster-a-deeper-look-at-gaming-for-2024/"><u>[New] Inside the World of KineMaster A Deeper Look at Gaming for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-filmmakers-guide-producing-engaging-youtube-splits/"><u>[Updated] 2024 Approved The Filmmaker's Guide Producing Engaging YouTube Splits</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/avoid-these-tunes-on-your-karaoke-night-celebrities-with-a-strict-no-sing-along-policy/"><u>Avoid These Tunes on Your Karaoke Night: Celebrities With a Strict No-Sing Along Policy!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-motorola-edgeplus-a-shortfall-in-high-end-competition/"><u>Evaluating Motorola Edge+ - A Shortfall in High-End Competition</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exclusive-listing-the-top-10-places-to-snag-pristine-photos-for-2024/"><u>Exclusive Listing The Top 10 Places to Snag Pristine Photos for 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/exploring-key-crypto-market-movements-an-insightful-analysis-by-yl-computing/"><u>Exploring Key Crypto Market Movements: An Insightful Analysis by YL Computing</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/golds-resilience-in-market-turbulence-hedge-demand-as-a-bullish-factor-amidst-near-term-headwinds-analysis-by-yl-computing/"><u>Gold's Resilience in Market Turbulence: Hedge Demand as a Bullish Factor Amidst Near-Term Headwinds - Analysis by YL Computing</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-samsung-galaxy-s24-ultra-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Samsung Galaxy S24 Ultra FRP Bypass</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/new-karaoke-app-update-free-download-of-latest-public-beta-v086321-for-enthusiastic-singers/"><u>New Karaoke App Update: Free Download of Latest Public Beta v0.8.6321 for Enthusiastic Singers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016972103-resolving-your-macs-audio-issues-no-sound-problem-solved/"><u>Resolving Your Mac's Audio Issues: No Sound Problem Solved!</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/section-2a-understanding-concrete-curing-and-cold-weather-challenges/"><u>Section 2A: Understanding Concrete Curing and Cold Weather Challenges</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/sing-the-latest-chartbusters-subscribe-to-karaoke-cloud-pro-and-access-over-20-hit-songs-launch-date-1-26-17/"><u>Sing the Latest Chartbusters! Subscribe to Karaoke Cloud Pro and Access Over 20 Hit Songs - Launch Date: 1-26-17</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/speeding-up-your-applications-expert-tips-from-yl-computing-and-yl-software/"><u>Speeding Up Your Applications: Expert Tips From YL Computing & YL Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/ten-hilarious-word-puzzles-that-break-the-ice-in-chats/"><u>Ten Hilarious Word Puzzles That Break The Ice in Chats</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/top-antivirus-solutions-for-boosting-pc-performance-expert-advice-from-yl-computing/"><u>Top Antivirus Solutions for Boosting PC Performance: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-overcoming-initialization-issues-with-windows-10s-configuration-system/"><u>Troubleshooting Guide: Overcoming Initialization Issues with Windows 10'S Configuration System</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/uncover-the-root-of-your-system-errors-identifying-faulty-hardware-with-yl-computing/"><u>Uncover the Root of Your System Errors: Identifying Faulty Hardware with YL Computing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-softening-the-edges-a-guide-to-dimmed-audio-in-logic-pro/"><u>[Updated] Softening the Edges A Guide to Dimmed Audio in Logic Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-vivo-s17t-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Vivo S17t to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/crystal-clear-imagery-of-candice-swanepoel-for-desktop-and-mobile-backgrounds-exclusive-creations-from-yl-software/"><u>Crystal Clear Imagery of Candice Swanepoel for Desktop & Mobile Backgrounds – Exclusive Creations From YL Software</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/dinosaur-power-ranger-series-stunning-super-charge-themed-wallpapers-and-backgrounds-by-yl-computing/"><u>Dinosaur Power Ranger Series: Stunning 'Super Charge' Themed Wallpapers & Backgrounds by YL Computing</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/effective-strategies-to-clear-up-ram-space-on-your-computer-tech-insights-by-yl/"><u>Effective Strategies to Clear Up RAM Space on Your Computer - Tech Insights by YL</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/enhancing-image-quality-discover-the-best-techniques-for-higher-resolutions-by-2024/"><u>Enhancing Image Quality: Discover the Best Techniques for Higher Resolutions by 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/increase-profits-with-our-unique-karaoke-files-for-djs-save-30-limited-offer-on-pcdj-platform/"><u>Increase Profits With Our Unique Karaoke Files for DJs - Save 30%, Limited Offer on PCDJ Platform!</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/insights-on-how-youtube-handles-uploaded-videos-for-2024/"><u>Insights on How YouTube Handles Uploaded Videos for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-the-ultimate-guide-to-aesthetic-audio-enhancer-benefits-drawbacks-and-alternative-options/"><u>New The Ultimate Guide to Aesthetic Audio Enhancer Benefits, Drawbacks, and Alternative Options</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/smooth-transitions-with-illustrators-blur-effects/"><u>Smooth Transitions with Illustrator's Blur Effects</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/solving-low-quality-issues-with-your-tiktok-videos-posted-online/"><u>Solving Low-Quality Issues with Your TikTok Videos Posted Online</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/stunning-white-floral-designs-for-walls-ultra-hd-background-graphics-visual-treats-by-yl-digital-innovations/"><u>Stunning White Floral Designs for Walls | Ultra HD Background Graphics | Visual Treats by YL Digital Innovations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/switch-your-videos-from-mp4-to-asf-seamlessly-get-started-now-no-cost-involved/"><u>Switch Your Videos From MP4 to ASF Seamlessly - Get Started Now, No Cost Involved!</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/vaneck-revamps-submission-for-immediate-access-to-bitcoin-etf-in-depth-analysis-with-yl-software-insights/"><u>VanEck Revamps Submission for Immediate Access to Bitcoin ETF – In-Depth Analysis with YL Software Insights</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/windows-10-optimization-with-the-right-drivers-expert-tips-from-yl-software/"><u>Windows 10 Optimization with the Right Drivers: Expert Tips From YL Software</u></a></li>
 </ul></div>
 
