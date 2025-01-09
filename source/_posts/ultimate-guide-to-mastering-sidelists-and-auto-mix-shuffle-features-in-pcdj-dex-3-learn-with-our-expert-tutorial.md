@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Mastering Sidelists & Auto Mix Shuffle Features in PCDJ DEX 3 – Learn with Our Expert Tutorial
-date: 2024-12-26T00:04:06.624Z
-updated: 2024-12-29T17:59:40.959Z
+date: 2025-01-05T21:00:42.513Z
+updated: 2025-01-08T17:03:20.284Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ Being able to see your search results, or tracks in any opened directory or user
 ##### Using the Sidelist and Automix-Shuffle in PCDJ DEX 3 DJ Mixing Software
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,20 +44,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/coverimage-sidelist-automi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-softening-the-edges-a-guide-to-dimmed-audio-in-logic-pro/"><u>[Updated] Softening the Edges A Guide to Dimmed Audio in Logic Pro</u></a></li>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-vivo-s17t-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Vivo S17t to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/crystal-clear-imagery-of-candice-swanepoel-for-desktop-and-mobile-backgrounds-exclusive-creations-from-yl-software/"><u>Crystal Clear Imagery of Candice Swanepoel for Desktop & Mobile Backgrounds – Exclusive Creations From YL Software</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/dinosaur-power-ranger-series-stunning-super-charge-themed-wallpapers-and-backgrounds-by-yl-computing/"><u>Dinosaur Power Ranger Series: Stunning 'Super Charge' Themed Wallpapers & Backgrounds by YL Computing</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/effective-strategies-to-clear-up-ram-space-on-your-computer-tech-insights-by-yl/"><u>Effective Strategies to Clear Up RAM Space on Your Computer - Tech Insights by YL</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/enhancing-image-quality-discover-the-best-techniques-for-higher-resolutions-by-2024/"><u>Enhancing Image Quality: Discover the Best Techniques for Higher Resolutions by 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/increase-profits-with-our-unique-karaoke-files-for-djs-save-30-limited-offer-on-pcdj-platform/"><u>Increase Profits With Our Unique Karaoke Files for DJs - Save 30%, Limited Offer on PCDJ Platform!</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/insights-on-how-youtube-handles-uploaded-videos-for-2024/"><u>Insights on How YouTube Handles Uploaded Videos for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-the-ultimate-guide-to-aesthetic-audio-enhancer-benefits-drawbacks-and-alternative-options/"><u>New The Ultimate Guide to Aesthetic Audio Enhancer Benefits, Drawbacks, and Alternative Options</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/smooth-transitions-with-illustrators-blur-effects/"><u>Smooth Transitions with Illustrator's Blur Effects</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/solving-low-quality-issues-with-your-tiktok-videos-posted-online/"><u>Solving Low-Quality Issues with Your TikTok Videos Posted Online</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/stunning-white-floral-designs-for-walls-ultra-hd-background-graphics-visual-treats-by-yl-digital-innovations/"><u>Stunning White Floral Designs for Walls | Ultra HD Background Graphics | Visual Treats by YL Digital Innovations</u></a></li>
-<li><a href="https://some-tips.techidaily.com/switch-your-videos-from-mp4-to-asf-seamlessly-get-started-now-no-cost-involved/"><u>Switch Your Videos From MP4 to ASF Seamlessly - Get Started Now, No Cost Involved!</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/vaneck-revamps-submission-for-immediate-access-to-bitcoin-etf-in-depth-analysis-with-yl-software-insights/"><u>VanEck Revamps Submission for Immediate Access to Bitcoin ETF – In-Depth Analysis with YL Software Insights</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/windows-10-optimization-with-the-right-drivers-expert-tips-from-yl-software/"><u>Windows 10 Optimization with the Right Drivers: Expert Tips From YL Software</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-a-comprehensive-guide-for-converting-pinterest-video-content-to-mp3-format/"><u>[Updated] A Comprehensive Guide for Converting Pinterest Video Content to MP3 Format</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mastering-your-marketing-edge-establishing-a-biz-page-on-instagram-for-2024/"><u>[Updated] Mastering Your Marketing Edge Establishing a Biz Page on Instagram for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-amplify-your-channel-effortless-tactics-for-more-views/"><u>2024 Approved Amplify Your Channel Effortless Tactics for More Views</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/choosing-the-right-blockchain-ico-a-comprehensive-guide-by-yl-computing/"><u>Choosing the Right Blockchain ICO: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-zte-nubia-z60-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sound-identity-shift-for-free-fire-characters-no-money-required/"><u>In 2024, Sound Identity Shift for Free Fire Characters - No Money Required</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/ipad-pro-2021-with-apples-m1-chip-review-bridging-laptop-power-and-tablet-convenience/"><u>IPad Pro 2021 with Apple's M1 Chip Review: Bridging Laptop Power and Tablet Convenience</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/meme-mania-social-medias-most-hilarious-video-threads/"><u>Meme Mania Social Media's Most Hilarious Video Threads</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/our-curated-list-the-7-finest-alarm-clock-applications/"><u>Our Curated List: The 7 Finest Alarm Clock Applications</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/resolving-the-communication-error-with-scanners-issue-a-step-by-step-guide-tech-solutions-by-xyz/"><u>Resolving the 'Communication Error with Scanners' Issue: A Step-by-Step Guide - Tech Solutions by XYZ</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/setting-up-dual-displays-on-windows-11-a-step-by-step-guide-the-tech-wizardry/"><u>Setting Up Dual Displays on Windows 11: A Step-by-Step Guide - The Tech Wizardry</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/troubleshooting-pc-components-expert-tips-from-yl-computing-for-pinpointing-hardware-failures/"><u>Troubleshooting PC Components: Expert Tips From YL Computing for Pinpointing Hardware Failures</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/troubleshooting-steps-resolving-unresponsive-scanner-issues-tips-from-yl-computings-scanning-software/"><u>Troubleshooting Steps: Resolving Unresponsive Scanner Issues - Tips From YL Computing's Scanning Software</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/ultimate-guide-restoring-deleted-files-in-windows-tips-from-yl-computing/"><u>Ultimate Guide: Restoring Deleted Files in Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/vibrant-edgar-brawler-visual-assets-high-res-images-and-wallpapers-from-yl-softwares-creations/"><u>Vibrant Edgar Brawler Visual Assets: High-Res Images and Wallpapers From YL Software's Creations</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/zelenskys-ukraine-contemplates-elections-during-conflict-funding-by-partners-essential-parliament-sanctions-inclusive-voter-access-insights-from-yl-computin65/"><u>Zelensky's Ukraine Contemplates Elections During Conflict, Funding by Partners Essential; Parliament Sanctions Inclusive Voter Access – Insights From YL Computing and Software Solutions</u></a></li>
 </ul></div>
 

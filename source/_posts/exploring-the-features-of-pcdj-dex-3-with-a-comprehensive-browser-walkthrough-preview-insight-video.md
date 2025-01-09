@@ -1,7 +1,7 @@
 ---
 title: Exploring the Features of PCDJ Dex 3 with a Comprehensive Browser Walkthrough – Preview Insight Video
-date: 2024-12-23T20:08:48.385Z
-updated: 2024-12-29T19:45:13.713Z
+date: 2025-01-05T22:17:51.086Z
+updated: 2025-01-09T02:46:59.843Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/e6c6b6e32249dbf76f20abd6c6055b57975d7da74
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DEX 3 is in the final stages of beta testing, and the excitement is building here at PCDJ HQ.
@@ -29,7 +29,7 @@ For the majority of the last 10 months our development team has basically lived 
 We collectively agree that DEX 3 will be PCDJ’s **best DJ software** for mixing _everything_ (**audio, music videos and karaoke**). As outlined in [**this**](https://tools.techidaily.com/pcdj/products/) previous DEX 3 browser blog post, the new browser has been a major focal point; it’s been completely redesigned to be more robust, responsive and cross-platform ready. One of our beta team members has been testing with 300,000+ tracks (audio, karaoke and video) and search and navigation remain just as fast as having only 3 tracks in the library. This can be attested to the new browser being a true database, unlike in previous PCDJ products. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **In this DEX 3 browser overview video I showcase a few of the new browser capabilities, including setting folders as favorites (nested groups), navigating using keyboard commands, what the new browser icons mean and sorting within the library:**
@@ -39,7 +39,7 @@ We collectively agree that DEX 3 will be PCDJ’s **best DJ software** for mixin
 #### **If you’d like to demo the existing PCDJ DEX 2 version (free upgrades will be included to DEX 3 for all DEX 2 owners!), you can download it [_HERE_](https://tools.techidaily.com/pcdj/products/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,21 +61,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/browserpreviewvideo3.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/2024-approved-beyond-binary-boundaries-metaverse-vs-multiverse/"><u>2024 Approved Beyond Binary Boundaries Metaverse V/S Multiverse</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-explore-the-world-of-video-calls-hangouts-for-android/"><u>2024 Approved Explore the World of Video Calls Hangouts for Android</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ts-top3/"><u>人気TS ファイル編集ツールTOP3: 無料ソフトウェアが変革する方法</u></a></li>
-<li><a href="https://article-files.techidaily.com/a-visual-editor-writes-guide-to-leveraging-luts-in-adobe-premiere-pro/"><u>A Visual Editor' Writes Guide to Leveraging LUTs in Adobe Premiere Pro</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/creating-personalized-icon-shortcuts-on-windows-pcs-using-the-control-panel-expert-advice-from-yl-software/"><u>Creating Personalized Icon Shortcuts on Windows PCs Using the Control Panel - Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/easier-than-annual-hikes-decadal-returns-soar-tenfold-navigating-the-solitary-path-of-a-billion-worth-venture-with-u-and-yl-tech-excellence/"><u>Easier Than Annual Hikes: Decadal Returns Soar Tenfold – Navigating the Solitary Path of a Billion-Worth Venture with U and YL Tech Excellence</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/fix-a-non-responsive-scanner-with-our-comprehensive-troubleshooting-tips-by-yl-software-professionals/"><u>Fix a Non-Responsive Scanner with Our Comprehensive Troubleshooting Tips by YL Software Professionals</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-s23-ultra-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy S23 Ultra Devices | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-8-plus-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 8 Plus to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-iphone-7-plus-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On iPhone 7 Plus</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/initiate-now-a-comprehensive-plan-for-beginning-a-review-broadcast-for-2024/"><u>Initiate Now! A Comprehensive Plan for Beginning a Review Broadcast for 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/premium-2pac-image-collection-hd-photo-collections-for-inspiration-curated-backgrounds-from-yl-software/"><u>Premium 2Pac Image Collection: HD Photo Collections for Inspiration – Curated Backgrounds From YL Software</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/resolving-windows-compatibility-issues-with-your-applications-tips-and-solutions-by-yl-computing/"><u>Resolving Windows Compatibility Issues with Your Applications - Tips & Solutions by YL Computing</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/top-apps-to-remove-for-a-faster-device-tips-by-yl-computing/"><u>Top Apps to Remove for a Faster Device - Tips by YL Computing</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/uyl-computingyl-software/"><u>U兄：孤独的创新之路——在YL Computing和YL Software中揭开不凡的面纱</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-crafting-viral-stories-the-top-15-tips-for-snapchat-posts/"><u>[New] 2024 Approved Crafting Viral Stories The Top 15 Tips for Snapchat Posts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamlined-process-for-avi-transformations-into-web-friendly-gif-using-filmora/"><u>[New] Streamlined Process for AVI Transformations Into Web-Friendly GIF Using Filmora</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-socialcapture-youtube-from-fb/"><u>[Updated] In 2024, SocialCapture - YouTube From FB</u></a></li>
+<li><a href="https://win-top.techidaily.com/1-accelerar-tu-pc-con-windows-11-tres-trucos-para-optimizar-el-rendimiento-post-copia-de-seguridad/"><u>1. Accelerar Tu PC Con Windows 11: Tres Trucos Para Optimizar El Rendimiento Post-Copia De Seguridad</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-personal-emblem-creation-fashioning-an-exaggerated-self/"><u>2024 Approved Personal Emblem Creation Fashioning an Exaggerated Self</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/boost-your-pc-performance-essential-hardware-enhancements-revealed-insights-from-yl-computing/"><u>Boost Your PC Performance: Essential Hardware Enhancements Revealed - Insights From YL Computing</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/effective-solutions-for-resolving-windows-gpu-issues-a-comprehhavenship-with-yls-troubleshooting-techniques/"><u>Effective Solutions for Resolving Windows GPU Issues: A Comprehhavenship with YL's Troubleshooting Techniques</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/fresh-sep-22-image-collection-for-pcs-yl-computings-exclusive-desktop-themes-and-graphics/"><u>Fresh Sep '22 Image Collection for PCs: YL Computing's Exclusive Desktop Themes and Graphics</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-14-plus-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On iPhone 14 Plus?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-lava-blaze-pro-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Lava Blaze Pro 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-world-of-haptic-navigation-systems/"><u>In 2024, Unveiling the World of Haptic Navigation Systems</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/navigating-printer-issues-a-guide-to-resolving-print-misfires-tips-by-yl-software-professionals/"><u>Navigating Printer Issues: A Guide to Resolving Print Misfires – Tips by YL Software Professionals</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/solving-the-issue-of-windows-not-booting-expert-advice-from-yl-computing-and-software/"><u>Solving the Issue of Windows Not Booting: Expert Advice From YL Computing & Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/unplugged-fun-the-ultimate-list-of-offline-gaming-for-iphone-ipad/"><u>Unplugged Fun: The Ultimate List of Offline Gaming for iPhone, iPad</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/yl-computings-collection-of-elegant-simple-wallpaper-graphics-and-imagery/"><u>YL Computing's Collection of Elegant, Simple Wallpaper Graphics & Imagery</u></a></li>
 </ul></div>
 

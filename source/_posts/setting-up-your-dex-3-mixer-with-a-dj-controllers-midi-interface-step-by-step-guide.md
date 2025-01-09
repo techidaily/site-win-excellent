@@ -1,7 +1,7 @@
 ---
 title: Setting Up Your DEX 3 Mixer with a DJ Controllers' MIDI Interface - Step-by-Step Guide
-date: 2024-12-24T17:29:19.552Z
-updated: 2024-12-29T20:46:38.873Z
+date: 2025-01-02T02:36:01.232Z
+updated: 2025-01-08T23:55:28.745Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We’ll continue to add support as new DJ controllers hit the streets, but as pr
 ##### Video: This Is How To Configure Your DJ Controller Audio Interface With PCDJ DEX 3.3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -49,21 +49,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/02/audioconfiguration-blog.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-experience-the-future-of-mobile-gaming-iphone-vr-leaderboard/"><u>[New] 2024 Approved Experience the Future of Mobile Gaming IPhone VR Leaderboard</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-exclusive-deals-and-previews-from-creators-for-2024/"><u>[New] Exclusive Deals & Previews From Creators for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-erase-unwanted-boards-from-old-youtube-videos-for-clearer-viewing/"><u>[Updated] 2024 Approved Erase Unwanted Boards From Old YouTube Videos for Clearer Viewing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-seamless-content-engagement-configuring-picture-in-picture-mode-ios/"><u>2024 Approved Seamless Content Engagement Configuring Picture-in-Picture Mode (iOS)</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/can-you-play-sounds-through-your-hardware-in-windows-expert-insights-from-yl-computing/"><u>Can You Play Sounds Through Your Hardware in Windows? - Expert Insights From YL Computing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/celebrate-memorial-day-with-savings-apple-watch-se-now-at-60-off-my-top-purchase-this-year/"><u>Celebrate Memorial Day with Savings! Apple Watch SE Now at $60 Off, My Top Purchase This Year</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/dancefloor-delights-exclusive-half-off-deals-on-party-karoke-and-dj-equipment-limited-time-offer/"><u>Dancefloor Delights: Exclusive Half-Off Deals on Party Karoke & DJ Equipment - Limited Time Offer!</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/elegant-pumpkin-themed-fall-seasonal-wallpapers-and-background-imagery-for-pc-discover-your-perfect-design-yl-computings-expert-selection/"><u>Elegant Pumpkin-Themed Fall Seasonal Wallpapers & Background Imagery for PC: Discover Your Perfect Design - YL Computing's Expert Selection</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/high-quality-alfa-romeo-showcase-premium-wallpaper-and-image-collections-by-yl-computing/"><u>High-Quality Alfa Romeo Showcase: Premium Wallpaper & Image Collections by YL Computing</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-spark-interest-on-snapchat-15-innovative-strategies/"><u>In 2024, Spark Interest on Snapchat 15 Innovative Strategies</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/keep-your-windows-11-current-with-expert-update-checks-by-yl-software-experts/"><u>Keep Your Windows 11 Current with Expert Update Checks by YL Software Experts</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/securing-your-digital-wealth-expert-tips-on-protecting-your-crypto-wallet-insights-from-yl-computing/"><u>Securing Your Digital Wealth: Expert Tips on Protecting Your Crypto Wallet - Insights From YL Computing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steam-game-disc-recovery-easy-ways-to-fix-corruption-issues/"><u>Steam Game Disc Recovery: Easy Ways to Fix Corruption Issues</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/step-by-step-tutorial-for-modifying-pdf-files-using-yl-software-on-your-pc/"><u>Step-by-Step Tutorial for Modifying PDF Files Using YL Software on Your PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-remedies-for-the-perplexing-black-screen-on-win11/"><u>Swift Remedies for the Perplexing Black Screen on Win11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-expert-tips-for-efficient-screenshotting-with-zd-softwares-advanced-features/"><u>[New] Expert Tips for Efficient Screenshotting with ZD Software's Advanced Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mp4ogvmovavi/"><u>無料で使えるMP4に簡単変換!動画形式OGVをMovaviでオンライン変更する方法</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cookiebot-enhanced-optimize-your-website-with-smart-automation/"><u>Cookiebot-Enhanced: Optimize Your Website with Smart Automation</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-dell-inspiron-3671-desktop-a-balanced-choice-in-budget-computing/"><u>Evaluating the Dell Inspiron 3671 Desktop: A Balanced Choice in Budget Computing</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/exploring-benefits-why-should-you-consider-crypto-assets-insights-by-yl-computing/"><u>Exploring Benefits: Why Should You Consider Crypto Assets? - Insights by YL Computing</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/how-can-i-resolve-incompatibility-between-driver-software-and-my-windows-os-solutions-by-yl-computing/"><u>How Can I Resolve Incompatibility Between Driver Software and My Windows OS - Solutions by YL Computing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-poco-m6-pro-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Poco M6 Pro 5G?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instas-influence-index-a-look-at-the-top-25-gurus-and-visionaries/"><u>Insta’s Influence Index A Look at the Top 25 Gurus and Visionaries</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/professional-pics-and-stunning-season-8-got-hd-walls-for-your-desktop-or-phone-by-yl-software/"><u>Professional Pics and Stunning Season 8 GOT HD Walls for Your Desktop or Phone by YL Software</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/solving-hardware-and-software-problems-a-comprehensive-guide-by-yl-computing/"><u>Solving Hardware & Software Problems: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/speed-up-your-computer-with-efficient-disk-cleanup-techniques-guidance-by-yl-software-experts/"><u>Speed Up Your Computer with Efficient Disk Cleanup Techniques - Guidance by YL Software Experts</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/troubleshooting-guide-resolving-issues-with-your-scanner-insights-from-yl-computing/"><u>Troubleshooting Guide: Resolving Issues with Your Scanner - Insights From YL Computing</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/unexpected-blues-a-comprehensive-guide-by-yl-computing-on-diagnosing-and-fixing-random-bsod-issues-effectively/"><u>Unexpected Blues: A Comprehensive Guide by YL Computing on Diagnosing and Fixing Random BSOD Issues Effectively</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/unexpected-darkness-resolving-your-laptops-black-screen-dilemma-insights-from-yl-computing/"><u>Unexpected Darkness: Resolving Your Laptop's Black Screen Dilemma - Insights From YL Computing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover Advanced Karaoke Control with PCDJ's New Feature in DEX Software (Version 3.11.0.1)
-date: 2024-12-22T17:44:21.550Z
-updated: 2024-12-29T23:49:21.976Z
+date: 2025-01-07T22:07:42.122Z
+updated: 2025-01-09T01:46:09.360Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ One of the new karaoke features found in [DEX 3 version 3.11.0.1](https://tools.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How it Works
@@ -33,7 +33,7 @@ From a list or from search results, drag-and-drop a karaoke track into the singe
 [![Pre adjust key on karaoke songs](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/key-setting.jpg?fit=300%2C300&ssl=1 "Pre adjust key on karaoke songs")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/key-setting.jpg?fit=613%2C613&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You will then see the key adjust number in rotation next to the track’s title. (IE: If you adjust three 1/2 semitone steps you’d see ‘+1.50’ next to the song title in the rotation list). Use the ‘**Load Singer**‘ button to load and play the top karaoke track from the singer rotation list and the key adjustment will be applied in the deck/player automatically.
@@ -45,7 +45,7 @@ With this new addition there’s no question that [DEX 3](https://tools.techidai
 _Have questions about the karaoke features and key control settings found in DEX 3.11? Please leave them in the comments section below and someone will respond promptly!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,18 +67,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/cover-pre-adjust-key.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-sony-bdp-s6700-fresh-perspective-for-2024/"><u>[Updated] Sony BDP-S6700 - Fresh Perspective for 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/concealing-files-a-step-by-step-guide-with-yl-computing/"><u>Concealing Files: A Step-by-Step Guide with YL Computing</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/decoding-the-mechanics-of-yl-softwares-advanced-tools-for-optimal-performance/"><u>Decoding the Mechanics of YL Software's Advanced Tools for Optimal Performance</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-realme-v30t-device-sim-by-drfone-android/"><u>Easily Unlock Your Realme V30T Device SIM</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/high-resolution-hatsune-miku-visual-graphics-for-screens-and-lockscreen-backgrounds-comprehensive-package-from-yl-software-suite/"><u>High-Resolution Hatsune Miku Visual Graphics for Screens and Lockscreen Backgrounds – Comprehensive Package From YL Software Suite</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-15-pro-max-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 15 Pro Max</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-samsung-galaxy-f04-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Samsung Galaxy F04 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-superior-sd-card-compatible-with-a7s-ii/"><u>In 2024, Superior SD Card Compatible with A7S II</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/smart-strategies-for-assessing-initial-coin-offerings-insights-from-yl-computings-expertise/"><u>Smart Strategies for Assessing Initial Coin Offerings: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/spotlight-websites-offering-youtube-branding-collaborations/"><u>Spotlight Websites Offering YouTube Branding Collaborations</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-restoring-defaults-of-your-gpu-configuration-on-windows-10-tips-from-yl-computing/"><u>Step-by-Step Guide: Restoring Defaults of Your GPU Configuration on Windows 10 - Tips From YL Computing</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/ultimate-yuletide-sing-along-premium-christmas-playlist-with-top-hits-on-the-party-tyme-dj-system/"><u>Ultimate Yuletide Sing-Along: Premium Christmas Playlist with Top Hits on the Party Tyme DJ System</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-cut-the-boring-watch-these-15-hilarious-youtube-bites/"><u>[Updated] Cut the Boring, Watch These 15 Hilarious YouTube Bites</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unlock-old-facebook-memories-with-a-click-for-2024/"><u>[Updated] Unlock Old Facebook Memories with a Click for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/crystal-clear-imagery-of-candice-swanepoel-for-desktop-and-mobile-backgrounds-exclusive-creations-from-yl-software/"><u>Crystal Clear Imagery of Candice Swanepoel for Desktop & Mobile Backgrounds – Exclusive Creations From YL Software</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/dinosaur-power-ranger-series-stunning-super-charge-themed-wallpapers-and-backgrounds-by-yl-computing/"><u>Dinosaur Power Ranger Series: Stunning 'Super Charge' Themed Wallpapers & Backgrounds by YL Computing</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/effective-strategies-to-clear-up-ram-space-on-your-computer-tech-insights-by-yl/"><u>Effective Strategies to Clear Up RAM Space on Your Computer - Tech Insights by YL</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-create-a-windows-11-bootable-image-for-another-computer/"><u>How To Create a Windows 11 Bootable Image for Another Computer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-infinix-gt-10-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Infinix GT 10 Pro Phone? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-11-pro-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 11 Pro Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/increase-profits-with-our-unique-karaoke-files-for-djs-save-30-limited-offer-on-pcdj-platform/"><u>Increase Profits With Our Unique Karaoke Files for DJs - Save 30%, Limited Offer on PCDJ Platform!</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/optimizing-computer-performance-by-expanding-available-disk-space-expert-advice-by-yl-software-experts/"><u>Optimizing Computer Performance by Expanding Available Disk Space: Expert Advice by YL Software Experts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pro-window-11-users-guide-to-photovideo-imports-for-2024/"><u>Pro Window 11 Users' Guide to Photo/Video Imports for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solution-resolving-the-valorant-graphics-driver-crashed-issue/"><u>Quick Solution: Resolving the Valorant 'Graphics Driver Crashed' Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-issue-why-does-my-computer-keep-getting-content-warning-errors-and-how-to-stop-them/"><u>Solving the Issue: Why Does My Computer Keep Getting 'Content Warning' Errors and How to Stop Them</u></a></li>
+<li><a href="https://win-info.techidaily.com/step-by-step-guide-successfully-adding-and-configuring-new-pc-hardware-in-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Successfully Adding and Configuring New PC Hardware in Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/stunning-white-floral-designs-for-walls-ultra-hd-background-graphics-visual-treats-by-yl-digital-innovations/"><u>Stunning White Floral Designs for Walls | Ultra HD Background Graphics | Visual Treats by YL Digital Innovations</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/vaneck-revamps-submission-for-immediate-access-to-bitcoin-etf-in-depth-analysis-with-yl-software-insights/"><u>VanEck Revamps Submission for Immediate Access to Bitcoin ETF – In-Depth Analysis with YL Software Insights</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/windows-10-optimization-with-the-right-drivers-expert-tips-from-yl-software/"><u>Windows 10 Optimization with the Right Drivers: Expert Tips From YL Software</u></a></li>
 </ul></div>
 
