@@ -1,7 +1,7 @@
 ---
 title: How To Set Up a Bar-Style Karaoke System with LYRX Software, PartyTyme Interface & the Right Equipment
-date: 2025-01-04T18:32:11.230Z
-updated: 2025-01-08T21:35:49.447Z
+date: 2025-01-10T16:23:50.497Z
+updated: 2025-01-14T18:24:02.156Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ One item, and the most important piece of ‘equipment’ you’ll need, is a qu
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Karaoke System for a Bar | The Essentials
@@ -55,7 +55,7 @@ First, you’re going to need a proper laptop, either MAC or Windows, that’s c
 No one brand sticks out above the others, but you also don’t want bargain basement and otherwise entry level machines. You need something that can hold up to the rigors of weekly abuse. If you allow smoking in your venue, especially.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The Karaoke Software
@@ -65,7 +65,7 @@ No one brand sticks out above the others, but you also don’t want bargain base
 [LEARN MORE ABOUT LYRX ![LYRX karaoke player for MAC](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/03/MacBook_Pro_lyrx-withsinger-tv.png?fit=300%2C162&ssl=1 "LYRX karaoke player for MAC")](http://www.lyrxkaraoke.com)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You would run the ‘lyrics-only’ output from your laptop (MAC/Windows) via HDMI into the ‘singers display’. The singers will only be able to view the lyrics on their screen while the KJ mans LYRX on the laptop screen. If you have multiple displays in your venue you can run to an HDMI splitter like [this one.](https://www.amazon.com/Expert-Connect-Splitter-Ultra-input/dp/B010BZ8VX6/)
@@ -75,7 +75,7 @@ LYRX is a one-off purchase that will provide you with activation for three diffe
 The [LYRX karaoke software](http://www.lyrxkaraoke.com/) provides all the karaoke tools needed to search, add to rotation, and play karaoke songs — but where do you get the music, and just as importantly, how do you stay current with new karaoke music without having to scour the web weekly?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The Karaoke Music
@@ -86,15 +86,15 @@ The commercially-legal [Party Tyme Karaoke Subscription](https://tools.techidail
 
 [LEARN MORE ABOUT PARTY TYME ![Party Tyme Karaoke Logo](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/party-tyme-logo-oneline.png?fit=300%2C37&ssl=1 "Party Tyme Karaoke Logo")](https://tools.techidaily.com/pcdj/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The legal Party Tyme Karaoke subscription service is $99-a-month, which undoubtedly sounds fairly pricey, but when individual karaoke downloads run anywhere from $2.49-a-track to $2.99-a-track from legal karaoke websites the value comes into focus. If you were to purchase the 15,600 + karaoke songs that Party Tyme includes you’d be looking at a lump payout of about 40K!
 
 The best thing about Party Tyme Karaoke is the seamless integration with LYRX. You subscribe, login, access, search and stream from the Party Tyme catalog directly within the LYRX browser — so you never leave the application. What also makes the Party Tyme Karaoke subscription service unique is that you can download the entire catalog for offline use. That means that even if internet in your venue goes out one night the karaoke show can go on. [_Learn More about Party Tyme Karaoke_](https://tools.techidaily.com/pcdj/products/)
 
 Now that you’ve got the karaoke player (LYRX) and the karaoke music (Party Tyme) sorted, what else are you going to need to host a proper karaoke night?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The Karaoke Hardware
 
@@ -135,21 +135,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2019/01/karaoke-for-a-bar.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-for-entrepreneurs-how-to-register-as-a-biz-page/"><u>[New] In 2024, Instagram for Entrepreneurs How to Register as a Biz Page</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-tailored-thumbnail-for-social-media-vids-for-2024/"><u>[New] Tailored Thumbnail for Social Media Vids for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-swift-transformation-video-aspects-to-mac-standard/"><u>[Updated] 2024 Approved Swift Transformation Video Aspects to Mac Standard</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-social-media-strategies-for-showcasing-your-video-content/"><u>2024 Approved Social Media Strategies for Showcasing Your Video Content</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-xiaomi-13t-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Xiaomi 13T Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://win-community.techidaily.com/best-techniques-for-capturing-screenshots-on-your-iphone-8-top-3-methods/"><u>Best Techniques for Capturing Screenshots on Your iPhone 8: Top 3 Methods</u></a></li>
-<li><a href="https://win-unique.techidaily.com/comparing-performance-and-value-samsung-980-pro-against-97-evo-plus-which-solid-state-drive-reigns-supreme/"><u>Comparing Performance & Value: Samsung 980 Pro Against 97# EVO Plus – Which Solid-State Drive Reigns Supreme?</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/dealing-with-disconnects-steps-to-resolve-unrecognized-usb-devices-on-your-computer-by-yl-software/"><u>Dealing with Disconnects: Steps to Resolve Unrecognized USB Devices on Your Computer by YL Software</u></a></li>
-<li><a href="https://win-net.techidaily.com/effortless-duplication-of-data-between-external-hdds-manual-and-automatic-methods-unveiled/"><u>Effortless Duplication of Data Between External HDDs: Manual and Automatic Methods Unveiled</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/is-your-pc-truly-secure-with-windows-defender-understanding-its-ability-to-shield-against-various-viruses-and-malware-insights-by-yl-computing/"><u>Is Your PC Truly Secure with Windows Defender: Understanding Its Ability to Shield Against Various Viruses & Malware - Insights by YL Computing</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/maximize-your-pc-performance-essential-tips-for-pcdj-optimization/"><u>Maximize Your PC Performance: Essential Tips for PCDJ Optimization</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/safety-evaluation-of-second-hand-electricity-providers-a-discussion-with-yl-software/"><u>Safety Evaluation of Second-Hand Electricity Providers: A Discussion with YL Software</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/unleash-the-power-of-streamlined-patches-enabling-unified-update-settings-in-windows-10-expert-advice-from-yl-computing/"><u>Unleash the Power of Streamlined Patches: Enabling Unified Update Settings in Windows 10 - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unleashing-revolutionary-performance-how-intels-newest-ai-chip-transforms-your-future-laptop-experience-insights-from-zdnet/"><u>Unleashing Revolutionary Performance - How Intel's Newest AI Chip Transforms Your Future Laptop Experience | Insights From ZDNet</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/unlock-endless-singing-fun-35-fresh-tracks-on-party-tyme-karaoke-join-the-joyous-jams-of-march-2019/"><u>Unlock Endless Singing Fun: 35 Fresh Tracks on Party Tyme Karaoke - Join the Joyous Jams of March 2019!</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/unraveling-the-rise-of-qing-dynastys-manchu-leaders-in-ancient-china-insights-by-yl-computing/"><u>Unraveling the Rise of Qing Dynasty's Manchu Leaders in Ancient China - Insights by YL Computing</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-pathway-to-recognition-youtubers-guide-to-personal-brands/"><u>2024 Approved The Pathway to Recognition YouTubers' Guide to Personal Brands</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/a-comprehensive-guide-restoring-your-whatsapp-messages-with-windows-11/"><u>A Comprehensive Guide: Restoring Your WhatsApp Messages with Windows 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/all-about-the-garmin-venu-evaluating-your-persistent-personal-trainer-and-wellbeing-sensor/"><u>All About the Garmin Venu: Evaluating Your Persistent Personal Trainer & Wellbeing Sensor</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-realme-c51-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Realme C51 for Free? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-15-pro-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 15 Pro i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-winning-gaming-on-windows-11-with-these-expert-fps-counter-apps/"><u>Mastering Winning Gaming on Windows 11 with These Expert FPS Counter Apps</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-cambridge-audio-cxu-review-for-2024/"><u>New Cambridge Audio CXU Review for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/quick-guide-backing-up-your-gmail-on-qnap-devices/"><u>Quick Guide: Backing Up Your Gmail on QNAP Devices</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/schnelle-und-effiziente-methode-fur-den-wechsel-von-kontakten-zwischen-zwei-apple-ids-ein-leitfaden-mit-vier-tipps/"><u>Schnelle Und Effiziente Methode Für Den Wechsel Von Kontakten Zwischen Zwei Apple IDs - Ein Leitfaden Mit Vier Tipps</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-to-configuring-two-way-file-transfer-using-robocopy-in-various-windows-versions-111087/"><u>Step-by-Step Guide to Configuring Two-Way File Transfer Using Robocopy in Various Windows Versions (11/10/8/7)</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/your-essential-aomei-backupper-faqs-for-informed-purchasing-decisions/"><u>Your Essential AOMEI Backupper FAQs for Informed Purchasing Decisions</u></a></li>
 </ul></div>
 

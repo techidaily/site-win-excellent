@@ -1,7 +1,7 @@
 ---
 title: Demo of Reloop Touch - Compatible with Inbuilt Screen & Video Functionality | PCDJ Features
-date: 2025-01-07T06:44:08.623Z
-updated: 2025-01-09T03:21:50.571Z
+date: 2025-01-07T23:58:31.829Z
+updated: 2025-01-15T02:56:38.323Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ The Reloop Touch is the first DJ controller where [DEX 3](https://tools.techidai
 If you haven’t yet tried DEX 3, our true all-in-one live performance DJ software, [download it it for a test spin](https://tools.techidaily.com/pcdj/products/) today!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,15 +44,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/05/reloop-touch-cover.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-art-of-amplifying-audience-engagement-on-igtv/"><u>[Updated] The Art of Amplifying Audience Engagement on IGTV</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/beat-the-rush-grab-your-cost-effective-qualcomm-snapdragon-x-elite-pc-before-its-gone-preorders-open/"><u>Beat the Rush: Grab Your Cost-Effective Qualcomm Snapdragon X Elite PC Before It's Gone – Preorders Open</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/discover-top-rated-pdf-readers-for-windows-users-expert-recommendations-by-yl-digital-services/"><u>Discover Top-Rated PDF Readers for Windows Users: Expert Recommendations by YL Digital Services</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/exploring-confuciuss-contributions-and-influence-through-chinas-historical-timeline/"><u>Exploring Confucius's Contributions and Influence Through China’s Historical Timeline”</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/how-to-fix-a-non-responsive-disc-drive-insights-by-yl-computing-and-solutions-for-your-pc/"><u>How To Fix a Non-Responsive Disc Drive? Insights by YL Computing & Solutions for Your PC</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-iphone-and-ipad-screen-recording-top-methods-of-2023/"><u>In 2024, IPhone & iPad Screen Recording Top Methods of 2023</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/maximize-your-hard-drive-capacity-with-simple-tricks-by-yl-experts/"><u>Maximize Your Hard Drive Capacity with Simple Tricks by YL Experts</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/resolving-windows-registry-errors-with-ease-using-yl-computings-software-tools/"><u>Resolving Windows Registry Errors with Ease Using YL Computing's Software Tools</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-obsolescence-of-manual-coding-embracing-ais-advanced-role-in-modern-software-creation-zdnet/"><u>The Obsolescence of Manual Coding: Embracing AI's Advanced Role in Modern Software Creation | ZDNET</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/unlock-your-apple-iphone-15-plus-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your Apple iPhone 15 Plus in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-audio-switches-in-adobe-premiere/"><u>[Updated] Mastering Audio Switches in Adobe Premiere</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1-effective-solutions-to-stop-recurring-file-appearances-in-windows-11/"><u>1. Effective Solutions to Stop Recurring File Appearances in Windows 11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-monetary-spectrum-a-glimpse-into-mr-beasts-world/"><u>2024 Approved Monetary Spectrum A Glimpse Into Mr. Beast’s World</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1728503211482-windows-11-asus/"><u>簡單方式修復 Windows 11 上 Asus 系統安全加密故障</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/windows-11-7-usb/"><u>移動設備：如何在 Windows 11-7 上複製系統檔案到 USB 隨身碟</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-reviews-leading-external-data-storage-devices/"><u>Expert Reviews: Leading External Data Storage Devices</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/guide-de-recovery-darchives-eliminees-par-ccleaner-sur-windows-et-mac-sauvegardez-vos-donnees/"><u>Guide De Recovery D'Archives Eliminees Par CCleaner Sur Windows Et Mac – Sauvegardez Vos Données!</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-enhance-your-graphics-performance-can-you-add-more-ram-to-a-graphics-card-expert-advice-from-yl-software/"><u>How to Enhance Your Graphics Performance: Can You Add More RAM to a Graphics Card? – Expert Advice From YL Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-honor-magic5-ultimate-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Honor Magic5 Ultimate Phones with/without a PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2022-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2022) With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/page-unavailable-404-error-content-cant-be-located/"><u>Page Unavailable (404 Error): Content Can't Be Located</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-sound-issues-identifying-and-solving-audible-pop-problems/"><u>Windows Sound Issues: Identifying and Solving Audible Pop Problems</u></a></li>
 </ul></div>
 

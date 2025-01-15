@@ -1,7 +1,7 @@
 ---
 title: Setting Up Your DEX 3 Mixer with a DJ Controllers' MIDI Interface - Step-by-Step Guide
-date: 2025-01-02T02:36:01.232Z
-updated: 2025-01-08T23:55:28.745Z
+date: 2025-01-14T03:38:11.892Z
+updated: 2025-01-14T19:40:34.336Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We’ll continue to add support as new DJ controllers hit the streets, but as pr
 ##### Video: This Is How To Configure Your DJ Controller Audio Interface With PCDJ DEX 3.3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -49,20 +49,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/02/audioconfiguration-blog.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-expert-tips-for-efficient-screenshotting-with-zd-softwares-advanced-features/"><u>[New] Expert Tips for Efficient Screenshotting with ZD Software's Advanced Features</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mp4ogvmovavi/"><u>無料で使えるMP4に簡単変換!動画形式OGVをMovaviでオンライン変更する方法</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/cookiebot-enhanced-optimize-your-website-with-smart-automation/"><u>Cookiebot-Enhanced: Optimize Your Website with Smart Automation</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-dell-inspiron-3671-desktop-a-balanced-choice-in-budget-computing/"><u>Evaluating the Dell Inspiron 3671 Desktop: A Balanced Choice in Budget Computing</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/exploring-benefits-why-should-you-consider-crypto-assets-insights-by-yl-computing/"><u>Exploring Benefits: Why Should You Consider Crypto Assets? - Insights by YL Computing</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/how-can-i-resolve-incompatibility-between-driver-software-and-my-windows-os-solutions-by-yl-computing/"><u>How Can I Resolve Incompatibility Between Driver Software and My Windows OS - Solutions by YL Computing</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-poco-m6-pro-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Poco M6 Pro 5G?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instas-influence-index-a-look-at-the-top-25-gurus-and-visionaries/"><u>Insta’s Influence Index A Look at the Top 25 Gurus and Visionaries</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/professional-pics-and-stunning-season-8-got-hd-walls-for-your-desktop-or-phone-by-yl-software/"><u>Professional Pics and Stunning Season 8 GOT HD Walls for Your Desktop or Phone by YL Software</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/solving-hardware-and-software-problems-a-comprehensive-guide-by-yl-computing/"><u>Solving Hardware & Software Problems: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/speed-up-your-computer-with-efficient-disk-cleanup-techniques-guidance-by-yl-software-experts/"><u>Speed Up Your Computer with Efficient Disk Cleanup Techniques - Guidance by YL Software Experts</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/troubleshooting-guide-resolving-issues-with-your-scanner-insights-from-yl-computing/"><u>Troubleshooting Guide: Resolving Issues with Your Scanner - Insights From YL Computing</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/unexpected-blues-a-comprehensive-guide-by-yl-computing-on-diagnosing-and-fixing-random-bsod-issues-effectively/"><u>Unexpected Blues: A Comprehensive Guide by YL Computing on Diagnosing and Fixing Random BSOD Issues Effectively</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/unexpected-darkness-resolving-your-laptops-black-screen-dilemma-insights-from-yl-computing/"><u>Unexpected Darkness: Resolving Your Laptop's Black Screen Dilemma - Insights From YL Computing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-procuring-legal-melodies-a-youtube-creators-guide/"><u>[Updated] Procuring Legal Melodies A YouTube Creator's Guide</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1-expert-testdisk-evaluation-and-superior-replacement-options/"><u>1. Expert TestDisk Evaluation and Superior Replacement Options</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-convenient-chromebook-shot-techniques-method-4/"><u>2024 Approved Convenient Chromebook Shot Techniques (Method #4)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-selecting-your-favorite-free-game-capture-software/"><u>2024 Approved Selecting Your Favorite Free Game Capture Software</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/can-you-receive-a-monthly-check-from-youtube-in-2024/"><u>Can You Receive a Monthly Check From YouTube, In 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0x80072f8f-on-windows-11-and-10-comprehensive-troubleshooting-guide/"><u>Error 0X80072F8F on Windows 11 & 10: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-power-efficiency-in-high-end-pc-gaming/"><u>Mastering Power Efficiency in High-End PC Gaming</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/photoshop/"><u>Photoshop 文件修复：恢复已删除/未保存/损坏的档案</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-samsung-galaxy-z-fold-5-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Samsung Galaxy Z Fold 5 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/troubleshooting-and-solving-exclusive-lock-failures-in-windows-backup-processes/"><u>Troubleshooting and Solving 'Exclusive Lock' Failures in Windows Backup Processes</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/troubleshooting-hevc-media-format-problems-on-your-pc-2-expert-solutions-for-windows-users/"><u>Troubleshooting HEVC Media Format Problems on Your PC - 2 Expert Solutions for Windows Users</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/ultimate-samsung-m2-ssd-transfer-toolkit-with-comprehensive-user-manual/"><u>Ultimate Samsung M.2 SSD Transfer Toolkit with Comprehensive User Manual</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/unveiling-kathys-journey-a-comprehader-insight-into-the-acclaimed-authors-biography-and-works/"><u>Unveiling Kathy's Journey: A Comprehader Insight Into the Acclaimed Author's Biography and Works</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1728479516237-word/"><u>Wordプログラムにおける中断状態からの復活方法と重要情報の保存戦略</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1728471923718-windows-115/"><u>データ救出法: Windows 11における5つの方法で失われた情報を復元する</u></a></li>
 </ul></div>
 

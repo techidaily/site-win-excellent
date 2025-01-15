@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Mastering Sidelists & Auto Mix Shuffle Features in PCDJ DEX 3 – Learn with Our Expert Tutorial
-date: 2025-01-05T21:00:42.513Z
-updated: 2025-01-08T17:03:20.284Z
+date: 2025-01-08T17:45:30.847Z
+updated: 2025-01-14T23:24:33.725Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ Being able to see your search results, or tracks in any opened directory or user
 ##### Using the Sidelist and Automix-Shuffle in PCDJ DEX 3 DJ Mixing Software
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,22 +44,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/coverimage-sidelist-automi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-a-comprehensive-guide-for-converting-pinterest-video-content-to-mp3-format/"><u>[Updated] A Comprehensive Guide for Converting Pinterest Video Content to MP3 Format</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mastering-your-marketing-edge-establishing-a-biz-page-on-instagram-for-2024/"><u>[Updated] Mastering Your Marketing Edge Establishing a Biz Page on Instagram for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-amplify-your-channel-effortless-tactics-for-more-views/"><u>2024 Approved Amplify Your Channel Effortless Tactics for More Views</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/choosing-the-right-blockchain-ico-a-comprehensive-guide-by-yl-computing/"><u>Choosing the Right Blockchain ICO: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-zte-nubia-z60-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Realme C51? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-sound-identity-shift-for-free-fire-characters-no-money-required/"><u>In 2024, Sound Identity Shift for Free Fire Characters - No Money Required</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/ipad-pro-2021-with-apples-m1-chip-review-bridging-laptop-power-and-tablet-convenience/"><u>IPad Pro 2021 with Apple's M1 Chip Review: Bridging Laptop Power and Tablet Convenience</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/meme-mania-social-medias-most-hilarious-video-threads/"><u>Meme Mania Social Media's Most Hilarious Video Threads</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/our-curated-list-the-7-finest-alarm-clock-applications/"><u>Our Curated List: The 7 Finest Alarm Clock Applications</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/resolving-the-communication-error-with-scanners-issue-a-step-by-step-guide-tech-solutions-by-xyz/"><u>Resolving the 'Communication Error with Scanners' Issue: A Step-by-Step Guide - Tech Solutions by XYZ</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/setting-up-dual-displays-on-windows-11-a-step-by-step-guide-the-tech-wizardry/"><u>Setting Up Dual Displays on Windows 11: A Step-by-Step Guide - The Tech Wizardry</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/troubleshooting-pc-components-expert-tips-from-yl-computing-for-pinpointing-hardware-failures/"><u>Troubleshooting PC Components: Expert Tips From YL Computing for Pinpointing Hardware Failures</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/troubleshooting-steps-resolving-unresponsive-scanner-issues-tips-from-yl-computings-scanning-software/"><u>Troubleshooting Steps: Resolving Unresponsive Scanner Issues - Tips From YL Computing's Scanning Software</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/ultimate-guide-restoring-deleted-files-in-windows-tips-from-yl-computing/"><u>Ultimate Guide: Restoring Deleted Files in Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/vibrant-edgar-brawler-visual-assets-high-res-images-and-wallpapers-from-yl-softwares-creations/"><u>Vibrant Edgar Brawler Visual Assets: High-Res Images and Wallpapers From YL Software's Creations</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/zelenskys-ukraine-contemplates-elections-during-conflict-funding-by-partners-essential-parliament-sanctions-inclusive-voter-access-insights-from-yl-computin65/"><u>Zelensky's Ukraine Contemplates Elections During Conflict, Funding by Partners Essential; Parliament Sanctions Inclusive Voter Access – Insights From YL Computing and Software Solutions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-dive-deep-into-the-best-practices-for-video-download-success/"><u>[New] Dive Deep Into the Best Practices for Video Download Success</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-virtual-frontier-peripherals-the-hottest-10/"><u>[New] Virtual Frontier Peripherals The Hottest 10</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-leading-edge-the-ultimate-selection-of-10-top-background-switchers/"><u>[Updated] In 2024, Leading Edge The Ultimate Selection of 10 Top Background Switchers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/advanced-gadget-breakdowns-at-toms-hardware-hub/"><u>Advanced Gadget Breakdowns at Tom's Hardware Hub</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/backup-elettronici-iniziati-da-avvenimenti-predeterminati-come-configurarli-automaticamente/"><u>Backup Elettronici Iniziati Da Avvenimenti Predeterminati – Come Configurarli Automaticamente</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/ensuring-data-security-with-a-windows-the-ultimate-guide-to-creating-an-imaging-of-windows-8-system/"><u>Ensuring Data Security with A Windows The Ultimate Guide to Creating an Imaging of Windows 8 System</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/how-to-move-a-disk-drive-from-hdd-to-ssd-on-windows-11-10-8-or-7/"><u>How to Move a Disk Drive From HDD to SSD on Windows 11, 10, 8 or 7</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-samsung-galaxy-f04-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Samsung Galaxy F04 Phone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-x9a-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor X9a to PC? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/optimize-entertainment-with-plex-top-prime-day-bargains/"><u>Optimize Entertainment with Plex: Top Prime Day Bargains</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/resolution-de-problemes-recuperer-les-elements-perdus-a-partir-de-lhistorique-des-fichiers-windows-n10/"><u>Résolution De Problèmes : Recuperer Les Éléments Perdus À Partir De L'historique Des Fichiers Windows N°10</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/solving-samsung-t7-drive-detection-issues-in-windows-10-a-step-by-step-guide/"><u>Solving Samsung T7 Drive Detection Issues in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-process-for-restoring-files-on-your-transcend-memory-card/"><u>Step-by-Step Process for Restoring Files on Your Transcend Memory Card</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/1723262417565-unleash-unparalleled-computing-power-on-the-go-with-our-portable-server-4tb-ram-480tb-nvme-and-ampere-altra-cpu-packed-in-a-fly-away-kit/"><u>Unleash Unparalleled Computing Power On-The-Go With Our Portable Server: 4TB RAM, 480TB NVMe, and Ampere Altra CPU Packed in a Fly-Away Kit!</u></a></li>
 </ul></div>
 

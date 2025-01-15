@@ -1,7 +1,7 @@
 ---
 title: Discover Advanced Karaoke Control with PCDJ's New Feature in DEX Software (Version 3.11.0.1)
-date: 2025-01-07T22:07:42.122Z
-updated: 2025-01-09T01:46:09.360Z
+date: 2025-01-07T23:12:56.733Z
+updated: 2025-01-15T02:58:00.123Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ One of the new karaoke features found in [DEX 3 version 3.11.0.1](https://tools.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How it Works
@@ -33,7 +33,7 @@ From a list or from search results, drag-and-drop a karaoke track into the singe
 [![Pre adjust key on karaoke songs](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/key-setting.jpg?fit=300%2C300&ssl=1 "Pre adjust key on karaoke songs")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/key-setting.jpg?fit=613%2C613&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You will then see the key adjust number in rotation next to the track’s title. (IE: If you adjust three 1/2 semitone steps you’d see ‘+1.50’ next to the song title in the rotation list). Use the ‘**Load Singer**‘ button to load and play the top karaoke track from the singer rotation list and the key adjustment will be applied in the deck/player automatically.
@@ -45,7 +45,7 @@ With this new addition there’s no question that [DEX 3](https://tools.techidai
 _Have questions about the karaoke features and key control settings found in DEX 3.11? Please leave them in the comments section below and someone will respond promptly!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,22 +67,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/cover-pre-adjust-key.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/updated-cut-the-boring-watch-these-15-hilarious-youtube-bites/"><u>[Updated] Cut the Boring, Watch These 15 Hilarious YouTube Bites</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-unlock-old-facebook-memories-with-a-click-for-2024/"><u>[Updated] Unlock Old Facebook Memories with a Click for 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/crystal-clear-imagery-of-candice-swanepoel-for-desktop-and-mobile-backgrounds-exclusive-creations-from-yl-software/"><u>Crystal Clear Imagery of Candice Swanepoel for Desktop & Mobile Backgrounds – Exclusive Creations From YL Software</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/dinosaur-power-ranger-series-stunning-super-charge-themed-wallpapers-and-backgrounds-by-yl-computing/"><u>Dinosaur Power Ranger Series: Stunning 'Super Charge' Themed Wallpapers & Backgrounds by YL Computing</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/effective-strategies-to-clear-up-ram-space-on-your-computer-tech-insights-by-yl/"><u>Effective Strategies to Clear Up RAM Space on Your Computer - Tech Insights by YL</u></a></li>
-<li><a href="https://win-lab.techidaily.com/how-to-create-a-windows-11-bootable-image-for-another-computer/"><u>How To Create a Windows 11 Bootable Image for Another Computer</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-infinix-gt-10-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Infinix GT 10 Pro Phone? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-11-pro-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 11 Pro Swipe-Up? Try These 11 Solutions</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/increase-profits-with-our-unique-karaoke-files-for-djs-save-30-limited-offer-on-pcdj-platform/"><u>Increase Profits With Our Unique Karaoke Files for DJs - Save 30%, Limited Offer on PCDJ Platform!</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/optimizing-computer-performance-by-expanding-available-disk-space-expert-advice-by-yl-software-experts/"><u>Optimizing Computer Performance by Expanding Available Disk Space: Expert Advice by YL Software Experts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pro-window-11-users-guide-to-photovideo-imports-for-2024/"><u>Pro Window 11 Users' Guide to Photo/Video Imports for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-solution-resolving-the-valorant-graphics-driver-crashed-issue/"><u>Quick Solution: Resolving the Valorant 'Graphics Driver Crashed' Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-issue-why-does-my-computer-keep-getting-content-warning-errors-and-how-to-stop-them/"><u>Solving the Issue: Why Does My Computer Keep Getting 'Content Warning' Errors and How to Stop Them</u></a></li>
-<li><a href="https://win-info.techidaily.com/step-by-step-guide-successfully-adding-and-configuring-new-pc-hardware-in-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Successfully Adding and Configuring New PC Hardware in Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/stunning-white-floral-designs-for-walls-ultra-hd-background-graphics-visual-treats-by-yl-digital-innovations/"><u>Stunning White Floral Designs for Walls | Ultra HD Background Graphics | Visual Treats by YL Digital Innovations</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/vaneck-revamps-submission-for-immediate-access-to-bitcoin-etf-in-depth-analysis-with-yl-software-insights/"><u>VanEck Revamps Submission for Immediate Access to Bitcoin ETF – In-Depth Analysis with YL Software Insights</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/windows-10-optimization-with-the-right-drivers-expert-tips-from-yl-software/"><u>Windows 10 Optimization with the Right Drivers: Expert Tips From YL Software</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-step-by-step-transferring-snapshots-from-social-platform-to-device-for-2024/"><u>[Updated] Step-by-Step Transferring Snapshots From Social Platform to Device for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/developing-a-user-friendly-direct-url-for-yt-subscription/"><u>Developing a User-Friendly Direct URL for YT Subscription</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/download-high-quality-honda-civic-type-r-desktops-with-yl-software-your-trusted-tech-partner/"><u>Download High-Quality Honda Civic Type R Desktops with YL Software – Your Trusted Tech Partner</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/exploring-reasons-behind-gpu-errors-with-guidance-from-yl-software-experts/"><u>Exploring Reasons Behind GPU Errors with Guidance From YL Software Experts</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/how-can-you-accelerate-boot-speed-and-shorten-launch-times-insights-from-yl-computings-expertise/"><u>How Can You Accelerate Boot Speed & Shorten Launch Times: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavi-gif/"><u>Movavi: フリーのウェブ上で動画をGIFに簡単変換</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-techniques-to-resolve-lagging-challenges-within-dying-light/"><u>Troubleshooting Techniques to Resolve Lagging Challenges Within Dying Light</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/ultimate-guide-to-mastering-sidelists-and-auto-mix-shuffle-features-in-pcdj-dex-3-learn-with-our-expert-tutorial/"><u>Ultimate Guide to Mastering Sidelists & Auto Mix Shuffle Features in PCDJ DEX 3 – Learn with Our Expert Tutorial</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unmatched-12-apps-for-endless-screen-saving-for-2024/"><u>Unmatched 12 Apps for Endless Screen Saving for 2024</u></a></li>
 </ul></div>
 
