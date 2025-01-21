@@ -1,7 +1,7 @@
 ---
 title: Discover Advanced Karaoke Control with PCDJ's New Feature in DEX Software (Version 3.11.0.1)
-date: 2025-01-07T23:12:56.733Z
-updated: 2025-01-15T02:58:00.123Z
+date: 2025-01-18T22:43:19.189Z
+updated: 2025-01-20T20:00:18.216Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ One of the new karaoke features found in [DEX 3 version 3.11.0.1](https://tools.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How it Works
@@ -33,7 +33,7 @@ From a list or from search results, drag-and-drop a karaoke track into the singe
 [![Pre adjust key on karaoke songs](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/key-setting.jpg?fit=300%2C300&ssl=1 "Pre adjust key on karaoke songs")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/key-setting.jpg?fit=613%2C613&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You will then see the key adjust number in rotation next to the track’s title. (IE: If you adjust three 1/2 semitone steps you’d see ‘+1.50’ next to the song title in the rotation list). Use the ‘**Load Singer**‘ button to load and play the top karaoke track from the singer rotation list and the key adjustment will be applied in the deck/player automatically.
@@ -45,7 +45,7 @@ With this new addition there’s no question that [DEX 3](https://tools.techidai
 _Have questions about the karaoke features and key control settings found in DEX 3.11? Please leave them in the comments section below and someone will respond promptly!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,16 +67,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/cover-pre-adjust-key.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-step-by-step-transferring-snapshots-from-social-platform-to-device-for-2024/"><u>[Updated] Step-by-Step Transferring Snapshots From Social Platform to Device for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/developing-a-user-friendly-direct-url-for-yt-subscription/"><u>Developing a User-Friendly Direct URL for YT Subscription</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/download-high-quality-honda-civic-type-r-desktops-with-yl-software-your-trusted-tech-partner/"><u>Download High-Quality Honda Civic Type R Desktops with YL Software – Your Trusted Tech Partner</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/exploring-reasons-behind-gpu-errors-with-guidance-from-yl-software-experts/"><u>Exploring Reasons Behind GPU Errors with Guidance From YL Software Experts</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/how-can-you-accelerate-boot-speed-and-shorten-launch-times-insights-from-yl-computings-expertise/"><u>How Can You Accelerate Boot Speed & Shorten Launch Times: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavi-gif/"><u>Movavi: フリーのウェブ上で動画をGIFに簡単変換</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-techniques-to-resolve-lagging-challenges-within-dying-light/"><u>Troubleshooting Techniques to Resolve Lagging Challenges Within Dying Light</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/ultimate-guide-to-mastering-sidelists-and-auto-mix-shuffle-features-in-pcdj-dex-3-learn-with-our-expert-tutorial/"><u>Ultimate Guide to Mastering Sidelists & Auto Mix Shuffle Features in PCDJ DEX 3 – Learn with Our Expert Tutorial</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/unmatched-12-apps-for-endless-screen-saving-for-2024/"><u>Unmatched 12 Apps for Endless Screen Saving for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-celebrating-the-best-ten-music-video-lives/"><u>[New] In 2024, Celebrating the Best Ten Music Video Lives</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-discover-these-eight-handy-apps-to-upload-reels-on-instagram/"><u>[New] In 2024, Discover These Eight Handy Apps to Upload Reels on Instagram</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-transform-your-twitter-experience-with-fresh-tailored-video-previews/"><u>[New] Transform Your Twitter Experience with Fresh, Tailored Video Previews</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unlock-potential-a-101-step-guide-to-crafting-exceptional-bios-on-facebook/"><u>[New] Unlock Potential A 101-Step Guide to Crafting Exceptional Bios on Facebook</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-perfect-your-youtube-experience-add-timestamps-efficiently/"><u>[Updated] 2024 Approved Perfect Your YouTube Experience Add Timestamps Efficiently</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-scopesight-appraisal-review/"><u>2024 Approved ScopeSight Appraisal Review</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-xiaomi-13t-pro-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Xiaomi 13T Pro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/classic-chimes-catalogue-websites-of-worth/"><u>Classic Chimes Catalogue Websites of Worth</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/datenschutzmassnahmen-beim-einrichten-eines-mbr-oder-gpt-startdisksystems-keine-datenverluste-garantiert/"><u>Datenschutzmaßnahmen Beim Einrichten Eines MBR Oder GPT-Startdisksystems: Keine Datenverluste Garantiert</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/guia-paso-a-paso-para-volver-a-instalar-el-sistema-operativo-desde-un-disco-duro-externa-en-espanol/"><u>Guía Paso a Paso Para Volver a Instalar El Sistema Operativo Desde Un Disco Duro Externa | En Español</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/guide-complet-pour-transferer-du-contenu-dun-hdd-a-un-ssd-en-utilisant-le-logiciel-aomei-backupper/"><u>Guide Complet Pour Transférer Du Contenu D'un HDD À Un SSD en Utilisant Le Logiciel AOMEI Backupper.</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-optimize-audio-capture-top-5-windows-11-strategies/"><u>In 2024, How to Optimize Audio Capture Top 5 Windows 11 Strategies</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/smart-escort-ix-gps-radar-detector-review-your-ai-powered-driving-companion/"><u>Smart Escort iX GPS Radar Detector Review: Your AI-Powered Driving Companion</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-tutorial-mastering-the-vmware-vsphere-cli-for-beginners/"><u>Step-by-Step Tutorial: Mastering the VMware vSphere CLI for Beginners</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-tutorial-setting-up-vcenter-server-appliance-with-esxi/"><u>Step-by-Step Tutorial: Setting Up vCenter Server Appliance with ESXi</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/strategies-efficaces-pour-la-recuperation-de-donnees-a-partir-dun-disque-dur-casse/"><u>Stratégies Efficaces Pour La Récupération De Données À Partir D'un Disque Dur Cassé</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/two-proven-strategies-for-restoring-a-missing-outlook-pst-file-on-your-windows-tn-device/"><u>Two Proven Strategies for Restoring a Missing Outlook PST File on Your Windows ˈtɛn Device</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/wie-man-haftnotizen-effektiv-mit-windows-1011-exportiert-und-speichert-profi-tipps/"><u>Wie Man Haftnotizen Effektiv Mit Windows 10/11 Exportiert Und Speichert - Profi-Tipps</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/wiederholungsmoglichkeiten-fur-endgultig-geloschte-dateien-auf-windows-systemen/"><u>Wiederholungsmöglichkeiten Für Endgültig Gelöschte Dateien Auf Windows-Systemen</u></a></li>
 </ul></div>
 

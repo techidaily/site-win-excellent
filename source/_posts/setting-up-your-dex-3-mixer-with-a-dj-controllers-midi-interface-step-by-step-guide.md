@@ -1,7 +1,7 @@
 ---
 title: Setting Up Your DEX 3 Mixer with a DJ Controllers' MIDI Interface - Step-by-Step Guide
-date: 2025-01-14T03:38:11.892Z
-updated: 2025-01-14T19:40:34.336Z
+date: 2025-01-19T20:30:04.827Z
+updated: 2025-01-21T03:47:26.986Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We’ll continue to add support as new DJ controllers hit the streets, but as pr
 ##### Video: This Is How To Configure Your DJ Controller Audio Interface With PCDJ DEX 3.3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -49,20 +49,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/02/audioconfiguration-blog.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-procuring-legal-melodies-a-youtube-creators-guide/"><u>[Updated] Procuring Legal Melodies A YouTube Creator's Guide</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1-expert-testdisk-evaluation-and-superior-replacement-options/"><u>1. Expert TestDisk Evaluation and Superior Replacement Options</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-convenient-chromebook-shot-techniques-method-4/"><u>2024 Approved Convenient Chromebook Shot Techniques (Method #4)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-selecting-your-favorite-free-game-capture-software/"><u>2024 Approved Selecting Your Favorite Free Game Capture Software</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/can-you-receive-a-monthly-check-from-youtube-in-2024/"><u>Can You Receive a Monthly Check From YouTube, In 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-0x80072f8f-on-windows-11-and-10-comprehensive-troubleshooting-guide/"><u>Error 0X80072F8F on Windows 11 & 10: Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-power-efficiency-in-high-end-pc-gaming/"><u>Mastering Power Efficiency in High-End PC Gaming</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/photoshop/"><u>Photoshop 文件修复：恢复已删除/未保存/损坏的档案</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-samsung-galaxy-z-fold-5-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Samsung Galaxy Z Fold 5 Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/troubleshooting-and-solving-exclusive-lock-failures-in-windows-backup-processes/"><u>Troubleshooting and Solving 'Exclusive Lock' Failures in Windows Backup Processes</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/troubleshooting-hevc-media-format-problems-on-your-pc-2-expert-solutions-for-windows-users/"><u>Troubleshooting HEVC Media Format Problems on Your PC - 2 Expert Solutions for Windows Users</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/ultimate-samsung-m2-ssd-transfer-toolkit-with-comprehensive-user-manual/"><u>Ultimate Samsung M.2 SSD Transfer Toolkit with Comprehensive User Manual</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/unveiling-kathys-journey-a-comprehader-insight-into-the-acclaimed-authors-biography-and-works/"><u>Unveiling Kathy's Journey: A Comprehader Insight Into the Acclaimed Author's Biography and Works</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1728479516237-word/"><u>Wordプログラムにおける中断状態からの復活方法と重要情報の保存戦略</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1728471923718-windows-115/"><u>データ救出法: Windows 11における5つの方法で失われた情報を復元する</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-top-5-underwater-gopro-accessories/"><u>[Updated] 2024 Approved Top 5 Underwater Gopro Accessories</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-8-no-cost-video-chat-tools-pcmac-compatibility-for-2024/"><u>[Updated] Top 8 No-Cost Video Chat Tools PC/Mac Compatibility for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-sound-a-detailed-comparison-of-sonos-era-100-and-sonos-one-for-your-home-audio-needs/"><u>Choosing the Right Sound: A Detailed Comparison of Sonos Era 100 and Sonos One for Your Home Audio Needs</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/comprendre-et-controler-les-mises-a-jour-de-windows-un-guide-pratique-utilisant-la-ligne-de-commande/"><u>Comprendre Et Contrôler Les Mises À Jour De Windows: Un Guide Pratique Utilisant La Ligne De Commande</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/cost-effective-subscriber-growth-hundreds-at-a-bargain-price-for-2024/"><u>Cost-Effective Subscriber Growth - Hundreds at a Bargain Price for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-seamlessly-incorporate-video-tracks-in-youtube-lists/"><u>How to Seamlessly Incorporate Video Tracks in YouTube Lists</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-integrating-video-conferencing-mastering-skypes-screen-sharing-functionality/"><u>In 2024, Integrating Video Conferencing Mastering Skype's Screen Sharing Functionality</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/outlook-mails-schritt-fur-schritt-anleitung-zum-deaktivieren-des-automatischen-loschens/"><u>Outlook Mails: Schritt-Für-Schritt Anleitung Zum Deaktivieren Des Automatischen Löschens</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/pctop8/"><u>PCが不意にシャットダウンする:再起動できず解決法TOP8</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/reset-your-hp-windows-11-laptop-without-a-password-easy-methods-unveiled/"><u>Reset Your HP Windows 11 Laptop without a Password: Easy Methods Unveiled</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/schritte-zur-prufung-ihres-systems-vor-dem-neuaufbau-von-imagewiederherstellungsdateien-eine-umfassende-anleitung/"><u>Schritte Zur Prüfung Ihres Systems Vor Dem Neuaufbau Von Imagewiederherstellungsdateien: Eine Umfassende Anleitung</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/una-guia-paso-a-paso-para-la-proteccion-de-tus-datos/"><u>Una Guía Paso a Paso Para La Protección De Tus Datos</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/aaja-apana-vadaja-paranael-ka-eka-ha-thathha-ma-sacara-mafata-fatagarafaka-safitavayara-daunalda-kara/"><u>आज अपने विंडोज प्रणाली को एक ही दूध में सुचारू, मुफ्त फोटोग्राफिक सॉफ़्टवेयर डाउनलोड करें</u></a></li>
 </ul></div>
 
