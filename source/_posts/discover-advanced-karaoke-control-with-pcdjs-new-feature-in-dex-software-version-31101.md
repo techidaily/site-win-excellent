@@ -1,7 +1,7 @@
 ---
 title: Discover Advanced Karaoke Control with PCDJ's New Feature in DEX Software (Version 3.11.0.1)
-date: 2025-01-23T01:34:37.309Z
-updated: 2025-01-26T22:52:29.669Z
+date: 2025-02-05T21:06:30.528Z
+updated: 2025-02-09T02:06:47.627Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ One of the new karaoke features found in [DEX 3 version 3.11.0.1](https://tools.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How it Works
@@ -33,7 +33,7 @@ From a list or from search results, drag-and-drop a karaoke track into the singe
 [![Pre adjust key on karaoke songs](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/key-setting.jpg?fit=300%2C300&ssl=1 "Pre adjust key on karaoke songs")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/key-setting.jpg?fit=613%2C613&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You will then see the key adjust number in rotation next to the track’s title. (IE: If you adjust three 1/2 semitone steps you’d see ‘+1.50’ next to the song title in the rotation list). Use the ‘**Load Singer**‘ button to load and play the top karaoke track from the singer rotation list and the key adjustment will be applied in the deck/player automatically.
@@ -45,7 +45,7 @@ With this new addition there’s no question that [DEX 3](https://tools.techidai
 _Have questions about the karaoke features and key control settings found in DEX 3.11? Please leave them in the comments section below and someone will respond promptly!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,22 +67,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/cover-pre-adjust-key.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-personalizing-your-feed-with-soundtracks-android-and-ios-tips/"><u>[New] 2024 Approved Personalizing Your Feed with Soundtracks - Android & iOS Tips</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-x-studio-voice-processor-windows/"><u>[Updated] X-Studio Voice Processor, Windows</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-unravel-the-potential-of-multiple-screen-usage-in-netflix/"><u>2024 Approved Unravel The Potential of Multiple Screen Usage in Netflix</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/a-dual-approach-guide/"><u>A Dual-Approach Guide</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/automatisiertes-verwalten-von-ordnern-mit-einem-netzlaufwerk-auf-windows-11-zwei-methoden/"><u>Automatisiertes Verwalten Von Ordnern Mit Einem Netzlaufwerk Auf Windows 11 - Zwei Methoden</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-plus-or-perplexity-discovering-ai-prowess/"><u>GPT Plus or Perplexity? Discovering AI Prowess</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-unleash-your-creativity-best-free-animation-programs-for-pc-and-mac/"><u>In 2024, Unleash Your Creativity Best Free Animation Programs for PC and Mac</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-vdl-pro-recorder-summary-detailed-breakdown/"><u>In 2024, VDL Pro Recorder Summary Detailed Breakdown</u></a></li>
-<li><a href="https://os-tips.techidaily.com/retrieving-accidentally-deleted-photos-on-your-ipod-touch-effective-strategies-and-tools/"><u>Retrieving Accidentally Deleted Photos on Your iPod Touch – Effective Strategies and Tools</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/ricupera-i-tuoi-file-come-ripristinare-i-dati-da-una-chiave-usb-usando-il-prompt-dei-comandi-in-3-modalita-distinte/"><u>Ricupera I Tuoi File: Come Ripristinare I Dati Da Una Chiave USB Usando Il Prompt Dei Comandi in 3 Modalità Distinte</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-for-missing-d3dcompiler-dll-files-error-code-43/"><u>Solution Guide for Missing D3DCompiler DLL Files (Error Code 43)</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-securing-your-data-with-windows-student/"><u>Step-by-Step Guide: Securing Your Data with Windows [Student]</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/strategies-pour-eviter-la-suppression-automatique-des-fichiers-sur-votre-bureau/"><u>Stratégies Pour Éviter La Suppression Automatique Des Fichiers Sur Votre Bureau</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/troubleshooting-and-solving-exclusive-lock-failures-in-windows-backup-processes/"><u>Troubleshooting and Solving 'Exclusive Lock' Failures in Windows Backup Processes</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/ultimate-samsung-m2-ssd-transfer-toolkit-with-comprehensive-user-manual/"><u>Ultimate Samsung M.2 SSD Transfer Toolkit with Comprehensive User Manual</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/unveiling-kathys-journey-a-comprehader-insight-into-the-acclaimed-authors-biography-and-works/"><u>Unveiling Kathy's Journey: A Comprehader Insight Into the Acclaimed Author's Biography and Works</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/writing-a-book-of-verses-utilizing-chatgpts-capabilities/"><u>Writing a Book of Verses: Utilizing ChatGPT's Capabilities</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-harmonizing-hearts-and-hertz-music-on-the-vimeo-scene/"><u>[New] 2024 Approved Harmonizing Hearts and Hertz Music on the Vimeo Scene</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-streamlining-your-archive-converting-snapchats-ephemeral-snaps-for-2024/"><u>[New] Streamlining Your Archive Converting Snapchat's Ephemeral Snaps for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-share-across-platforms-instagram-meets-facebook/"><u>[Updated] 2024 Approved Share Across Platforms Instagram Meets Facebook</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-master-artistic-freedom-with-the-top-10-mac-drawings-for-2024/"><u>[Updated] Master Artistic Freedom with the Top 10 Mac Drawings for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-value-dome-cams-affordable-360-filmmaking-tools/"><u>[Updated] Top Value Dome Cams Affordable 360° Filmmaking Tools</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1728504511522-windows-101110/"><u>【高性能】Windows 10和11下的文件恢复技巧：10种方法</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/cancellato-un-messaggio-e-perduto-per-sempre/"><u>Cancellato Un Messaggio, È Perduto per Sempre?</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/guia-paso-a-paso-rescatando-datos-borrados-en-windows-server-2012-r2/"><u>Guía Paso a Paso: Rescatando Datos Borrados en Windows Server 2012 R2</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-8-enhanced-peripherals-for-a-richer-metaverse-experience/"><u>In 2024, Top 8 Enhanced Peripherals for a Richer Metaverse Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/lucidsound-ls30-mic-issue-resolved-expert-tips-for-repair/"><u>LucidSound LS30 Mic Issue Resolved - Expert Tips for Repair</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mmf-naar-wav-verwerken-zonder-enige-kosten-een-gunstig-leidraad-voor-online-gratis-converteertoolen/"><u>MMF Naar WAV Verwerken Zonder Enige Kosten: Een Gunstig Leidraad Voor Online Gratis Converteertoolen</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/resoudre-rapidement-le-probleme-winloadefi-manquant-apres-un-clonage-de-disque/"><u>Résoudre Rapidement Le Problème 'winload.efi Manquant' Après Un Clonage De Disque</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-network-sets-higher-barrier-against-fake-news-truths/"><u>Social Network Sets Higher Barrier Against Fake News Truths</u></a></li>
 </ul></div>
 

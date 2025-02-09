@@ -1,7 +1,7 @@
 ---
 title: Exploring the Features of PCDJ Dex 3 with a Comprehensive Browser Walkthrough – Preview Insight Video
-date: 2025-01-23T22:31:05.632Z
-updated: 2025-01-26T16:50:53.299Z
+date: 2025-02-05T22:35:03.984Z
+updated: 2025-02-08T17:05:08.149Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/e6c6b6e32249dbf76f20abd6c6055b57975d7da74
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DEX 3 is in the final stages of beta testing, and the excitement is building here at PCDJ HQ.
@@ -29,7 +29,7 @@ For the majority of the last 10 months our development team has basically lived 
 We collectively agree that DEX 3 will be PCDJ’s **best DJ software** for mixing _everything_ (**audio, music videos and karaoke**). As outlined in [**this**](https://tools.techidaily.com/pcdj/products/) previous DEX 3 browser blog post, the new browser has been a major focal point; it’s been completely redesigned to be more robust, responsive and cross-platform ready. One of our beta team members has been testing with 300,000+ tracks (audio, karaoke and video) and search and navigation remain just as fast as having only 3 tracks in the library. This can be attested to the new browser being a true database, unlike in previous PCDJ products. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **In this DEX 3 browser overview video I showcase a few of the new browser capabilities, including setting folders as favorites (nested groups), navigating using keyboard commands, what the new browser icons mean and sorting within the library:**
@@ -39,7 +39,7 @@ We collectively agree that DEX 3 will be PCDJ’s **best DJ software** for mixin
 #### **If you’d like to demo the existing PCDJ DEX 2 version (free upgrades will be included to DEX 3 for all DEX 2 owners!), you can download it [_HERE_](https://tools.techidaily.com/pcdj/products/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,19 +61,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/browserpreviewvideo3.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/he-comparison-game-youtube-against-dailymention/"><u>[New] The Comparison Game YouTube Against DailyMention</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-deciphering-youtubes-cc-policy-for-video-makers/"><u>[Updated] 2024 Approved Deciphering YouTube's CC Policy for Video Makers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-extreme-sports-face-off-comparing-hero5-black-to-session/"><u>[Updated] Extreme Sports Face-Off Comparing Hero5 Black to Session</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-polarr-editor-explained-the-ultimate-visual-enhancement-pathway-for-2024/"><u>[Updated] Polarr Editor Explained The Ultimate Visual Enhancement Pathway for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-rising-stars-of-online-videos-top-subscription-hits/"><u>[Updated] Rising Stars of Online Videos Top Subscription Hits</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/comment-verifier-la-qualite-dune-image-sur-internet/"><u>Comment Vérifier La Qualité D’une Image Sur Internet ?</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/como-restaurar-tu-sistema-operativo-rapidamente-mediante-aomei-backupper/"><u>Cómo Restaurar Tu Sistema Operativo Rápidamente Mediante AOMEI Backupper</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/comprehensive-how-to-resolving-the-issue-of-a-missing-nvme-solid-state-drive/"><u>Comprehensive How-To: Resolving the Issue of a Missing NVMe Solid State Drive</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-samsung-galaxy-z-fold-5-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Samsung Galaxy Z Fold 5 FRP Bypass Instantly</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-infinix-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Infinix</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/mastering-mass-email-preservation-in-outlook-with-the-two-best-methods/"><u>Mastering Mass Email Preservation in Outlook with the Two Best Methods</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/safeguard-your-memories-top-7-techniques-for-backing-up-iphone-images-to-a-separate-hdd/"><u>Safeguard Your Memories: Top 7 Techniques for Backing Up iPhone Images to a Separate HDD</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-make-a-mark-with-your-first-cool-mac-video-post-on-youtube/"><u>[Updated] Make a Mark with Your First Cool Mac Video Post on YouTube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-ringtone-vox-transcription-device-iphone-for-2024/"><u>[Updated] Ringtone VOX Transcription Device (iPhone) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-rated-hardware-review-essential-capture-cards-for-online-viewing/"><u>[Updated] Top-Rated Hardware Review Essential Capture Cards for Online Viewing</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/apple-id-verifizierung-fehlgeschlagen-identifizierung-des-unerkannten-fehlers-und-reparaturanleitung/"><u>Apple ID Verifizierung Fehlgeschlagen - Identifizierung Des Unerkannten Fehlers Und Reparaturanleitung</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/dateierneuerungen-im-sketchup-programm-detailliert-entschlusseln-und-wiederherstellen/"><u>Dateierneuerungen Im SketchUp-Programm Detailliert Entschlüsseln Und Wiederherstellen</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/download-free-heic-image-converter-supports-windows-11-10-8-and/"><u>Download Free HEIC Image Converter: Supports Windows 11, 10, 8 &</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/extend-the-battery-life-of-your-apple-watch-by-tweaking-these-8-settings-zdnet/"><u>Extend the Battery Life of Your Apple Watch by Tweaking These 8 Settings | ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-maximize-your-view-with-lg-27ud88-w-monitor/"><u>How to Maximize Your View with LG 27UD88-W Monitor</u></a></li>
 <li><a href="https://win-excellent.techidaily.com/step-by-step-solutions-to-correct-a-damaged-mft-on-your-windows-pc/"><u>Step-by-Step Solutions to Correct a Damaged MFT on Your Windows PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/windows-compatible-amd-radeon-graphics-driver-downloads-available-now/"><u>Windows-Compatible AMD Radeon Graphics Driver Downloads Available Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/witnessing-chatgpts-influence-on-modern-industries/"><u>Witnessing ChatGPT's Influence on Modern Industries</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/zurucksetzen-von-windows-11-backups-nach-einem-systemabsturz-einfache-schritte-zum-recovery/"><u>Zurücksetzen Von Windows 11-Backups Nach Einem Systemabsturz: Einfache Schritte Zum Recovery</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/usbwindows-1011/"><u>ブータブルUSBをWindows 10/11で使用する際のトラブルシューティング手法</u></a></li>
 </ul></div>
 

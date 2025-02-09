@@ -1,7 +1,7 @@
 ---
 title: Schaffen Sie Zuverlässige Datensicherungen Mit Externen Laufwerken – Ein Umfassender Leitfaden
-date: 2025-01-09T18:04:26.790Z
-updated: 2025-01-14T16:11:17.729Z
+date: 2025-02-03T22:15:44.045Z
+updated: 2025-02-08T17:55:27.875Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/141f2083ce8f9807f7858bc78fabb4787ff1855b350de1df5ec61d6fc21bf535.jpg
@@ -18,11 +18,19 @@ thumbnail: https://thmb.techidaily.com/141f2083ce8f9807f7858bc78fabb4787ff1855b3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Risolvere l'Impossibilità di Digitare nella Barra di Ricerca su Windows 10: Guida Completa
 
 Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella barra di ricerca su Windows 10". Impara su AOMEI Backupper e misure preventive per evitare futuri inconvenienti con la barra di ricerca. Migliora subito la tua esperienza su Windows 10!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
@@ -50,7 +58,7 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -73,10 +81,6 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -96,7 +100,7 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
@@ -175,10 +179,6 @@ Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
 Assicurarsi la protezione dei dati è cruciale durante la risoluzione dei problemi. Considera l'utilizzo di AOMEI Backupper per creare un backup del sistema di Windows 10.
@@ -213,10 +213,6 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -226,7 +222,7 @@ Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affronta
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusione
@@ -251,10 +247,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -263,7 +255,15 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -280,17 +280,24 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-action-camera-faceoff-gopro-hero-vs-yi-4k-new-edition-review/"><u>[New] 2024 Approved Action Camera Faceoff GoPro Hero Vs. Yi 4K - New Edition Review</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-strategic-insights-into-youtubes-adsense-earnings-by-thousand-viewers/"><u>[New] 2024 Approved Strategic Insights Into Youtube's AdSense Earnings by Thousand Viewers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-a-comprehensive-look-at-youtube-shorts-template-design/"><u>[Updated] 2024 Approved A Comprehensive Look at YouTube Shorts Template Design</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-estimated-video-monetization-totals/"><u>[Updated] 2024 Approved Estimated Video Monetization Totals</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevating-your-contents-exposure-with-ongoing-creative-commons-usage/"><u>[Updated] In 2024, Elevating Your Content's Exposure with Ongoing Creative Commons Usage</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-minecraft-enthusiasts-blueprint-6-essential-recordings-strategies/"><u>[Updated] The Minecraft Enthusiast's Blueprint 6 Essential Recordings Strategies</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/ensuring-your-wi-fi-is-fortified-against-cyber-threats-expert-tips-from-yl-software/"><u>Ensuring Your Wi-Fi Is Fortified Against Cyber Threats: Expert Tips From YL Software</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/exploring-reasons-behind-gpu-errors-with-guidance-from-yl-software-experts/"><u>Exploring Reasons Behind GPU Errors with Guidance From YL Software Experts</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/how-to-repair-a-damaged-system-registry-in-windows-expert-guide-by-yl-computing/"><u>How to Repair a Damaged System Registry in Windows - Expert Guide by YL Computing</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/maximize-pc-speed-and-operational-efficiency-with-expert-advice-from-yl-software-experts/"><u>Maximize PC Speed & Operational Efficiency with Expert Advice From YL Software Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/power-user-essentials-a-review-of-the-top-notch-lenovo-laptops-unmatched-specs-and-performance/"><u>Power User Essentials: A Review of the Top Notch Lenovo Laptop's Unmatched Specs and Performance</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-restoring-irretrievably-lost-documents-on-windows-systems-expert-tips-by-yl-computing/"><u>Step-by-Step Guide: Restoring Irretrievably Lost Documents on Windows Systems - Expert Tips by YL Computing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-elevate-your-freefire-presence-with-top-tips-and-tricks/"><u>[New] 2024 Approved Elevate Your FreeFire Presence with Top Tips and Tricks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-essential-tactics-from-visual-to-audio-media-for-2024/"><u>[New] Essential Tactics From Visual to Audio Media for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-focus-on-action-exclude-unwanted-surroundings/"><u>[Updated] Focus on Action, Exclude Unwanted Surroundings</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-projection-vs-television-best-device-for-immersive-4k-content/"><u>[Updated] Projection vs Television Best Device for Immersive 4K Content</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1-breathtaking-liberty-walk-r34-skyline-photo-collections-and-digital-wallpapers-high-quality-visuals-by-yl-computing/"><u>1. Breathtaking Liberty Walk R34 Skyline Photo Collections & Digital Wallpapers - High-Quality Visuals by YL Computing</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1732518230684-yl-computingu/"><u>通过内心修为与智慧对话：YL Computing的新文章，解开千亿个孤独者的心——U兄</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-powered-vision-and-sound-the-new-capabilities-of-the-google-assistant/"><u>AI-Powered Vision and Sound: The New Capabilities of the Google Assistant</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/download-now-the-latest-update-of-karaoke-file-name-corrector-v1-compatible-with-popular-dj-software/"><u>Download Now: The Latest Update of Karaoke File Name Corrector (v1) - Compatible with Popular DJ Software</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/ensuring-your-digital-wealth-top-strategies-for-secure-cryptocurrency-management-insights-from-yl-computing/"><u>Ensuring Your Digital Wealth: Top Strategies for Secure Cryptocurrency Management - Insights From YL Computing</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/expert-advice-on-fixing-video-card-problems-a-comprehhem-by-yl-software-professionals/"><u>Expert Advice on Fixing Video Card Problems – A Comprehhem by YL Software Professionals</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/fb-download-made-simple-free-and-convenient-options-of-23-online-for-2024/"><u>FB Download Made Simple Free & Convenient Options of '23 Online for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/graphics-card-free-gaming-can-you-still-enjoy-pc-games-find-out-with-yl-software/"><u>Graphics Card-Free Gaming: Can You Still Enjoy PC Games? Find Out with YL Software</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-motorola-g24-power-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Motorola G24 Power Location | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/lightning-fast-retrieval-of-vanished-reddit-discussions-for-2024/"><u>Lightning-Fast Retrieval of Vanished Reddit Discussions for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-stability-overcoming-recurring-crashes-in-genshin-impact-for-a-seamless-pc-experience/"><u>Mastering Stability: Overcoming Recurring Crashes in Genshin Impact for a Seamless PC Experience</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-major-social-channels-a-deep-dive-into-facebook-twitter-instagram-and-you-tube/"><u>Navigating Major Social Channels: A Deep Dive Into Facebook, Twitter, Instagram & You Tube</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-tutorial-for-modifying-pdf-files-using-yl-software-on-your-pc/"><u>Step-by-Step Tutorial for Modifying PDF Files Using YL Software on Your PC</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/troubleshoot-and-resolve-windows-system-memory-errors-with-yl-software-techniques/"><u>Troubleshoot and Resolve Windows System Memory Errors with YL Software Techniques</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/unveiling-your-pcs-visual-powerhouse-how-to-determine-your-graphics-card-model-with-expert-advice-by-yl-software/"><u>Unveiling Your PC's Visual Powerhouse: How to Determine Your Graphics Card Model with Expert Advice by YL Software</u></a></li>
 </ul></div>
 

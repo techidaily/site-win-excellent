@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Mastering Sidelists & Auto Mix Shuffle Features in PCDJ DEX 3 – Learn with Our Expert Tutorial
-date: 2025-01-08T17:45:30.847Z
-updated: 2025-01-14T23:24:33.725Z
+date: 2025-02-01T21:56:32.202Z
+updated: 2025-02-09T02:39:59.227Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ Being able to see your search results, or tracks in any opened directory or user
 ##### Using the Sidelist and Automix-Shuffle in PCDJ DEX 3 DJ Mixing Software
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,19 +44,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/coverimage-sidelist-automi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-dive-deep-into-the-best-practices-for-video-download-success/"><u>[New] Dive Deep Into the Best Practices for Video Download Success</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-virtual-frontier-peripherals-the-hottest-10/"><u>[New] Virtual Frontier Peripherals The Hottest 10</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-leading-edge-the-ultimate-selection-of-10-top-background-switchers/"><u>[Updated] In 2024, Leading Edge The Ultimate Selection of 10 Top Background Switchers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/advanced-gadget-breakdowns-at-toms-hardware-hub/"><u>Advanced Gadget Breakdowns at Tom's Hardware Hub</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/backup-elettronici-iniziati-da-avvenimenti-predeterminati-come-configurarli-automaticamente/"><u>Backup Elettronici Iniziati Da Avvenimenti Predeterminati – Come Configurarli Automaticamente</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/ensuring-data-security-with-a-windows-the-ultimate-guide-to-creating-an-imaging-of-windows-8-system/"><u>Ensuring Data Security with A Windows The Ultimate Guide to Creating an Imaging of Windows 8 System</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/how-to-move-a-disk-drive-from-hdd-to-ssd-on-windows-11-10-8-or-7/"><u>How to Move a Disk Drive From HDD to SSD on Windows 11, 10, 8 or 7</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-samsung-galaxy-f04-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Samsung Galaxy F04 Phone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-x9a-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor X9a to PC? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/optimize-entertainment-with-plex-top-prime-day-bargains/"><u>Optimize Entertainment with Plex: Top Prime Day Bargains</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/resolution-de-problemes-recuperer-les-elements-perdus-a-partir-de-lhistorique-des-fichiers-windows-n10/"><u>Résolution De Problèmes : Recuperer Les Éléments Perdus À Partir De L'historique Des Fichiers Windows N°10</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/solving-samsung-t7-drive-detection-issues-in-windows-10-a-step-by-step-guide/"><u>Solving Samsung T7 Drive Detection Issues in Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/step-by-step-process-for-restoring-files-on-your-transcend-memory-card/"><u>Step-by-Step Process for Restoring Files on Your Transcend Memory Card</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/1723262417565-unleash-unparalleled-computing-power-on-the-go-with-our-portable-server-4tb-ram-480tb-nvme-and-ampere-altra-cpu-packed-in-a-fly-away-kit/"><u>Unleash Unparalleled Computing Power On-The-Go With Our Portable Server: 4TB RAM, 480TB NVMe, and Ampere Altra CPU Packed in a Fly-Away Kit!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-compendium-of-video-camera-classifications/"><u>[Updated] Compendium of Video Camera Classifications</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-conjoin-video-streams-for-queue-curation-for-2024/"><u>[Updated] Conjoin Video Streams for Queue Curation for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/wdhdd/"><u>最善のセキュリティでWDの外部HDDに自動的にバックアップする方法</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-social-networking-facebook-twitter-instagram-and-youtube-explained/"><u>Navigating the Giants of Social Networking: Facebook, Twitter, Instagram and YouTube Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/precision-in-diagnosis-navigating-through-windows-error-messages-with-command-line-skills/"><u>Precision in Diagnosis: Navigating Through Windows Error Messages with Command Line Skills</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/resolve-undetected-secondary-storage-device-on-windows-10-six-effective-methods/"><u>Resolve Undetected Secondary Storage Device on Windows 10 - Six Effective Methods</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210717976-9781789048063-simply-be-more/"><u>Simply Be More | Free Book</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-seamless-transition-of-images-and-clips-from-iphones-to-computers/"><u>Step-by-Step Guide: Seamless Transition of Images & Clips From iPhones to Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-language-settings-add-and-switch-layouts-in-win-11-os/"><u>Streamlining Language Settings: Add & Switch Layouts in Win 11 OS</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/wiedererlangen-von-geloschten-wmv-videoinhalten-schnelle-und-einfache-wiederherstellungsmethode/"><u>Wiedererlangen Von Gelöschten WMV Videoinhalten - Schnelle Und Einfache Wiederherstellungsmethode</u></a></li>
 </ul></div>
 

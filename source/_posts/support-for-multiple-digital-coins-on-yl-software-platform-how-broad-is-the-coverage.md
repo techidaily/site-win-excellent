@@ -1,7 +1,7 @@
 ---
 title: Support for Multiple Digital Coins on YL Software Platform - How Broad Is the Coverage?
-date: 2025-01-22T23:02:07.820Z
-updated: 2025-01-26T21:07:20.031Z
+date: 2025-02-02T17:43:07.045Z
+updated: 2025-02-08T18:45:38.217Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,18 +56,20 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-obs-full-screen-fix-announced/"><u>[New] 2024 Approved Obs Full-Screen Fix Announced</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-step-by-step-instructions-for-incorporating-custom-gifs-and-icons-into-your-story-posts-on-instagram/"><u>[New] 2024 Approved Step-by-Step Instructions for Incorporating Custom GIFS & Icons Into Your Story Posts on Instagram</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1-restore-deleted-playstation-save-files-a-3-step-guide/"><u>1. Restore Deleted PlayStation Save Files: A 3-Step Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-6-plus-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/dissecting-uav-technology-operation-design-and-use/"><u>Dissecting UAV Technology Operation, Design, and Use</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-y100-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo Y100 5G Phones with/without a PC</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-top-3-affordable-switch-game-duplicates/"><u>In 2024, Top 3 Affordable Switch Game Duplicates</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/irrweg-zu-einer-unbekannten-seite-bei-der-verwendung-von-aomei-backupper-losungsansatze/"><u>Irrweg Zu Einer Unbekannten Seite Bei Der Verwendung Von AOMEI Backupper - Lösungsansätze</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1728471980243-pc/"><u>PC のリブート後、データが失われる問題 - 最終的な解決法</u></a></li>
-<li><a href="https://win11.techidaily.com/protect-excel-worksheets-from-changes-master-the-art-of-cell-lockdown-techniques/"><u>Protect Excel Worksheets From Changes - Master the Art of Cell Lockdown Techniques</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/the-best-8-iphone-text-message-recovery-tools-a-comprehensive-guide/"><u>The Best 8 iPhone Text Message Recovery Tools: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1728482729401-windows-10-os/"><u>Windows 10 OSをアップデートする前に知っておくべきポイント - 大事なチェックリスト</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/unaka-kasa-patha-sathaya-rapa-sa-gayab-ha-jata-ha-esadablya/"><u>उनके किस पाठ स्थायी रूप से गायब हो जाते हैं? - एसडब्ल्यू</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-android-technique-accessing-and-saving-twitter-videos/"><u>[New] 2024 Approved Android Technique Accessing and Saving Twitter Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-key-strategies-for-board-utilization-across-devices-in-zoom/"><u>[New] Key Strategies for Board Utilization Across Devices in Zoom</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-foundations-of-motion-design-fundamentals-for-2024/"><u>[Updated] Foundations of Motion Design Fundamentals for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-achieve-perfect-screen-captures-on-the-mi-11-lite/"><u>[Updated] In 2024, Achieve Perfect Screen Captures on the Mi 11 Lite</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/aomei-backupper-erfolgreiches-image-wiederherstellen-auf-alternativer-hardware-erklart/"><u>AOMEI Backupper: Erfolgreiches Image-Wiederherstellen Auf Alternativer Hardware Erklärt</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/comprehensive-tutorial-on-how-to-restore-pictures-using-your-sandisk-cf-storage-device/"><u>Comprehensive Tutorial on How to Restore Pictures Using Your SanDisk CF Storage Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ensuring-confidentiality-preventing-gpt-from-keeping-notes/"><u>Ensuring Confidentiality: Preventing GPT From Keeping Notes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exclusive-promotion-enter-our-contest-and-take-home-a-brand-new-apple-iphone-se-for-free/"><u>Exclusive Promotion - Enter Our Contest & Take Home a Brand New Apple iPhone SE for FREE!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/forgetting-passwords-fuels-growing-demand-for-biometric-security-solutions/"><u>Forgetting Passwords Fuels Growing Demand for Biometric Security Solutions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-instantaneous-srt-to-txt-change-a-step-by-step-process/"><u>In 2024, Instantaneous SRT to TXT Change A Step-by-Step Process</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/resolving-issues-with-dvd-drives-failing-to-detect-discs/"><u>Resolving Issues with DVD Drives Failing to Detect Discs</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/soluciones-para-error-de-pantalla-negra-en-windows-10-despues-del-inicio-de-sesion/"><u>Soluciones Para Error De Pantalla Negra en Windows 10 Después Del Inicio De SESIÓN</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/supporto-vendita-e-servizi-per-utenti-di-aomei-backupper/"><u>Supporto, Vendita E Servizi per Utenti Di AOMEI Backupper</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/vollstandiger-reset-fur-windows-7-verfahren-zur-loschung-von-datos-y-reinicio-de-sistema/"><u>Vollständiger Reset Für Windows 7 – Verfahren Zur Löschung Von Datos Y Reinicio De Sistema</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/windows-11-10-8-windows-7-transcend-elite/"><u>Windows 11, 10, 8, および Windows 7に対応した Transcend Eliteバックアップツールの利用方法 - 詳細なガイド</u></a></li>
 </ul></div>
 

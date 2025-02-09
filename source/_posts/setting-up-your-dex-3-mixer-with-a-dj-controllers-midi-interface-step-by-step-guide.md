@@ -1,7 +1,7 @@
 ---
 title: Setting Up Your DEX 3 Mixer with a DJ Controllers' MIDI Interface - Step-by-Step Guide
-date: 2025-01-21T23:53:57.665Z
-updated: 2025-01-26T17:03:17.041Z
+date: 2025-02-06T23:26:59.831Z
+updated: 2025-02-08T20:01:12.596Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We’ll continue to add support as new DJ controllers hit the streets, but as pr
 ##### Video: This Is How To Configure Your DJ Controller Audio Interface With PCDJ DEX 3.3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -49,24 +49,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/02/audioconfiguration-blog.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-elite-8-cameras-revolutionizing-online-broadcasts/"><u>[New] In 2024, Elite 8 Cameras Revolutionizing Online Broadcasts</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-balanced-hue-enhancer-suite/"><u>[Updated] In 2024, Balanced Hue Enhancer Suite</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1728491147212-windows-11-nvme-ssd/"><u>修正ガイド：Windows 11 で NVMe SSD の検出不具合を解消します</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/copier-un-disque-dur-ou-ssd-sous-windows-10-sans-avoir-a-reconfigurer/"><u>Copier Un Disque Dur Ou SSD Sous Windows 10 Sans Avoir À Reconfigurer</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/efficiently-sharing-your-images-across-various-pcs-con-aomei-image-deploy/"><u>Efficiently Sharing Your Images Across Various PCs Con AOMEI Image Deploy</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/guia-sencilla-para-recuperar-informacion-tras-la-restauracion-del-sistema-en-windows-1110-conocimientos-esenciales/"><u>Guía Sencilla Para Recuperar Información Tras La Restauración Del Sistema en Windows 11/10: Conocimientos Esenciales</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-on-iphone-15-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-xs-without-a-computer-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone XS without a computer?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-cost-effective-action-cameras-secure-your-selection-below-100/"><u>In 2024, Cost-Effective Action Cameras Secure Your Selection Below $100</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-in-depth-guide-to-the-best-photovideo-makers-with-harmonized-sounds/"><u>In 2024, In-Depth Guide to the Best Photo/Video Makers with Harmonized Sounds</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-system-prerequisites-for-running-big-sur-on-macs/"><u>In 2024, System Prerequisites for Running Big Sur on Macs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/movavi-jpg-ppm-0-krw-ppm-to-jpeg/"><u>Movavi의 인터넷에서 가장 빠르게 JPG 매개 된 PPM 변환: 비용 0 KRW 제공 - PPM to JPEG 컨버터</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/no-backup-no-problem-learn-here-for-free-restoring-deleted-items-in-windows-10/"><u>No Backup? No Problem! Learn Here for Free: Restoring Deleted Items in Windows 10</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/reviving-your-old-data-seamless-iphone-transfer-to-a-new-device-via-icloud-or-itunes/"><u>Reviving Your Old Data: Seamless iPhone Transfer to a New Device via iCloud or iTunes</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/step-by-step-tutorial-for-setting-up-bit-for-bit-duplication-of-files-between-hard-drives-in-windows-environments/"><u>Step-by-Step Tutorial for Setting Up Bit-for-Bit Duplication of Files Between Hard Drives in Windows Environments</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-computer-speakers-of-2024-affordable-choices-and-high-end-audio-experiences/"><u>Top Rated Computer Speakers of 2024: Affordable Choices and High-End Audio Experiences</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-fix-casting-issues-on-windows-10-devices/"><u>Troubleshooting Guide: How to Fix Casting Issues on Windows 10 Devices</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/tutorial-per-il-ripristino-di-dati-cancellati-su-partizioni-usb-metodi-efficaci/"><u>Tutorial per Il Ripristino Di Dati Cancellati Su Partizioni USB: Metodi Efficaci</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/ultimate-tutorial-setting-up-a-domain-controller-on-windows-server-2012/"><u>Ultimate Tutorial: Setting Up a Domain Controller on Windows Server 2012</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-everlasting-screenshot-functionality/"><u>[New] 2024 Approved Everlasting Screenshot Functionality</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unpacking-apps-the-az-screenshotter-approach-for-2024/"><u>[New] Unpacking Apps - The AZ Screenshotter Approach for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-ascent-of-jake-paul-in-online-video-fame/"><u>[Updated] In 2024, The Ascent of Jake Paul in Online Video Fame</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1-restore-image-library-in-windows-11-for-free-4-effective-methods/"><u>1. Restore Image Library in Windows 11 for Free: 4 Effective Methods</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-selecting-the-right-audio-for-your-unboxing-projects/"><u>2024 Approved Selecting the Right Audio for Your Unboxing Projects</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-streaming-stardom-and-salary-the-pewdiepie-profit-piece/"><u>2024 Approved Streaming Stardom and Salary – The PewDiePie Profit Piece</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/5-effective-methods-to-safeguard-your-data-and-files-in-windows-11/"><u>5 Effective Methods to Safeguard Your Data and Files in Windows 11</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/guide-to-attaching-a-usb-keyboardmouse-to-your-vm-via-vsphere-settings/"><u>Guide to Attaching a USB Keyboard/Mouse to Your VM via vSphere Settings</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-samsung-galaxy-a15-4g-easily-by-drfone-android/"><u>How To Unlock a Samsung Galaxy A15 4G Easily?</u></a></li>
+<li><a href="https://win-net.techidaily.com/is-it-wise-to-switch-to-windows-n-on-your-music-production-machine-read-why-not-traktor-presets-guide/"><u>Is It Wise to Switch to Windows N on Your Music Production Machine? Read Why Not! | Traktor Presets Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-fcpx-freebie-list-10-best-plugins-for-2024/"><u>New The Ultimate FCPX Freebie List 10 Best Plugins for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/sincronizzare-onedrive-in-solo-due-fasi-metodi-ottimali-e-pratici/"><u>Sincronizzare OneDrive in Solo Due Fasi: Metodi Ottimali E Pratici</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/tidak-sabar-akibat-google-map-dan-e-drive-pulih-dihilang-petunjuk-menjelaskan-mengapa-dan-cara-perbaikannya/"><u>Tidak Sabar Akibat Google Map Dan E Drive Pulih Dihilang, Petunjuk Menjelaskan Mengapa Dan Cara Perbaikannya</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/ultimate-guide-steps-to-reboot-your-iphone-and-recover-using-backup/"><u>Ultimate Guide: Steps to Reboot Your iPhone & Recover Using Backup</u></a></li>
 </ul></div>
 
