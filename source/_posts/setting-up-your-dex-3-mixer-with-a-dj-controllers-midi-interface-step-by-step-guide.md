@@ -1,7 +1,7 @@
 ---
 title: Setting Up Your DEX 3 Mixer with a DJ Controllers' MIDI Interface - Step-by-Step Guide
-date: 2025-02-06T23:26:59.831Z
-updated: 2025-02-08T20:01:12.596Z
+date: 2025-02-17T00:26:34.830Z
+updated: 2025-02-18T19:40:32.191Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We’ll continue to add support as new DJ controllers hit the streets, but as pr
 ##### Video: This Is How To Configure Your DJ Controller Audio Interface With PCDJ DEX 3.3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -49,19 +49,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/02/audioconfiguration-blog.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-everlasting-screenshot-functionality/"><u>[New] 2024 Approved Everlasting Screenshot Functionality</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-unpacking-apps-the-az-screenshotter-approach-for-2024/"><u>[New] Unpacking Apps - The AZ Screenshotter Approach for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-ascent-of-jake-paul-in-online-video-fame/"><u>[Updated] In 2024, The Ascent of Jake Paul in Online Video Fame</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1-restore-image-library-in-windows-11-for-free-4-effective-methods/"><u>1. Restore Image Library in Windows 11 for Free: 4 Effective Methods</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-selecting-the-right-audio-for-your-unboxing-projects/"><u>2024 Approved Selecting the Right Audio for Your Unboxing Projects</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-streaming-stardom-and-salary-the-pewdiepie-profit-piece/"><u>2024 Approved Streaming Stardom and Salary – The PewDiePie Profit Piece</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/5-effective-methods-to-safeguard-your-data-and-files-in-windows-11/"><u>5 Effective Methods to Safeguard Your Data and Files in Windows 11</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/guide-to-attaching-a-usb-keyboardmouse-to-your-vm-via-vsphere-settings/"><u>Guide to Attaching a USB Keyboard/Mouse to Your VM via vSphere Settings</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-samsung-galaxy-a15-4g-easily-by-drfone-android/"><u>How To Unlock a Samsung Galaxy A15 4G Easily?</u></a></li>
-<li><a href="https://win-net.techidaily.com/is-it-wise-to-switch-to-windows-n-on-your-music-production-machine-read-why-not-traktor-presets-guide/"><u>Is It Wise to Switch to Windows N on Your Music Production Machine? Read Why Not! | Traktor Presets Guide</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-fcpx-freebie-list-10-best-plugins-for-2024/"><u>New The Ultimate FCPX Freebie List 10 Best Plugins for 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/sincronizzare-onedrive-in-solo-due-fasi-metodi-ottimali-e-pratici/"><u>Sincronizzare OneDrive in Solo Due Fasi: Metodi Ottimali E Pratici</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/tidak-sabar-akibat-google-map-dan-e-drive-pulih-dihilang-petunjuk-menjelaskan-mengapa-dan-cara-perbaikannya/"><u>Tidak Sabar Akibat Google Map Dan E Drive Pulih Dihilang, Petunjuk Menjelaskan Mengapa Dan Cara Perbaikannya</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/ultimate-guide-steps-to-reboot-your-iphone-and-recover-using-backup/"><u>Ultimate Guide: Steps to Reboot Your iPhone & Recover Using Backup</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-streamline-your-viewing-turn-onoff-picture-in-picture-on-iphones/"><u>[Updated] 2024 Approved Streamline Your Viewing Turn On/Off Picture in Picture on iPhones</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-top-trending-images-tales-behind-the-graphics/"><u>[Updated] Top Trending Images Tales Behind the Graphics</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1-untuk-gratis-reset-dan-restorasi-file-mahu-di-usb-tegas-dengan-langkah-langkah-sederhana/"><u>1. Untuk Gratis: Reset Dan Restorasi File Mahu Di USB Tegas Dengan Langkah-Langkah Sederhana</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-comparative-analysis-of-fb-video-formats/"><u>2024 Approved Comparative Analysis of FB Video Formats</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/aomei-partition-assistant-support-and-guidance/"><u>AOMEI Partition Assistant Support & Guidance</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/boost-your-devices-lifespan-with-these-11-tips-for-preventing-iphoneipad-battery-drainage/"><u>Boost Your Device's Lifespan with These 11 Tips for Preventing iPhone/iPad Battery Drainage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-googles-advancements-palm-2-linguistic-powerhouse/"><u>Demystifying Google's Advancements: PaLM 2 Linguistic Powerhouse</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/how-to-fix-down-status-issues-with-the-reddit-mobile-and-pc-apps-across-various-platforms-including-windows-11/"><u>How to Fix 'Down' Status Issues with the Reddit Mobile & PC Apps Across Various Platforms Including Windows 11</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/how-to-roll-back-windows-updates-with-system-restore-for-windows-10-and-11-four-techniques/"><u>How to Roll Back Windows Updates with System Restore for Windows 10 and 11 (Four Techniques)</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/ssdos/"><u>SSDへのシステムOS転送・移行手順：完全ガイド</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-your-hyperx-cloud-alphas-silent-mic-effective-solutions/"><u>Troubleshoot and Fix Your HyperX Cloud Alpha's Silent Mic - Effective Solutions!</u></a></li>
+<li><a href="https://games-able.techidaily.com/weighing-up-early-access-games-value/"><u>Weighing Up Early Access Games' Value</u></a></li>
 </ul></div>
 

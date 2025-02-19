@@ -1,7 +1,7 @@
 ---
 title: Exploring the Features of PCDJ Dex 3 with a Comprehensive Browser Walkthrough – Preview Insight Video
-date: 2025-02-05T22:35:03.984Z
-updated: 2025-02-08T17:05:08.149Z
+date: 2025-02-11T22:42:02.180Z
+updated: 2025-02-18T16:51:13.826Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/e6c6b6e32249dbf76f20abd6c6055b57975d7da74
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DEX 3 is in the final stages of beta testing, and the excitement is building here at PCDJ HQ.
@@ -29,7 +29,7 @@ For the majority of the last 10 months our development team has basically lived 
 We collectively agree that DEX 3 will be PCDJ’s **best DJ software** for mixing _everything_ (**audio, music videos and karaoke**). As outlined in [**this**](https://tools.techidaily.com/pcdj/products/) previous DEX 3 browser blog post, the new browser has been a major focal point; it’s been completely redesigned to be more robust, responsive and cross-platform ready. One of our beta team members has been testing with 300,000+ tracks (audio, karaoke and video) and search and navigation remain just as fast as having only 3 tracks in the library. This can be attested to the new browser being a true database, unlike in previous PCDJ products. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **In this DEX 3 browser overview video I showcase a few of the new browser capabilities, including setting folders as favorites (nested groups), navigating using keyboard commands, what the new browser icons mean and sorting within the library:**
@@ -39,7 +39,7 @@ We collectively agree that DEX 3 will be PCDJ’s **best DJ software** for mixin
 #### **If you’d like to demo the existing PCDJ DEX 2 version (free upgrades will be included to DEX 3 for all DEX 2 owners!), you can download it [_HERE_](https://tools.techidaily.com/pcdj/products/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -61,18 +61,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/browserpreviewvideo3.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-make-a-mark-with-your-first-cool-mac-video-post-on-youtube/"><u>[Updated] Make a Mark with Your First Cool Mac Video Post on YouTube</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-ringtone-vox-transcription-device-iphone-for-2024/"><u>[Updated] Ringtone VOX Transcription Device (iPhone) for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-top-rated-hardware-review-essential-capture-cards-for-online-viewing/"><u>[Updated] Top-Rated Hardware Review Essential Capture Cards for Online Viewing</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/apple-id-verifizierung-fehlgeschlagen-identifizierung-des-unerkannten-fehlers-und-reparaturanleitung/"><u>Apple ID Verifizierung Fehlgeschlagen - Identifizierung Des Unerkannten Fehlers Und Reparaturanleitung</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/dateierneuerungen-im-sketchup-programm-detailliert-entschlusseln-und-wiederherstellen/"><u>Dateierneuerungen Im SketchUp-Programm Detailliert Entschlüsseln Und Wiederherstellen</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/download-free-heic-image-converter-supports-windows-11-10-8-and/"><u>Download Free HEIC Image Converter: Supports Windows 11, 10, 8 &</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/extend-the-battery-life-of-your-apple-watch-by-tweaking-these-8-settings-zdnet/"><u>Extend the Battery Life of Your Apple Watch by Tweaking These 8 Settings | ZDNet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-maximize-your-view-with-lg-27ud88-w-monitor/"><u>How to Maximize Your View with LG 27UD88-W Monitor</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/step-by-step-solutions-to-correct-a-damaged-mft-on-your-windows-pc/"><u>Step-by-Step Solutions to Correct a Damaged MFT on Your Windows PC</u></a></li>
-<li><a href="https://driver-download.techidaily.com/windows-compatible-amd-radeon-graphics-driver-downloads-available-now/"><u>Windows-Compatible AMD Radeon Graphics Driver Downloads Available Now</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/witnessing-chatgpts-influence-on-modern-industries/"><u>Witnessing ChatGPT's Influence on Modern Industries</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/zurucksetzen-von-windows-11-backups-nach-einem-systemabsturz-einfache-schritte-zum-recovery/"><u>Zurücksetzen Von Windows 11-Backups Nach Einem Systemabsturz: Einfache Schritte Zum Recovery</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/usbwindows-1011/"><u>ブータブルUSBをWindows 10/11で使用する際のトラブルシューティング手法</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-add-captions-to-youtube-videos/"><u>[Updated] In 2024, How To Add Captions to YouTube Videos</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/download-free-wonderfox-professional-dvd-ripper-and-video-converter-application/"><u>Download Free WonderFox: Professional DVD Ripper & Video Converter Application</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/easy-guide-on-free-mp4-to-ogv-conversion-techniques-online/"><u>Easy Guide on Free MP4 to OGV Conversion Techniques Online</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/easy-methods-reduce-length-of-your-sounds-a-step-by-step-guide/"><u>Easy Methods: Reduce Length of Your Sounds - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-cons-of-using-a-chatgpt-application-for-android-and-ios-users/"><u>Exploring the Cons of Using a ChatGPT Application for Android and iOS Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-canon-imageclass-mf4800-printer-up-and-running-drivers-available-for-download/"><u>Get Your Canon ImageCLASS MF4800 Printer Up and Running – Drivers Available for Download</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/guide-recording-dota-2-games-on-pc-two-top-strategies-explained/"><u>Guide: Recording Dota 2 Games on PC - Two Top Strategies Explained</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/how-to-find-and-watch-bafa-brothers-series-without-paying-a-penny/"><u>How to Find and Watch BaFa Brothers Series Without Paying a Penny?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-15-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 15 Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-viewing-icloud-saved-passwords-on-ios-devices-and-computers/"><u>Step-by-Step Tutorial: Viewing iCloud Saved Passwords on iOS Devices & Computers</u></a></li>
 </ul></div>
 

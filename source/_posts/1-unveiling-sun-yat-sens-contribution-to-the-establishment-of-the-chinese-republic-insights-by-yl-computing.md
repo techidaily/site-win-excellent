@@ -1,7 +1,7 @@
 ---
 title: 1. Unveiling Sun Yat-Sen's Contribution to the Establishment of the Chinese Republic - Insights by YL Computing
-date: 2025-02-04T16:55:13.957Z
-updated: 2025-02-08T20:21:37.383Z
+date: 2025-02-14T16:48:37.657Z
+updated: 2025-02-18T21:39:58.341Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,22 +56,19 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-perfecting-projects-a-deep-dive-into-youtube-studio-editor/"><u>[New] In 2024, Perfecting Projects A Deep Dive Into YouTube Studio Editor</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-satiating-the-social-hangry-with-hilarious-9gag-memes/"><u>[New] Satiating the Social Hangry With Hilarious 9GAG Memes</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-simplified-guide-efficient-screen-recording-for-dell-users/"><u>[New] Simplified Guide Efficient Screen Recording for Dell Users</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-sky-battle-drone-racing-fundamentals-and-top-5-fpv-titans/"><u>2024 Approved The Ultimate Sky Battle Drone Racing Fundamentals & Top 5 FPV Titans</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-samsung-galaxy-a14-4g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Samsung Galaxy A14 4G Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/aomei-backupper-erfolgreiches-image-wiederherstellen-auf-alternativer-hardware-erklart/"><u>AOMEI Backupper: Erfolgreiches Image-Wiederherstellen Auf Alternativer Hardware Erklärt</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/at-ces-how-hps-new-spectre-laptops-boost-ai-capabilities-with-stunning-peripherals/"><u>At CES: How HP's New Spectre Laptops Boost AI Capabilities with Stunning Peripherals</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/comprehensive-tutorial-on-how-to-restore-pictures-using-your-sandisk-cf-storage-device/"><u>Comprehensive Tutorial on How to Restore Pictures Using Your SanDisk CF Storage Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/ephemeral-online-adventures-should-we-ponder-their-legacy/"><u>Ephemeral Online Adventures – Should We Ponder Their Legacy?</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/guide-complet-pour-transferer-du-contenu-dun-hdd-a-un-ssd-en-utilisant-le-logiciel-aomei-backupper/"><u>Guide Complet Pour Transférer Du Contenu D'un HDD À Un SSD en Utilisant Le Logiciel AOMEI Backupper.</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/high-quality-dvd-conversion-transforming-dvds-into-wmv-format-using-windows/"><u>High-Quality DVD Conversion: Transforming DVDs Into WMV Format Using Windows</u></a></li>
-<li><a href="https://win-guides.techidaily.com/how-to-securely-back-up-windows-os-essential-techniques-for-effective-data-preservation/"><u>How to Securely Back Up Windows OS: Essential Techniques for Effective Data Preservation</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/resolution-des-problemes-douverture-de-fichiers-jpeg-sur-windows-11/"><u>Résolution Des Problèmes D'Ouverture De Fichiers JPEG Sur Windows 11</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/resolving-issues-with-dvd-drives-failing-to-detect-discs/"><u>Resolving Issues with DVD Drives Failing to Detect Discs</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/soluciones-para-error-de-pantalla-negra-en-windows-10-despues-del-inicio-de-sesion/"><u>Soluciones Para Error De Pantalla Negra en Windows 10 Después Del Inicio De SESIÓN</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/vollstandiger-reset-fur-windows-7-verfahren-zur-loschung-von-datos-y-reinicio-de-sistema/"><u>Vollständiger Reset Für Windows 7 – Verfahren Zur Löschung Von Datos Y Reinicio De Sistema</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/windows-11-10-8-windows-7-transcend-elite/"><u>Windows 11, 10, 8, および Windows 7に対応した Transcend Eliteバックアップツールの利用方法 - 詳細なガイド</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-improve-video-comprehensibility-with-effective-use-of-chapters-in-youtube/"><u>[New] Improve Video Comprehensibility with Effective Use of Chapters in YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-instagrams-unique-video-display-a-deep-dive/"><u>[New] Instagram’s Unique Video Display A Deep Dive</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/choosing-the-clearer-display-ultrawide-vs-uhd-4k-explored-for-2024/"><u>Choosing the Clearer Display UltraWide vs UHD 4K Explored for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comprehensive-guide-to-converting-webm-files-into-png-format-both-offline-and-online/"><u>Comprehensive Guide to Converting WebM Files Into PNG Format Both Offline and Online</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/download-the-latest-karaoki-beta-release-june-5th-launch-on-pc-dj-platforms/"><u>Download the Latest Karaoki Beta Release: June 5Th Launch on PC DJ Platforms</u></a></li>
+<li><a href="https://fox-access.techidaily.com/economical-drones-reviewed-best-under-a-hundred-bucks/"><u>Economical Drones Reviewed Best Under a Hundred Bucks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-nokia-g42-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Nokia G42 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-digital-archivists-playbook-preserving-real-time-videos/"><u>In 2024, The Digital Archivist's Playbook Preserving Real-Time Videos</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/mastering-hardware-integration-ensuring-seamless-sound-card-functionality-on-your-computer-expertise-from-yl-software/"><u>Mastering Hardware Integration: Ensuring Seamless Sound Card Functionality on Your Computer – Expertise From YL Software</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/need-the-newest-system-patches-find-out-which-ones-are-essential-for-your-device-with-yl-software-updates/"><u>Need the Newest System Patches? Find Out Which Ones Are Essential for Your Device with YL Software Updates</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/premium-hd-meadow-wallpaper-collection-digital-backdrops-and-imagery-expertly-curated-by-yl-software-solutions/"><u>Premium HD Meadow Wallpaper Collection, Digital Backdrops and Imagery – Expertly Curated by YL Software Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-nubia-z50s-pro-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Nubia Z50S Pro Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/unlock-new-hits-with-party-tymes-karaoke-service-latest-tracks-released-on-111818/"><u>Unlock New Hits with Party Tyme's Karaoke Service: Latest Tracks Released on 11/18/18</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-in-depth-analysis-microsoft-surface-pro-8-the-ultimate-device-for-professionals/"><u>ZDNet's In-Depth Analysis: Microsoft Surface Pro 8 - The Ultimate Device for Professionals</u></a></li>
 </ul></div>
 

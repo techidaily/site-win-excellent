@@ -1,7 +1,7 @@
 ---
 title: Discover Advanced Karaoke Control with PCDJ's New Feature in DEX Software (Version 3.11.0.1)
-date: 2025-02-05T21:06:30.528Z
-updated: 2025-02-09T02:06:47.627Z
+date: 2025-02-16T18:07:17.800Z
+updated: 2025-02-19T03:25:36.126Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ One of the new karaoke features found in [DEX 3 version 3.11.0.1](https://tools.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How it Works
@@ -33,7 +33,7 @@ From a list or from search results, drag-and-drop a karaoke track into the singe
 [![Pre adjust key on karaoke songs](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/key-setting.jpg?fit=300%2C300&ssl=1 "Pre adjust key on karaoke songs")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/key-setting.jpg?fit=613%2C613&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You will then see the key adjust number in rotation next to the track’s title. (IE: If you adjust three 1/2 semitone steps you’d see ‘+1.50’ next to the song title in the rotation list). Use the ‘**Load Singer**‘ button to load and play the top karaoke track from the singer rotation list and the key adjustment will be applied in the deck/player automatically.
@@ -45,7 +45,7 @@ With this new addition there’s no question that [DEX 3](https://tools.techidai
 _Have questions about the karaoke features and key control settings found in DEX 3.11? Please leave them in the comments section below and someone will respond promptly!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,18 +67,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/07/cover-pre-adjust-key.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-harmonizing-hearts-and-hertz-music-on-the-vimeo-scene/"><u>[New] 2024 Approved Harmonizing Hearts and Hertz Music on the Vimeo Scene</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-streamlining-your-archive-converting-snapchats-ephemeral-snaps-for-2024/"><u>[New] Streamlining Your Archive Converting Snapchat's Ephemeral Snaps for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-share-across-platforms-instagram-meets-facebook/"><u>[Updated] 2024 Approved Share Across Platforms Instagram Meets Facebook</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-master-artistic-freedom-with-the-top-10-mac-drawings-for-2024/"><u>[Updated] Master Artistic Freedom with the Top 10 Mac Drawings for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-value-dome-cams-affordable-360-filmmaking-tools/"><u>[Updated] Top Value Dome Cams Affordable 360° Filmmaking Tools</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1728504511522-windows-101110/"><u>【高性能】Windows 10和11下的文件恢复技巧：10种方法</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/cancellato-un-messaggio-e-perduto-per-sempre/"><u>Cancellato Un Messaggio, È Perduto per Sempre?</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/guia-paso-a-paso-rescatando-datos-borrados-en-windows-server-2012-r2/"><u>Guía Paso a Paso: Rescatando Datos Borrados en Windows Server 2012 R2</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-8-enhanced-peripherals-for-a-richer-metaverse-experience/"><u>In 2024, Top 8 Enhanced Peripherals for a Richer Metaverse Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/lucidsound-ls30-mic-issue-resolved-expert-tips-for-repair/"><u>LucidSound LS30 Mic Issue Resolved - Expert Tips for Repair</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mmf-naar-wav-verwerken-zonder-enige-kosten-een-gunstig-leidraad-voor-online-gratis-converteertoolen/"><u>MMF Naar WAV Verwerken Zonder Enige Kosten: Een Gunstig Leidraad Voor Online Gratis Converteertoolen</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/resoudre-rapidement-le-probleme-winloadefi-manquant-apres-un-clonage-de-disque/"><u>Résoudre Rapidement Le Problème 'winload.efi Manquant' Après Un Clonage De Disque</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-network-sets-higher-barrier-against-fake-news-truths/"><u>Social Network Sets Higher Barrier Against Fake News Truths</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-gourmet-giants-culinary-stars-you-must-subscribe-to-for-2024/"><u>[New] Gourmet Giants Culinary Stars You Must Subscribe To for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-loop-and-love-effortless-youtube-video-views-on-your-tv-screen/"><u>[Updated] In 2024, Loop & Love Effortless YouTube Video Views on Your TV Screen</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-harnessing-hdr-in-post-top-4-youtube-guides-with-complimentary-green-screen-effects/"><u>2024 Approved Harnessing HDR in Post Top 4 YouTube Guides with Complimentary Green Screen Effects</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/configuring-your-vmware-infrastructure-a-guide-to-setting-up-resource-pools-with-vcenter/"><u>Configuring Your VMware Infrastructure: A Guide to Setting Up Resource Pools with vCenter</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/discover-the-ancient-innovators-of-paper-and-press-in-china-with-expertise-by-yl-software/"><u>Discover the Ancient Innovators of Paper and Press in China with Expertise by YL Software</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/do-i-need-to-frequently-refresh-my-graphic-cards-drivers-insights-from-yl-computing/"><u>Do I Need To Frequently Refresh My Graphic Card's Drivers? - Insights From YL Computing</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/effective-programs-for-detecting-and-troubleshooting-computer-hardware-failures/"><u>Effective Programs for Detecting and Troubleshooting Computer Hardware Failures</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/effective-techniques-for-transferring-data-moving-files-between-directories-on-a-windows-pc-insights-from-yl-computing/"><u>Effective Techniques for Transferring Data: Moving Files Between Directories on a Windows PC - Insights From YL Computing</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/exploring-advanced-dj-techniques-with-dex3-by-deckadance-spotlight-on-track-limiting-functionality/"><u>Exploring Advanced DJ Techniques with DEX3 by Deckadance – Spotlight on Track Limiting Functionality</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/how-to-convert-hevch265-video-files-to-h2/"><u>How to Convert HEVC/H.265 Video Files to H.2</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-oppo-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Oppo Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-cutzone-pro-review-unveiled-for-2024/"><u>In-Depth Analysis CutZone Pro Review Unveiled for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/master-your-sets-with-dex-3-dj-gear-a-guide-for-aspiring-featured-players-in-the-djsphere/"><u>Master Your Sets with DEX 3 DJ Gear: A Guide for Aspiring Featured Players in the Djsphere</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/secure-your-spot-for-karaoke-summit-2015-premier-competitive-dj-event-alerts/"><u>Secure Your Spot for Karaoke Summit 2015 | Premier Competitive DJ Event Alerts!</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/solving-the-issue-of-inaccurate-color-outputs-on-your-scanner-expert-advice-from-yl-software/"><u>Solving the Issue of Inaccurate Color Outputs on Your Scanner - Expert Advice From YL Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-the-ultimate-gadget-guide/"><u>Tom's Tech Reviews: The Ultimate Gadget Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-list-of-the-11-premier-video-game-recorders-for-windows-users/"><u>Ultimate List of the 11 Premier Video Game Recorders for Windows Users</u></a></li>
 </ul></div>
 
