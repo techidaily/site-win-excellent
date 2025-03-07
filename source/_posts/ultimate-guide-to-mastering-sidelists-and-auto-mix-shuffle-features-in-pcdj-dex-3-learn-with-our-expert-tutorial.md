@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Mastering Sidelists & Auto Mix Shuffle Features in PCDJ DEX 3 – Learn with Our Expert Tutorial
-date: 2025-02-17T04:08:38.300Z
-updated: 2025-02-18T23:38:32.556Z
+date: 2025-03-06T17:35:55.542Z
+updated: 2025-03-07T16:56:58.943Z
 tags:
   - product
 categories:
@@ -20,10 +20,6 @@ Automix (_or Auto play)_ is now easier than ever to use, as it works directly fr
 Being able to see your search results, or tracks in any opened directory or user list, while also being able to see the sidelist at the same time is probably one of the most requested changes DEX 2 customers wanted to see in DEX 3\. It’s here, and here’s how it works!
 
 ##### Using the Sidelist and Automix-Shuffle in PCDJ DEX 3 DJ Mixing Software
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -44,24 +40,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/coverimage-sidelist-automi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-essential-recorder-tools-the-8-best-lists/"><u>[New] In 2024, Essential Recorder Tools The 8 Best Lists</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-ultimate-8-filtration-options-for-professional-streams-for-2024/"><u>[Updated] Ultimate 8 Filtration Options for Professional Streams for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unraveling-the-economic-power-of-mr-beast/"><u>[Updated] Unraveling the Economic Power of Mr. Beast</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-tech-tip-saving-google-meets-on-phone-devices/"><u>2024 Approved Tech Tip Saving Google Meets on Phone Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-filmmakers-guide-to-visual-impact-mastering-these-essential-grading-styles-for-2024/"><u>A Filmmaker’s Guide to Visual Impact Mastering These Essential Grading Styles for 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/action-packed-guide-how-to-easily-take-a-website-screenshot/"><u>Action-Packed Guide: How To Easily Take a Website Screenshot</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/action-software-licenses-purchase-mirillis-official-e-commerce/"><u>Action! Software Licenses Purchase - Mirillis Official E-Commerce</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/bridging-caption-gaps-perfecting-word-placement-on-windowsmac-photos/"><u>Bridging Caption Gaps Perfecting Word Placement on Windows/Mac Photos</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/critical-timeline-for-microsoft-confronting-the-imminent-crisis-in-windows-10-development-with-only-a-year-to-go-zdnet-insights/"><u>Critical Timeline for Microsoft: Confronting the Imminent Crisis in Windows 10 Development With Only a Year to Go | ZDNET Insights</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/express-windows-file-audit-procedure-for-2024/"><u>Express Windows File Audit Procedure for 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/get-your-hands-on-the-newest-release-of-action-now/"><u>Get Your Hands on the Newest Release of 'Action!' Now</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-150-2023-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Nokia 150 (2023) to New Android? | Dr.fone</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/is-the-reduction-of-job-openings-at-leading-tech-giants-a-cause-for-alarm-unpacking-industry-trends-on-zdnet/"><u>Is the Reduction of Job Openings at Leading Tech Giants a Cause for Alarm? Unpacking Industry Trends on ZDNET</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/major-privacy-and-security-updates-coming-after-harsh-reviews-microsofts-response-detailed-by-zdnet/"><u>Major Privacy & Security Updates Coming After Harsh Reviews: Microsoft's Response Detailed by ZDNet</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/mastering-the-art-of-selective-screen-captures-a-comprehensive-tutorial/"><u>Mastering the Art of Selective Screen Captures: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-transforming-mkv-files-into-flv-format-using-windows-10/"><u>Step-by-Step Guide: Transforming MKV Files Into FLV Format Using Windows 10</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/step-by-step-tutorial-downloading-and-saving-bluprint-classes-in-various-video-formats-across-macos-and-windows/"><u>Step-by-Step Tutorial: Downloading & Saving Bluprint Classes in Various Video Formats Across macOS and Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tactical-approaches-to-overcoming-disabled-errors-in-ps-execution/"><u>Tactical Approaches to Overcoming 'Disabled' Errors in PS Execution</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/unveiling-the-ordinary-microsofts-smart-approach-to-normalizing-ai-as-solo-interaction-partners-discover-on-zdnet/"><u>Unveiling the Ordinary: Microsoft's Smart Approach to Normalizing AI as Solo Interaction Partners | Discover on ZDNET</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/which-means-issue-resolved-desktop-files-disappeared-after-reboot/"><u>[已解決] 重啟後桌面檔案被刪除, Which Means Issue Resolved: Desktop Files Disappeared After Reboot.</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-3-ingenious-strategies-to-harvest-twitter-gifs/"><u>[New] 2024 Approved 3 Ingenious Strategies to Harvest Twitter GIFs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/levate-your-channels-image-for-boosted-youtube-subscriptions/"><u>[New] Elevate Your Channels' Image for Boosted YouTube Subscriptions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-navigating-your-way-through-screen-recording-on-mac-os-x/"><u>[New] Navigating Your Way Through Screen Recording on Mac OS X</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-how-to-manual-for-time-stamped-videos-on-youtubes/"><u>[New] The How-To Manual for Time-Stamped Videos on YouTubes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-stabilizing-pixels-the-truth-behind-photoshop-shake/"><u>2024 Approved Stabilizing Pixels The Truth Behind Photoshop Shake</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/complete-guide-to-safely-wiping-your-hard-drive-with-the-gutmann-method/"><u>Complete Guide to Safely Wiping Your Hard Drive with the Gutmann Method</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/guia-practica-y-facil-como-realizar-copias-de-seguridad-eficientes-de-windows-server-en-tu-equipo-nas-de-qnap/"><u>Guía Práctica Y Fácil: Cómo Realizar Copias De Seguridad Eficientes De Windows Server en Tu Equipo NAS De QNAP</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/how-to-convert-an-old-computer-with-ide-hard-drive-into-modern-speed-using-sata-ssd-compatible-with-windows-10-11-8-and-3-boot-ready-tutorial/"><u>How to Convert an Old Computer with IDE Hard Drive Into Modern Speed Using SATA SSD Compatible with Windows 10, 11, 8, and 3 (Boot-Ready Tutorial)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-realme-gt-5-pro-to-mac-drfone-by-drfone-android/"><u>How to Mirror Realme GT 5 Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-apple-iphone-se-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Leave a Life360 Group On Apple iPhone SE Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/places-to-find-background-music-for-videos-for-2024/"><u>Places to Find Background Music for Videos for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/troubleshooting-corrupted-mov-mp4-formats-how-to/"><u>Troubleshooting Corrupted MOV, MP4 Formats: How-To</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/troubleshooting-ios-1ntegration-woes-on-your-iphone-discover-4-reliable-fixes-for-seamless-os-update/"><u>Troubleshooting iOS 1Ntegration Woes on Your iPhone - Discover 4 Reliable Fixes for Seamless OS Update</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unleash-the-power-of-time-with-apple-watch-series-10-secure-yours-at-just-99-through-preorders-at-best-buy-your-step-by-step-guide-techsavvy/"><u>Unleash the Power of Time with Apple Watch Series 10: Secure Yours at Just $99 Through Preorders at Best Buy – Your Step-by-Step Guide | TechSavvy</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/windows-11-missing-files-not-displayed-how-to-recover-them-fix/"><u>Windows 11 Missing Files Not Displayed - How To Recover Them [Fix]</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1728468215650-windows-11/"><u>Windows 11系統備份與恢復方法：一步一步操作指南</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1728495483899-windows-7/"><u>Windows 7での復元用イメージファイル作成と完全データ保護方法</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1728467602248-windows/"><u>Windows上网络克隆多台电脑的最有效技巧</u></a></li>
 </ul></div>
 
